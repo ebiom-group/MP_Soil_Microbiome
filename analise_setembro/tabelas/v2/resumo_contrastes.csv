@@ -1,0 +1,44 @@
+id,contraste,n_A,n_B,R2,p_perm,p_disp,g_Shannon,pct_Riqueza,n_generos_q05,n_generos_testados
+C1,Plastisfera × solo | EUA Knoxville-TN,20,15,0.445,0.001,0.062,-7.982,-68.792,362,501
+C1,Plastisfera × solo | EUA MountVernon-WA,20,15,0.552,0.001,0.0,-5.764,-60.444,376,484
+C1,Plastisfera × solo | PBSA DE N-,5,5,0.57,0.011,0.076,-2.293,-38.286,147,396
+C1,Plastisfera × solo | PBSA DE N+,5,5,0.326,0.031,0.602,-2.842,-86.159,47,217
+C1,Plastisfera × solo | Alpes-CH,11,7,0.107,0.094,0.006,-0.125,3.148,0,216
+C1,Plastisfera × solo | Artico-GL,8,10,0.051,0.388,0.328,-0.265,-4.261,0,199
+C2,Plastisfera PE × biodegradáveis | Knoxville-TN,4,16,0.25,0.001,0.637,-0.11,44.552,142,385
+C2,Plastisfera PE × biodegradáveis | MountVernon-WA,4,16,0.148,0.001,0.299,1.923,43.416,25,396
+C3,Enriquecimento lab × plastisfera campo (Knoxville),46,16,0.198,0.001,0.0,-2.592,-78.496,131,187
+C3,Enriquecimento 6 × 3 semanas,24,22,0.013,0.881,0.416,0.297,-1.762,1,99
+C4,Biodegradáveis × sem mulch | Knoxville-TN,48,12,0.026,0.05,0.003,0.035,-1.206,0,488
+C4,PE × sem mulch | Knoxville-TN,12,12,0.06,0.067,0.149,-0.258,-6.977,0,475
+C4,Papel × sem mulch | Knoxville-TN,12,12,0.149,0.001,0.453,-0.459,-5.742,24,473
+C4,Biodegradáveis × sem mulch | MountVernon-WA,48,12,0.032,0.006,0.007,-0.306,-5.779,4,476
+C4,PE × sem mulch | MountVernon-WA,12,12,0.09,0.005,0.043,-0.561,-5.114,0,473
+C4,Papel × sem mulch | MountVernon-WA,12,12,0.053,0.069,0.273,-0.629,-8.552,0,480
+C5,PLA × controle | solo (microcosmo),8,8,0.85,0.001,0.001,-12.435,-67.642,167,306
+C5,PET × controle | solo (microcosmo),8,8,0.189,0.001,0.059,-1.15,-11.761,15,341
+C5,Glifosato | Solo,12,12,0.02,0.111,0.133,-0.09,-2.759,0,324
+C5,PLA × controle | Intestino E. crypticus,8,8,0.395,0.001,0.001,0.449,32.225,48,209
+C5,PET × controle | Intestino E. crypticus,8,8,0.079,0.267,0.012,0.13,16.632,0,211
+C5,Glifosato | Intestino,12,12,0.044,0.13,0.273,-0.547,-6.863,0,237
+C6,Milho PE × sem filme | Solo,6,6,0.303,0.002,0.749,1.722,1.274,84,444
+C6,Milho PBAT × sem filme | Solo,6,6,0.297,0.002,0.15,1.55,1.816,91,440
+C6,Milho PE × sem filme | Rizosfera,6,6,0.178,0.002,0.037,0.193,2.172,0,443
+C6,Milho PBAT × sem filme | Rizosfera,6,6,0.177,0.002,0.423,1.904,4.574,0,443
+C6,Duna: sacola × controle | rizosfera Thinopyrum junceum,10,5,0.124,0.006,0.462,1.979,15.969,0,555
+C6,Duna: sacola × controle | rizosfera Sporobolus pumilus,5,5,0.118,0.307,0.754,0.343,1.917,0,567
+C7,PE fotoenvelhecido 5 dias × virgem,24,24,0.047,0.028,0.293,-0.765,-6.397,0,726
+C7,PE fotoenvelhecido 10 dias × virgem,24,24,0.016,0.729,0.187,-0.018,6.092,0,716
+C7,PE virgem × controle (PRJNA1021161),24,12,0.019,0.873,0.814,0.152,-1.627,0,708
+C7,PLA virgem × controle (PRJNA1021161),24,12,0.016,0.982,0.84,0.051,4.495,0,710
+C8,PBSA × controle no solo | N-,5,5,0.323,0.011,0.009,-0.641,-1.685,0,345
+C8,PBSA × controle no solo | N+,5,5,0.593,0.011,0.009,-3.347,-63.602,99,351
+C8,N+ × N- na plastisfera do PBSA,5,5,0.593,0.011,0.347,-17.586,-90.741,65,266
+C9,Biodegradável × não biodeg. | PRJEB59875 | Rhizosphere,10,5,0.103,0.045,0.54,0.385,-1.083,0,545
+C9,Biodegradável × não biodeg. | PRJNA1021161 | Bulk,24,72,0.014,0.15,0.648,0.185,7.014,0,710
+C9,Biodegradável × não biodeg. | PRJNA1054347 | Bulk,6,6,0.168,0.002,0.423,0.142,0.535,0,444
+C9,Biodegradável × não biodeg. | PRJNA1054347 | Rhizosphere,6,6,0.109,0.141,0.037,0.466,2.351,0,436
+C9,Biodegradável × não biodeg. | PRJNA1155845 | Bulk,8,8,0.866,0.001,0.001,-23.194,-63.329,156,292
+C9,Biodegradável × não biodeg. | PRJNA564156 | Bulk,96,24,0.005,0.674,0.546,0.204,1.589,0,494
+C9,Biodegradável × não biodeg. | PRJNA630025 | Bulk,13,4,0.082,0.235,0.113,-0.191,5.913,0,258
+C9,Biodegradável × não biodeg. | PRJNA932786 | Bulk,4,4,0.134,0.748,0.386,-0.013,-3.33,0,547

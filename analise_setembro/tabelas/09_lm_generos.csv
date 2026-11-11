@@ -1,0 +1,1061 @@
+LABEL,nivel,coef,EP,t,p,q,Phylum,Family
+0319-6G20,Biodegradável,0.1031,0.2151,0.4793,0.632,0.8033,Bdellovibrionota,0319-6G20
+0319-7L14,Biodegradável,-0.104,0.1457,-0.7137,0.4759,0.6928,Actinobacteriota,0319-7L14
+11-24,Biodegradável,-0.4939,0.1529,-3.2304,0.0013,0.065,Acidobacteriota,11-24
+27F-1492R,Biodegradável,0.4196,0.1674,2.5075,0.0126,0.1391,Myxococcota,27F-1492R
+37-13,Biodegradável,0.0017,0.1754,0.0096,0.9923,0.9971,Bacteroidota,37-13
+67-14,Biodegradável,-0.1795,0.144,-1.2464,0.2134,0.4588,Actinobacteriota,67-14
+A0839,Biodegradável,0.1676,0.2242,0.7476,0.4552,0.6814,Proteobacteria,A0839
+A21b,Biodegradável,0.1152,0.1541,0.7474,0.4553,0.6814,Proteobacteria,A21b
+A4b,Biodegradável,-0.4519,0.1633,-2.7675,0.0059,0.1085,Chloroflexi,A4b
+AD3,Biodegradável,0.2136,0.152,1.4054,0.1608,0.4099,Chloroflexi,AD3
+ADurb.Bin063-1,Biodegradável,0.0935,0.2095,0.4463,0.6556,0.8062,Verrucomicrobiota,Pedosphaeraceae
+AKAU4049,Biodegradável,-0.2036,0.1847,-1.1024,0.271,0.5169,Gemmatimonadota,AKAU4049
+AKIW781,Biodegradável,-0.2292,0.1349,-1.6989,0.0902,0.3446,Chloroflexi,AKIW781
+AKYG1722,Biodegradável,-0.2395,0.1481,-1.6167,0.1068,0.3639,Chloroflexi,AKYG1722
+AKYG587,Biodegradável,-0.2008,0.1986,-1.0112,0.3126,0.5531,Planctomycetota,Phycisphaeraceae
+AKYH767,Biodegradável,0.1904,0.1933,0.9853,0.3251,0.5577,Bacteroidota,AKYH767
+AT-s3-28,Biodegradável,-0.2661,0.1962,-1.3561,0.1759,0.42,Acidobacteriota,AT-s3-28
+Abditibacterium,Biodegradável,0.0716,0.2369,0.3023,0.7626,0.871,Abditibacteriota,Abditibacteriaceae
+Acetobacter,Biodegradável,0.1689,0.1743,0.969,0.3332,0.566,Proteobacteria,Acetobacteraceae
+Acetobacteraceae (NC),Biodegradável,0.0583,0.141,0.4138,0.6793,0.8157,Proteobacteria,Acetobacteraceae
+Acidibacter,Biodegradável,-0.3301,0.1074,-3.0726,0.0023,0.0888,Proteobacteria,Unknown_Family
+Acidimicrobiia (NC),Biodegradável,-0.391,0.1474,-2.6534,0.0083,0.1275,Actinobacteriota,
+Acidipila-Silvibacterium,Biodegradável,0.4711,0.1914,2.4606,0.0143,0.1431,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Acidobacteriaceae_(Subgroup_1) (NC),Biodegradável,0.4254,0.1912,2.2248,0.0267,0.2036,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Acidobacteriae (NC),Biodegradável,-0.2073,0.2068,-1.0022,0.3169,0.5531,Acidobacteriota,
+Acidobacteriales (NC),Biodegradável,0.3785,0.1992,1.8999,0.0582,0.2781,Acidobacteriota,
+Acidobacteriota (NC),Biodegradável,-0.229,0.1775,-1.2902,0.1978,0.4538,Acidobacteriota,
+Acidothermus,Biodegradável,0.1282,0.236,0.5434,0.5872,0.7723,Actinobacteriota,Acidothermaceae
+Acinetobacter,Biodegradável,0.076,0.1598,0.4757,0.6346,0.8033,Proteobacteria,Moraxellaceae
+Actinobacteria (NC),Biodegradável,0.1267,0.2529,0.501,0.6167,0.7913,Actinobacteriota,
+Actinobacteriota (NC),Biodegradável,-0.2907,0.1824,-1.5936,0.1119,0.3693,Actinobacteriota,
+Actinocorallia,Biodegradável,-0.4457,0.1596,-2.793,0.0055,0.105,Actinobacteriota,Thermomonosporaceae
+Actinomarinales (NC),Biodegradável,0.2196,0.1441,1.5244,0.1283,0.3953,Actinobacteriota,
+Actinospica,Biodegradável,0.1403,0.2245,0.6247,0.5326,0.7208,Actinobacteriota,Actinospicaceae
+Adhaeribacter,Biodegradável,-0.7491,0.2046,-3.6611,0.0003,0.0218,Bacteroidota,Hymenobacteraceae
+Aeromicrobium,Biodegradável,-0.4158,0.2208,-1.8833,0.0605,0.2836,Actinobacteriota,Nocardioidaceae
+Agathobacter,Biodegradável,0.1508,0.0979,1.5393,0.1246,0.3908,Firmicutes,Lachnospiraceae
+Agromyces,Biodegradável,-0.0901,0.2057,-0.4379,0.6617,0.8094,Actinobacteriota,Microbacteriaceae
+Ahniella,Biodegradável,-0.1092,0.2113,-0.517,0.6055,0.785,Proteobacteria,Rhodanobacteraceae
+Akkermansia,Biodegradável,0.1598,0.0733,2.1792,0.03,0.2089,Verrucomicrobiota,Akkermansiaceae
+Alcaligenaceae (NC),Biodegradável,0.6574,0.2356,2.79,0.0055,0.105,Proteobacteria,Alcaligenaceae
+Alistipes,Biodegradável,0.1754,0.0672,2.6114,0.0094,0.1289,Bacteroidota,Rikenellaceae
+Alloprevotella,Biodegradável,0.1286,0.0732,1.7561,0.0799,0.3161,Bacteroidota,Prevotellaceae
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,Biodegradável,0.0002,0.197,0.001,0.9992,0.9992,Proteobacteria,Rhizobiaceae
+Alphaproteobacteria (NC),Biodegradável,0.1179,0.1329,0.8872,0.3756,0.6125,Proteobacteria,
+Alsobacter,Biodegradável,-0.0833,0.2107,-0.3952,0.6929,0.8234,Proteobacteria,Rhizobiales_Incertae_Sedis
+Altererythrobacter,Biodegradável,-0.6115,0.217,-2.8185,0.0051,0.105,Proteobacteria,Sphingomonadaceae
+Amaricoccus,Biodegradável,-0.0729,0.1569,-0.4647,0.6424,0.805,Proteobacteria,Rhodobacteraceae
+Amb-16S-1323,Biodegradável,0.225,0.1173,1.9172,0.056,0.2774,Proteobacteria,Amb-16S-1323
+Amycolatopsis,Biodegradável,0.1046,0.2128,0.4914,0.6234,0.7943,Actinobacteriota,Pseudonocardiaceae
+Anaerolineaceae (NC),Biodegradável,-0.0725,0.168,-0.4316,0.6663,0.8094,Chloroflexi,Anaerolineaceae
+Anaerolineae,Biodegradável,0.0133,0.1052,0.1269,0.8991,0.9532,Chloroflexi,Anaerolineae
+Anaerolineae (NC),Biodegradável,-0.2408,0.1637,-1.4709,0.1422,0.4088,Chloroflexi,
+Anaeromyxobacter,Biodegradável,0.3681,0.2138,1.722,0.0859,0.3349,Myxococcota,Anaeromyxobacteraceae
+Angustibacter,Biodegradável,0.0343,0.188,0.1822,0.8555,0.933,Actinobacteriota,Kineosporiaceae
+Aquicella,Biodegradável,0.5344,0.221,2.4175,0.0161,0.1526,Proteobacteria,Diplorickettsiaceae
+Aquisphaera,Biodegradável,0.1453,0.2584,0.5623,0.5742,0.7664,Planctomycetota,Isosphaeraceae
+Arenimonas,Biodegradável,-0.1282,0.1989,-0.6445,0.5196,0.7172,Proteobacteria,Xanthomonadaceae
+Aridibacter,Biodegradável,-0.5947,0.25,-2.3784,0.0179,0.157,Acidobacteriota,Blastocatellaceae
+Armatimonadales,Biodegradável,-0.2119,0.1935,-1.0955,0.274,0.5205,Armatimonadota,Armatimonadales
+Armatimonadota (NC),Biodegradável,0.1071,0.1684,0.6357,0.5254,0.7208,Armatimonadota,
+Armatimonas,Biodegradável,0.0325,0.1682,0.1934,0.8467,0.9311,Armatimonadota,Armatimonadaceae
+Asticcacaulis,Biodegradável,0.1785,0.1655,1.0785,0.2815,0.5329,Proteobacteria,Caulobacteraceae
+Aurantisolimonas,Biodegradável,-0.17,0.2058,-0.8259,0.4094,0.642,Bacteroidota,Chitinophagaceae
+B1-7BS,Biodegradável,0.0143,0.1928,0.0744,0.9407,0.9626,Proteobacteria,B1-7BS
+BD2-11_terrestrial_group,Biodegradável,-0.3272,0.2005,-1.6316,0.1036,0.3637,Gemmatimonadota,BD2-11_terrestrial_group
+BD7-11,Biodegradável,0.087,0.1651,0.5268,0.5987,0.7815,Planctomycetota,BD7-11
+BIrii41,Biodegradável,-0.2422,0.1666,-1.4534,0.147,0.4088,Myxococcota,BIrii41
+BSV26,Biodegradável,0.0348,0.1884,0.1848,0.8535,0.933,Bacteroidota,BSV26
+Babeliales (NC),Biodegradável,0.1119,0.1907,0.587,0.5576,0.752,Dependentiae,
+Bacillaceae (NC),Biodegradável,0.1329,0.1878,0.7073,0.4798,0.6929,Firmicutes,Bacillaceae
+Bacillales (NC),Biodegradável,-0.1201,0.1621,-0.7406,0.4594,0.6821,Firmicutes,
+Bacilli (NC),Biodegradável,-0.0863,0.1994,-0.4328,0.6654,0.8094,Firmicutes,
+Bacillus,Biodegradável,0.0231,0.2171,0.1062,0.9155,0.9532,Firmicutes,Bacillaceae
+Bacteroidales (NC),Biodegradável,0.4148,0.1356,3.0594,0.0024,0.0888,Bacteroidota,
+Bacteroides,Biodegradável,0.1351,0.0647,2.0895,0.0374,0.2379,Bacteroidota,Bacteroidaceae
+Bacteroidia (NC),Biodegradável,0.0657,0.1921,0.3418,0.7327,0.8553,Bacteroidota,
+Bauldia,Biodegradável,-0.2227,0.1863,-1.1959,0.2325,0.4871,Proteobacteria,Rhizobiales_Incertae_Sedis
+Bdellovibrio,Biodegradável,0.1891,0.1842,1.0267,0.3053,0.5516,Bdellovibrionota,Bdellovibrionaceae
+Beijerinckiaceae (NC),Biodegradável,-0.2221,0.1719,-1.2922,0.1971,0.4538,Proteobacteria,Beijerinckiaceae
+Belnapia,Biodegradável,-0.0805,0.2236,-0.3602,0.7189,0.8423,Proteobacteria,Acetobacteraceae
+Berkelbacteria,Biodegradável,0.2082,0.1457,1.429,0.1539,0.4099,Patescibacteria,Berkelbacteria
+Bifidobacterium,Biodegradável,0.0637,0.1263,0.5042,0.6144,0.7906,Actinobacteriota,Bifidobacteriaceae
+Blastocatella,Biodegradável,-0.3874,0.1943,-1.9942,0.0469,0.2613,Acidobacteriota,Blastocatellaceae
+Blastocatellaceae (NC),Biodegradável,-0.3065,0.1134,-2.7028,0.0072,0.1272,Acidobacteriota,Blastocatellaceae
+Blastocatellia (NC),Biodegradável,0.2054,0.2238,0.9181,0.3592,0.5899,Acidobacteriota,
+Blastococcus,Biodegradável,-0.272,0.1929,-1.4101,0.1594,0.4099,Actinobacteriota,Geodermatophilaceae
+Blfdi19,Biodegradável,0.0541,0.1919,0.2819,0.7782,0.8813,Myxococcota,Blfdi19
+Bosea,Biodegradável,-0.2448,0.2389,-1.0245,0.3063,0.5516,Proteobacteria,Beijerinckiaceae
+Bradyrhizobium,Biodegradável,0.1188,0.2591,0.4587,0.6468,0.8061,Proteobacteria,Xanthobacteraceae
+Brevundimonas,Biodegradável,0.002,0.2405,0.0084,0.9933,0.9971,Proteobacteria,Caulobacteraceae
+Bryobacter,Biodegradável,-0.1192,0.0733,-1.6258,0.1049,0.3639,Acidobacteriota,Bryobacteraceae
+Burkholderia-Caballeronia-Paraburkholderia,Biodegradável,0.3914,0.2141,1.8285,0.0683,0.3017,Proteobacteria,Burkholderiaceae
+Burkholderiales (NC),Biodegradável,-0.2142,0.2131,-1.0053,0.3154,0.5531,Proteobacteria,
+C0119,Biodegradável,-0.2464,0.1525,-1.6154,0.1071,0.3639,Chloroflexi,C0119
+CCD24,Biodegradável,-0.4682,0.1823,-2.5688,0.0106,0.1338,Proteobacteria,CCD24
+CL500-29_marine_group,Biodegradável,0.2524,0.1975,1.2776,0.2022,0.4541,Actinobacteriota,Ilumatobacteraceae
+CPla-3_termite_group,Biodegradável,0.0889,0.1034,0.8599,0.3904,0.6233,Planctomycetota,CPla-3_termite_group
+Caldilineaceae,Biodegradável,0.0817,0.1527,0.5346,0.5933,0.7764,Chloroflexi,Caldilineaceae
+Caldilineaceae (NC),Biodegradável,-0.1946,0.1579,-1.2321,0.2187,0.4637,Chloroflexi,Caldilineaceae
+Candidatus_Alysiosphaera,Biodegradável,0.0543,0.1776,0.3056,0.7601,0.871,Proteobacteria,Geminicoccaceae
+Candidatus_Bacilloplasma,Biodegradável,0.1501,0.1277,1.1752,0.2407,0.4924,Firmicutes,Mycoplasmataceae
+Candidatus_Berkiella,Biodegradável,0.1261,0.1808,0.6973,0.4861,0.6946,Proteobacteria,Unknown_Family
+Candidatus_Kaiserbacteria,Biodegradável,0.1017,0.155,0.656,0.5122,0.7107,Patescibacteria,Candidatus_Kaiserbacteria
+Candidatus_Koribacter,Biodegradável,0.3182,0.1998,1.5923,0.1122,0.3693,Acidobacteriota,Koribacteraceae
+Candidatus_Ovatusbacter,Biodegradável,0.1505,0.1904,0.7905,0.4297,0.6543,Proteobacteria,Unknown_Family
+Candidatus_Peribacteria,Biodegradável,-0.0172,0.1608,-0.1068,0.915,0.9532,Patescibacteria,Candidatus_Peribacteria
+Candidatus_Solibacter,Biodegradável,-0.2408,0.1425,-1.69,0.0919,0.3473,Acidobacteriota,Solibacteraceae
+Candidatus_Udaeobacter,Biodegradável,-0.021,0.1525,-0.1375,0.8907,0.9499,Verrucomicrobiota,Chthoniobacteraceae
+Candidatus_Xiphinematobacter,Biodegradável,-0.3507,0.2416,-1.4516,0.1475,0.4088,Verrucomicrobiota,Xiphinematobacteraceae
+Catellatospora,Biodegradável,0.3393,0.2058,1.6486,0.1001,0.3628,Actinobacteriota,Micromonosporaceae
+Catenulispora,Biodegradável,0.3382,0.2457,1.3763,0.1696,0.4161,Actinobacteriota,Catenulisporaceae
+Caulobacter,Biodegradável,-0.0245,0.2291,-0.1069,0.9149,0.9532,Proteobacteria,Caulobacteraceae
+Caulobacteraceae (NC),Biodegradável,0.0061,0.241,0.0255,0.9797,0.989,Proteobacteria,Caulobacteraceae
+Cellulomonas,Biodegradável,-0.3477,0.1751,-1.9856,0.0478,0.2613,Actinobacteriota,Cellulomonadaceae
+Cellvibrio,Biodegradável,-0.3683,0.1926,-1.9125,0.0566,0.2778,Proteobacteria,Cellvibrionaceae
+Cetobacterium,Biodegradável,0.1512,0.0655,2.309,0.0215,0.1743,Fusobacteriota,Fusobacteriaceae
+Chitinophaga,Biodegradável,0.2231,0.2272,0.9819,0.3268,0.5577,Bacteroidota,Chitinophagaceae
+Chitinophagaceae (NC),Biodegradável,-0.2573,0.1308,-1.9671,0.0499,0.2634,Bacteroidota,Chitinophagaceae
+Chitinophagales (NC),Biodegradável,-0.0643,0.2076,-0.3097,0.757,0.871,Bacteroidota,
+Chloroflexi (NC),Biodegradável,-0.0798,0.1622,-0.4922,0.6229,0.7943,Chloroflexi,
+Christensenellaceae_R-7_group,Biodegradável,0.1105,0.1269,0.8707,0.3845,0.6194,Firmicutes,Christensenellaceae
+Chryseobacterium,Biodegradável,-0.0407,0.2223,-0.1829,0.855,0.933,Bacteroidota,Weeksellaceae
+Chryseolinea,Biodegradável,-0.039,0.2209,-0.1766,0.8599,0.9359,Bacteroidota,Microscillaceae
+Chthoniobacter,Biodegradável,-0.1341,0.1444,-0.9282,0.3539,0.5862,Verrucomicrobiota,Chthoniobacteraceae
+Chthoniobacteraceae (NC),Biodegradável,0.1442,0.1753,0.8227,0.4112,0.6421,Verrucomicrobiota,Chthoniobacteraceae
+Chthonomonadales,Biodegradável,-0.2669,0.1476,-1.8085,0.0714,0.3047,Armatimonadota,Chthonomonadales
+Chthonomonas,Biodegradável,0.0783,0.1672,0.4681,0.64,0.805,Armatimonadota,Chthonomonadaceae
+Chujaibacter,Biodegradável,0.2193,0.2409,0.9103,0.3633,0.5942,Proteobacteria,Rhodanobacteraceae
+Citrifermentans,Biodegradável,-0.027,0.1743,-0.1551,0.8768,0.9465,Desulfobacterota,Geobacteraceae
+Clostridia (NC),Biodegradável,0.4496,0.1697,2.6493,0.0084,0.1275,Firmicutes,
+Clostridia_UCG-014,Biodegradável,0.1164,0.1137,1.0239,0.3066,0.5516,Firmicutes,Clostridia_UCG-014
+Clostridium_sensu_stricto_1,Biodegradável,0.129,0.2067,0.6238,0.5331,0.7208,Firmicutes,Clostridiaceae
+Clostridium_sensu_stricto_13,Biodegradável,0.1482,0.1274,1.1626,0.2457,0.4934,Firmicutes,Clostridiaceae
+Cohnella,Biodegradável,0.0406,0.2019,0.2012,0.8407,0.9263,Firmicutes,Paenibacillaceae
+Comamonadaceae (NC),Biodegradável,0.0191,0.092,0.2074,0.8358,0.9242,Proteobacteria,Comamonadaceae
+Conexibacter,Biodegradável,-0.1175,0.1755,-0.6695,0.5036,0.7006,Actinobacteriota,Solirubrobacteraceae
+Corynebacterium,Biodegradável,0.1777,0.1182,1.5042,0.1334,0.404,Actinobacteriota,Corynebacteriaceae
+Cupriavidus,Biodegradável,0.386,0.2595,1.4876,0.1377,0.4081,Proteobacteria,Burkholderiaceae
+Cutibacterium,Biodegradável,0.5269,0.1466,3.5941,0.0004,0.0245,Actinobacteriota,Propionibacteriaceae
+DEV008,Biodegradável,0.1829,0.149,1.2274,0.2205,0.4656,Verrucomicrobiota,Pedosphaeraceae
+DEV114,Biodegradável,0.0747,0.1572,0.475,0.6351,0.8033,Verrucomicrobiota,Pedosphaeraceae
+DS-100,Biodegradável,-0.2045,0.1554,-1.3162,0.1889,0.4411,Acidobacteriota,DS-100
+Dactylosporangium,Biodegradável,0.2126,0.1474,1.4419,0.1502,0.4088,Actinobacteriota,Micromonosporaceae
+Dadabacteriales,Biodegradável,-0.0057,0.1553,-0.0365,0.9709,0.9839,Dadabacteria,Dadabacteriales
+Deinococcus,Biodegradável,0.0528,0.2515,0.2101,0.8337,0.9242,Deinococcota,Deinococcaceae
+Desulfobacterota (NC),Biodegradável,0.2862,0.1738,1.6461,0.1006,0.3628,Desulfobacterota,
+Desulfovibrio,Biodegradável,0.1711,0.0871,1.9643,0.0503,0.2634,Desulfobacterota,Desulfovibrionaceae
+Devosia,Biodegradável,-0.2703,0.2047,-1.3203,0.1876,0.4398,Proteobacteria,Devosiaceae
+Devosiaceae (NC),Biodegradável,-0.1731,0.1068,-1.6207,0.106,0.3639,Proteobacteria,Devosiaceae
+Dinghuibacter,Biodegradável,0.2116,0.1558,1.358,0.1753,0.42,Bacteroidota,Chitinophagaceae
+Dokdonella,Biodegradável,0.2439,0.1699,1.4357,0.1519,0.4088,Proteobacteria,Rhodanobacteraceae
+Dongia,Biodegradável,-0.1853,0.1565,-1.1835,0.2374,0.4915,Proteobacteria,Dongiaceae
+Dubosiella,Biodegradável,0.0778,0.1159,0.671,0.5026,0.7006,Firmicutes,Erysipelotrichaceae
+Dyadobacter,Biodegradável,-0.3801,0.1997,-1.9039,0.0577,0.2781,Bacteroidota,Spirosomaceae
+Dysgonomonas,Biodegradável,0.152,0.1486,1.0228,0.3071,0.5516,Bacteroidota,Dysgonomonadaceae
+EPR3968-O8a-Bc78,Biodegradável,0.1694,0.1682,1.0074,0.3144,0.5531,Proteobacteria,EPR3968-O8a-Bc78
+Edaphobacter,Biodegradável,0.2361,0.1984,1.1897,0.2349,0.4883,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Edaphobaculum,Biodegradável,0.3829,0.2067,1.8529,0.0647,0.2931,Bacteroidota,Chitinophagaceae
+Elizabethkingia,Biodegradável,0.1497,0.1746,0.8577,0.3916,0.6233,Bacteroidota,Weeksellaceae
+Ellin516,Biodegradável,0.3145,0.2179,1.4429,0.1499,0.4088,Verrucomicrobiota,Pedosphaeraceae
+Ellin517,Biodegradável,-0.2127,0.193,-1.1022,0.2711,0.5169,Verrucomicrobiota,Pedosphaeraceae
+Ellin6055,Biodegradável,-0.506,0.2277,-2.2222,0.0269,0.2036,Proteobacteria,Sphingomonadaceae
+Ellin6067,Biodegradável,-0.1043,0.1046,-0.9972,0.3194,0.5531,Proteobacteria,Nitrosomonadaceae
+Ensifer,Biodegradável,0.2093,0.1327,1.5769,0.1157,0.3762,Proteobacteria,Rhizobiaceae
+Enterobacterales (NC),Biodegradável,-0.0533,0.2281,-0.2338,0.8153,0.9078,Proteobacteria,
+Enterobacteriaceae (NC),Biodegradável,0.1932,0.1746,1.1065,0.2692,0.5169,Proteobacteria,Enterobacteriaceae
+Enterococcaceae (NC),Biodegradável,0.1442,0.1386,1.0406,0.2988,0.5516,Firmicutes,Enterococcaceae
+Entotheonellaceae,Biodegradável,-0.535,0.2112,-2.5326,0.0117,0.1349,Entotheonellaeota,Entotheonellaceae
+Erysipelatoclostridium,Biodegradável,0.1382,0.1138,1.2148,0.2252,0.4737,Firmicutes,Erysipelatoclostridiaceae
+Escherichia-Shigella,Biodegradável,0.1892,0.0532,3.5556,0.0004,0.0251,Proteobacteria,Enterobacteriaceae
+FCPS473,Biodegradável,0.3925,0.2017,1.9455,0.0525,0.2649,Chloroflexi,Ktedonobacteraceae
+FCPU426,Biodegradável,0.3307,0.1866,1.7728,0.0771,0.3119,FCPU426,FCPU426
+FFCH7168,Biodegradável,-0.2367,0.1525,-1.5521,0.1215,0.3879,Chloroflexi,Chloroflexaceae
+Faecalibacterium,Biodegradável,0.1567,0.0802,1.9543,0.0514,0.2647,Firmicutes,Ruminococcaceae
+Ferruginibacter,Biodegradável,-0.3212,0.2554,-1.2575,0.2094,0.4586,Bacteroidota,Chitinophagaceae
+Fictibacillus,Biodegradável,0.0295,0.2088,0.1411,0.8879,0.9499,Firmicutes,Bacillaceae
+Fimbriiglobus,Biodegradável,0.1248,0.0892,1.3988,0.1627,0.4099,Planctomycetota,Gemmataceae
+Fimbriimonadaceae,Biodegradável,-0.1331,0.1927,-0.6908,0.4902,0.6946,Armatimonadota,Fimbriimonadaceae
+Firmicutes (NC),Biodegradável,0.5902,0.237,2.4905,0.0132,0.1399,Firmicutes,
+Flaviaesturariibacter,Biodegradável,-0.5512,0.2069,-2.6642,0.0081,0.1275,Bacteroidota,Chitinophagaceae
+Flavisolibacter,Biodegradável,-0.1458,0.1566,-0.9307,0.3526,0.5859,Bacteroidota,Chitinophagaceae
+Flavitalea,Biodegradável,-0.6377,0.2113,-3.0176,0.0027,0.0904,Bacteroidota,Chitinophagaceae
+Flavobacterium,Biodegradável,-0.2792,0.1877,-1.4872,0.1378,0.4081,Bacteroidota,Flavobacteriaceae
+Fluviicola,Biodegradável,0.2195,0.1766,1.243,0.2147,0.4588,Bacteroidota,Crocinitomicaceae
+Frankiales (NC),Biodegradável,-0.0344,0.2461,-0.14,0.8888,0.9499,Actinobacteriota,
+Fusobacterium,Biodegradável,0.0867,0.1222,0.7096,0.4784,0.6928,Fusobacteriota,Fusobacteriaceae
+GAL15,Biodegradável,0.0069,0.2223,0.0311,0.9752,0.9863,GAL15,GAL15
+Gaiella,Biodegradável,-0.2952,0.1849,-1.5962,0.1113,0.3693,Actinobacteriota,Gaiellaceae
+Gaiellales (NC),Biodegradável,-0.1899,0.1592,-1.1925,0.2339,0.488,Actinobacteriota,
+Gammaproteobacteria (NC),Biodegradável,0.0129,0.1816,0.0709,0.9436,0.9626,Proteobacteria,
+Gemmata,Biodegradável,-0.1856,0.1028,-1.8051,0.0719,0.3047,Planctomycetota,Gemmataceae
+Gemmataceae (NC),Biodegradável,-0.0942,0.1812,-0.5198,0.6035,0.785,Planctomycetota,Gemmataceae
+Gemmatimonadaceae (NC),Biodegradável,-0.202,0.1078,-1.8735,0.0618,0.2867,Gemmatimonadota,Gemmatimonadaceae
+Gemmatimonadota (NC),Biodegradável,0.3605,0.1284,2.8071,0.0053,0.105,Gemmatimonadota,
+Gemmatimonas,Biodegradável,-0.2252,0.1277,-1.7634,0.0787,0.3141,Gemmatimonadota,Gemmatimonadaceae
+Geobacter,Biodegradável,-0.0882,0.179,-0.4928,0.6224,0.7943,Desulfobacterota,Geobacteraceae
+Geobacteraceae (NC),Biodegradável,-0.0682,0.2289,-0.2979,0.7659,0.873,Desulfobacterota,Geobacteraceae
+Geodermatophilaceae (NC),Biodegradável,-0.2615,0.2022,-1.2935,0.1967,0.4538,Actinobacteriota,Geodermatophilaceae
+Geodermatophilus,Biodegradável,-0.2736,0.1776,-1.5403,0.1243,0.3908,Actinobacteriota,Geodermatophilaceae
+Gitt-GS-136,Biodegradável,-0.1452,0.1574,-0.9221,0.3571,0.5896,Chloroflexi,Gitt-GS-136
+Granulicella,Biodegradável,0.235,0.2132,1.1022,0.2711,0.5169,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+HSB_OF53-F07,Biodegradável,0.1892,0.2304,0.8212,0.4121,0.6421,Chloroflexi,Ktedonobacteraceae
+HT002,Biodegradável,0.1136,0.1319,0.8616,0.3895,0.6233,Firmicutes,Lactobacillaceae
+Haliangium,Biodegradável,-0.1629,0.1397,-1.1661,0.2444,0.4924,Myxococcota,Haliangiaceae
+Hamadaea,Biodegradável,0.3465,0.1701,2.0374,0.0423,0.2496,Actinobacteriota,Micromonosporaceae
+Hassallia,Biodegradável,0.1604,0.1962,0.8172,0.4144,0.6421,Bacteroidota,Microscillaceae
+Helicobacter,Biodegradável,0.1124,0.0529,2.1222,0.0345,0.2285,Campylobacterota,Helicobacteraceae
+Herpetosiphon,Biodegradável,-0.5204,0.219,-2.3767,0.018,0.157,Chloroflexi,Herpetosiphonaceae
+Hirschia,Biodegradável,0.144,0.1993,0.7225,0.4705,0.6895,Proteobacteria,Hyphomonadaceae
+Holophaga,Biodegradável,0.3684,0.2348,1.569,0.1175,0.3798,Acidobacteriota,Holophagaceae
+Hydrogenedensaceae,Biodegradável,0.0596,0.1555,0.3833,0.7017,0.8302,Hydrogenedentes,Hydrogenedensaceae
+Hymenobacter,Biodegradável,-0.2432,0.2458,-0.9893,0.3232,0.5561,Bacteroidota,Hymenobacteraceae
+Hyphomicrobiaceae (NC),Biodegradável,-0.1075,0.2007,-0.5358,0.5924,0.7764,Proteobacteria,Hyphomicrobiaceae
+Hyphomicrobium,Biodegradável,-0.337,0.1616,-2.0856,0.0377,0.2379,Proteobacteria,Hyphomicrobiaceae
+IMCC26256,Biodegradável,-0.2706,0.1005,-2.6917,0.0074,0.1272,Actinobacteriota,IMCC26256
+IS-44,Biodegradável,-0.4248,0.2079,-2.0434,0.0417,0.2496,Proteobacteria,Nitrosomonadaceae
+Iamia,Biodegradável,-0.5559,0.2276,-2.4427,0.0151,0.1451,Actinobacteriota,Iamiaceae
+Ilumatobacteraceae (NC),Biodegradável,-0.2177,0.2111,-1.0311,0.3032,0.5516,Actinobacteriota,Ilumatobacteraceae
+Inquilinus,Biodegradável,0.2654,0.1826,1.4539,0.1468,0.4088,Proteobacteria,Inquilinaceae
+Intrasporangiaceae (NC),Biodegradável,-0.1347,0.1468,-0.9174,0.3595,0.5899,Actinobacteriota,Intrasporangiaceae
+Isosphaeraceae (NC),Biodegradável,0.2722,0.1894,1.4366,0.1517,0.4088,Planctomycetota,Isosphaeraceae
+JCM_18997,Biodegradável,0.4797,0.1945,2.4667,0.0141,0.1431,Actinobacteriota,Solirubrobacteraceae
+JG30-KF-AS9,Biodegradável,0.266,0.1829,1.4545,0.1467,0.4088,Chloroflexi,JG30-KF-AS9
+JG30-KF-CM45,Biodegradável,-0.135,0.1401,-0.9641,0.3356,0.5672,Chloroflexi,JG30-KF-CM45
+JG30-KF-CM66,Biodegradável,-0.5974,0.1509,-3.9599,0.0001,0.0218,Chloroflexi,JG30-KF-CM66
+JG30a-KF-32,Biodegradável,0.5134,0.1958,2.6218,0.0091,0.1289,Chloroflexi,Ktedonobacteraceae
+JGI_0001001-H03,Biodegradável,-0.0114,0.1598,-0.0713,0.9432,0.9626,Acidobacteriota,Blastocatellaceae
+Jatrophihabitans,Biodegradável,0.118,0.2536,0.4654,0.6419,0.805,Actinobacteriota,Frankiaceae
+KD3-10,Biodegradável,0.3555,0.1941,1.8314,0.0679,0.3017,Myxococcota,Myxococcaceae
+KD3-93,Biodegradável,0.0215,0.1892,0.1135,0.9097,0.9532,Bacteroidota,KD3-93
+KD4-96,Biodegradável,-0.4067,0.1545,-2.6328,0.0088,0.1289,Chloroflexi,KD4-96
+KF-JG30-B3,Biodegradável,-0.1654,0.1744,-0.9483,0.3436,0.5781,Proteobacteria,KF-JG30-B3
+KF-JG30-C25,Biodegradável,0.4916,0.2414,2.0363,0.0424,0.2496,Proteobacteria,KF-JG30-C25
+KI89A_clade,Biodegradável,-0.0262,0.1644,-0.1594,0.8735,0.9448,Proteobacteria,KI89A_clade
+Kapabacteriales,Biodegradável,-0.1261,0.1712,-0.7368,0.4617,0.6836,Bacteroidota,Kapabacteriales
+Kineosporiaceae (NC),Biodegradável,0.4713,0.2319,2.0322,0.0429,0.2496,Actinobacteriota,Kineosporiaceae
+Kribbella,Biodegradável,-0.2146,0.1608,-1.3345,0.1829,0.4322,Actinobacteriota,Nocardioidaceae
+Ktedonobacter,Biodegradável,0.1687,0.1751,0.9634,0.336,0.5672,Chloroflexi,Ktedonobacteraceae
+Ktedonobacteraceae (NC),Biodegradável,0.1599,0.2388,0.6696,0.5035,0.7006,Chloroflexi,Ktedonobacteraceae
+LD29,Biodegradável,0.3656,0.2074,1.7625,0.0788,0.3141,Verrucomicrobiota,Chthoniobacteraceae
+LWQ8,Biodegradável,0.0397,0.1481,0.2683,0.7886,0.8893,Patescibacteria,LWQ8
+Labrys,Biodegradável,0.1168,0.2091,0.5583,0.577,0.7664,Proteobacteria,Labraceae
+Lachnospiraceae (NC),Biodegradável,0.3014,0.1269,2.3749,0.0181,0.157,Firmicutes,Lachnospiraceae
+Lachnospiraceae_NK4A136_group,Biodegradável,0.108,0.0939,1.1492,0.2512,0.4987,Firmicutes,Lachnospiraceae
+Lactiplantibacillus,Biodegradável,0.1927,0.1199,1.6067,0.109,0.3679,Firmicutes,Lactobacillaceae
+Lactobacillaceae (NC),Biodegradável,0.1226,0.0899,1.3639,0.1734,0.42,Firmicutes,Lactobacillaceae
+Lactobacillus,Biodegradável,0.1436,0.1165,1.2331,0.2183,0.4637,Firmicutes,Lactobacillaceae
+Lacunisphaera,Biodegradável,0.2293,0.2055,1.1158,0.2652,0.5146,Verrucomicrobiota,Opitutaceae
+Latescibacteraceae,Biodegradável,0.3313,0.1819,1.8211,0.0694,0.3028,Latescibacterota,Latescibacteraceae
+Latescibacterota,Biodegradável,-0.0456,0.1507,-0.3024,0.7625,0.871,Latescibacterota,Latescibacterota
+Lautropia,Biodegradável,-0.014,0.1687,-0.0831,0.9338,0.9591,Proteobacteria,Burkholderiaceae
+Legionella,Biodegradável,0.037,0.2205,0.168,0.8667,0.9413,Proteobacteria,Legionellaceae
+Leptolyngbya_EcFYyyy-00,Biodegradável,-0.2107,0.21,-1.0033,0.3164,0.5531,Cyanobacteria,Unknown_Family
+Ligilactobacillus,Biodegradável,0.1019,0.0906,1.1248,0.2614,0.5112,Firmicutes,Lactobacillaceae
+Lineage_IIa,Biodegradável,0.2568,0.1825,1.4076,0.1601,0.4099,Elusimicrobiota,Lineage_IIa
+Lineage_IIb,Biodegradável,0.0285,0.1732,0.1648,0.8692,0.9421,Elusimicrobiota,Lineage_IIb
+Lineage_IV,Biodegradável,0.3014,0.2038,1.4786,0.1401,0.4088,Elusimicrobiota,Lineage_IV
+Litorilinea,Biodegradável,-0.2494,0.1063,-2.346,0.0195,0.1642,Chloroflexi,Caldilineaceae
+Longimicrobiaceae,Biodegradável,0.0207,0.2321,0.0892,0.929,0.9591,Gemmatimonadota,Longimicrobiaceae
+Luedemannella,Biodegradável,0.0188,0.2104,0.0892,0.9289,0.9591,Actinobacteriota,Micromonosporaceae
+Luteimonas,Biodegradável,0.4358,0.2157,2.0207,0.044,0.2538,Proteobacteria,Xanthomonadaceae
+Luteitalea,Biodegradável,-0.0758,0.2508,-0.3024,0.7625,0.871,Acidobacteriota,Vicinamibacteraceae
+Luteolibacter,Biodegradável,-0.2779,0.2171,-1.2804,0.2012,0.4538,Verrucomicrobiota,Rubritaleaceae
+Lysobacter,Biodegradável,-0.2139,0.2098,-1.0198,0.3085,0.5516,Proteobacteria,Xanthomonadaceae
+MB-A2-108,Biodegradável,-0.1161,0.1711,-0.6787,0.4978,0.7006,Actinobacteriota,MB-A2-108
+MBNT15,Biodegradável,0.0627,0.2153,0.291,0.7712,0.8758,MBNT15,MBNT15
+MND1,Biodegradável,-0.2054,0.121,-1.698,0.0904,0.3446,Proteobacteria,Nitrosomonadaceae
+Marmoricola,Biodegradável,-0.1146,0.1587,-0.7217,0.4709,0.6895,Actinobacteriota,Nocardioidaceae
+Massilia,Biodegradável,-0.284,0.1316,-2.157,0.0317,0.2172,Proteobacteria,Oxalobacteraceae
+Megamonas,Biodegradável,0.1099,0.1581,0.6953,0.4873,0.6946,Firmicutes,Selenomonadaceae
+Mesorhizobium,Biodegradável,-0.001,0.1994,-0.0053,0.9958,0.9977,Proteobacteria,Rhizobiaceae
+Methylobacterium-Methylorubrum,Biodegradável,-0.1545,0.2308,-0.6695,0.5036,0.7006,Proteobacteria,Beijerinckiaceae
+Methyloligellaceae,Biodegradável,-0.2536,0.2549,-0.9947,0.3205,0.5534,Proteobacteria,Methyloligellaceae
+Methylophilaceae (NC),Biodegradável,-0.1262,0.2274,-0.555,0.5793,0.7675,Proteobacteria,Methylophilaceae
+Methylotenera,Biodegradável,-0.3982,0.2228,-1.7874,0.0747,0.3106,Proteobacteria,Methylophilaceae
+Microbacteriaceae (NC),Biodegradável,-0.0294,0.241,-0.1218,0.9031,0.9532,Actinobacteriota,Microbacteriaceae
+Microbacterium,Biodegradável,-0.3301,0.2176,-1.5165,0.1303,0.3968,Actinobacteriota,Microbacteriaceae
+Microbispora,Biodegradável,0.3361,0.1648,2.0388,0.0422,0.2496,Actinobacteriota,Streptosporangiaceae
+Micrococcaceae (NC),Biodegradável,-0.4081,0.1101,-3.708,0.0002,0.0218,Actinobacteriota,Micrococcaceae
+Microlunatus,Biodegradável,-0.0411,0.1146,-0.3588,0.72,0.8423,Actinobacteriota,Propionibacteriaceae
+Micromonospora,Biodegradável,-0.1436,0.183,-0.7844,0.4333,0.6543,Actinobacteriota,Micromonosporaceae
+Micromonosporaceae (NC),Biodegradável,-0.1628,0.2051,-0.7935,0.428,0.6543,Actinobacteriota,Micromonosporaceae
+Micropepsaceae (NC),Biodegradável,0.2744,0.2342,1.1719,0.242,0.4924,Proteobacteria,Micropepsaceae
+Microscillaceae (NC),Biodegradável,0.3475,0.2234,1.5555,0.1207,0.3877,Bacteroidota,Microscillaceae
+Microtrichales (NC),Biodegradável,-0.2797,0.225,-1.2433,0.2146,0.4588,Actinobacteriota,
+Microvirga,Biodegradável,-0.0688,0.2243,-0.3065,0.7594,0.871,Proteobacteria,Beijerinckiaceae
+Mizugakiibacter,Biodegradável,0.4306,0.2096,2.0548,0.0406,0.2496,Proteobacteria,Rhodanobacteraceae
+Monoglobus,Biodegradável,0.1954,0.1141,1.7124,0.0877,0.3392,Firmicutes,Monoglobaceae
+Morganella,Biodegradável,0.2178,0.1731,1.258,0.2092,0.4586,Proteobacteria,Morganellaceae
+Mucilaginibacter,Biodegradável,-0.1035,0.2313,-0.4477,0.6546,0.8062,Bacteroidota,Sphingobacteriaceae
+Mucispirillum,Biodegradável,0.0936,0.1109,0.8441,0.3992,0.6303,Deferribacterota,Deferribacteraceae
+Muribaculaceae,Biodegradável,0.1244,0.0697,1.7845,0.0752,0.3106,Bacteroidota,Muribaculaceae
+Muribaculum,Biodegradável,0.1205,0.1199,1.0052,0.3155,0.5531,Bacteroidota,Muribaculaceae
+Mycobacterium,Biodegradável,0.1536,0.1647,0.9325,0.3517,0.5859,Actinobacteriota,Mycobacteriaceae
+Mycoplasma,Biodegradável,0.1248,0.15,0.8324,0.4058,0.6381,Firmicutes,Mycoplasmataceae
+Myxococcaceae (NC),Biodegradável,0.2664,0.1592,1.673,0.0952,0.3503,Myxococcota,Myxococcaceae
+NB1-j,Biodegradável,-0.262,0.1875,-1.3972,0.1632,0.4099,NB1-j,NB1-j
+NS11-12_marine_group,Biodegradável,0.1142,0.1815,0.6288,0.5299,0.7208,Bacteroidota,NS11-12_marine_group
+NS9_marine_group,Biodegradável,0.2098,0.168,1.2488,0.2126,0.4588,Bacteroidota,NS9_marine_group
+Nakamurella,Biodegradável,-0.0625,0.1541,-0.4055,0.6854,0.8181,Actinobacteriota,Nakamurellaceae
+Nannocystaceae,Biodegradável,0.3106,0.1266,2.4544,0.0146,0.1431,Myxococcota,Nannocystaceae
+Nannocystis,Biodegradável,0.4162,0.1737,2.3957,0.0171,0.157,Myxococcota,Nannocystaceae
+Neorhizobium,Biodegradável,0.1517,0.2078,0.73,0.4658,0.6858,Proteobacteria,Rhizobiaceae
+Niastella,Biodegradável,-0.272,0.1958,-1.3893,0.1656,0.414,Bacteroidota,Chitinophagaceae
+Nitrolancea,Biodegradável,0.5282,0.1547,3.4141,0.0007,0.0377,Chloroflexi,Thermomicrobiaceae
+Nitrosospira,Biodegradável,-0.0635,0.1971,-0.3222,0.7475,0.8688,Proteobacteria,Nitrosomonadaceae
+Nitrospira,Biodegradável,-0.3108,0.0983,-3.1614,0.0017,0.0752,Nitrospirota,Nitrospiraceae
+Nocardia,Biodegradável,-0.3778,0.2523,-1.4976,0.1351,0.4069,Actinobacteriota,Nocardiaceae
+Nocardioidaceae (NC),Biodegradável,0.5084,0.2039,2.493,0.0131,0.1399,Actinobacteriota,Nocardioidaceae
+Nocardioides,Biodegradável,-0.171,0.1202,-1.4228,0.1556,0.4099,Actinobacteriota,Nocardioidaceae
+Nonomuraea,Biodegradável,-0.1654,0.1889,-0.8756,0.3818,0.617,Actinobacteriota,Streptosporangiaceae
+Nordella,Biodegradável,-0.1727,0.1667,-1.0363,0.3008,0.5516,Proteobacteria,Rhizobiales_Incertae_Sedis
+Nostoc_PCC-73102,Biodegradável,0.2095,0.1796,1.1665,0.2442,0.4924,Cyanobacteria,Nostocaceae
+Novosphingobium,Biodegradável,-0.6098,0.2551,-2.3907,0.0173,0.157,Proteobacteria,Sphingomonadaceae
+OLB12,Biodegradável,0.2654,0.207,1.2817,0.2008,0.4538,Bacteroidota,Microscillaceae
+OLB13,Biodegradável,0.018,0.1562,0.1152,0.9084,0.9532,Chloroflexi,A4b
+OLB14,Biodegradável,-0.2039,0.1578,-1.2918,0.1972,0.4538,Chloroflexi,OLB14
+OM190,Biodegradável,0.0855,0.1856,0.4609,0.6452,0.8061,Planctomycetota,OM190
+OM27_clade,Biodegradável,0.0025,0.1885,0.0132,0.9895,0.997,Bdellovibrionota,Bdellovibrionaceae
+Obscuribacteraceae,Biodegradável,0.4287,0.1658,2.5865,0.0101,0.1304,Cyanobacteria,Obscuribacteraceae
+Odoribacter,Biodegradável,0.0746,0.1042,0.716,0.4744,0.6927,Bacteroidota,Marinifilaceae
+Ohtaekwangia,Biodegradável,0.1215,0.2085,0.5825,0.5606,0.7541,Bacteroidota,Microscillaceae
+Oligoflexus,Biodegradável,0.1376,0.1627,0.8461,0.398,0.6303,Bdellovibrionota,Oligoflexaceae
+Opitutaceae (NC),Biodegradável,-0.5153,0.2203,-2.3389,0.0199,0.1646,Verrucomicrobiota,Opitutaceae
+Opitutus,Biodegradável,0.2103,0.2385,0.8816,0.3786,0.6155,Verrucomicrobiota,Opitutaceae
+Oryzihumus,Biodegradável,0.3291,0.1657,1.986,0.0478,0.2613,Actinobacteriota,Intrasporangiaceae
+Oscillospiraceae (NC),Biodegradável,0.1141,0.0974,1.1711,0.2423,0.4924,Firmicutes,Oscillospiraceae
+Oxalobacteraceae (NC),Biodegradável,0.2957,0.2035,1.4526,0.1472,0.4088,Proteobacteria,Oxalobacteraceae
+P2-11E,Biodegradável,0.1701,0.1483,1.1469,0.2522,0.4987,Chloroflexi,P2-11E
+P3OB-42,Biodegradável,-0.0978,0.1935,-0.5055,0.6135,0.7906,Myxococcota,Myxococcaceae
+PAUC26f,Biodegradável,0.0089,0.143,0.0621,0.9505,0.9651,Acidobacteriota,PAUC26f
+PLTA13,Biodegradável,-0.5167,0.1933,-2.673,0.0079,0.1275,Proteobacteria,PLTA13
+Paenarthrobacter,Biodegradável,-0.3236,0.1481,-2.1857,0.0295,0.2083,Actinobacteriota,Micrococcaceae
+Paenibacillaceae (NC),Biodegradável,0.6651,0.2276,2.9228,0.0037,0.0932,Firmicutes,Paenibacillaceae
+Paenibacillus,Biodegradável,-0.6159,0.1642,-3.7508,0.0002,0.0218,Firmicutes,Paenibacillaceae
+Pajaroellobacter,Biodegradável,-0.2883,0.153,-1.8842,0.0603,0.2836,Myxococcota,Polyangiaceae
+Paludibaculum,Biodegradável,-0.1649,0.1771,-0.931,0.3525,0.5859,Acidobacteriota,Acidobacteriae
+Parabacteroides,Biodegradável,0.1073,0.0619,1.7347,0.0836,0.3284,Bacteroidota,Tannerellaceae
+Parafilimonas,Biodegradável,0.2995,0.1186,2.5259,0.012,0.1349,Bacteroidota,Chitinophagaceae
+Parasegetibacter,Biodegradável,-0.4208,0.226,-1.8616,0.0635,0.29,Bacteroidota,Chitinophagaceae
+Parasutterella,Biodegradável,0.1136,0.111,1.0232,0.3069,0.5516,Proteobacteria,Sutterellaceae
+Parcubacteria,Biodegradável,0.0879,0.1605,0.5477,0.5843,0.7722,Patescibacteria,Parcubacteria
+Parcubacteria (NC),Biodegradável,0.3883,0.1684,2.3054,0.0217,0.1743,Patescibacteria,
+Parviterribacter,Biodegradável,-0.0464,0.195,-0.2381,0.8119,0.9059,Actinobacteriota,Solirubrobacteraceae
+Pasteurellaceae (NC),Biodegradável,0.0983,0.1269,0.7752,0.4387,0.6606,Proteobacteria,Pasteurellaceae
+Patescibacteria (NC),Biodegradável,0.1257,0.1686,0.7455,0.4564,0.6814,Patescibacteria,
+Pedobacter,Biodegradável,-0.5769,0.2225,-2.5935,0.0099,0.1304,Bacteroidota,Sphingobacteriaceae
+Pedococcus-Phycicoccus,Biodegradável,-0.1535,0.1451,-1.0581,0.2907,0.5444,Actinobacteriota,Intrasporangiaceae
+Pedomicrobium,Biodegradável,-0.1282,0.1633,-0.7848,0.4331,0.6543,Proteobacteria,Hyphomicrobiaceae
+Pedosphaeraceae,Biodegradável,-0.1118,0.1618,-0.6913,0.4898,0.6946,Verrucomicrobiota,Pedosphaeraceae
+Pedosphaeraceae (NC),Biodegradável,0.1487,0.1839,0.8085,0.4193,0.646,Verrucomicrobiota,Pedosphaeraceae
+Peredibacter,Biodegradável,-0.1922,0.1921,-1.0004,0.3178,0.5531,Bdellovibrionota,Bacteriovoracaceae
+Phascolarctobacterium,Biodegradável,0.1098,0.0799,1.3738,0.1704,0.4161,Firmicutes,Acidaminococcaceae
+Phaselicystis,Biodegradável,0.4192,0.2138,1.9605,0.0507,0.2634,Myxococcota,Phaselicystidaceae
+Phenylobacterium,Biodegradável,0.3675,0.1833,2.005,0.0457,0.2605,Proteobacteria,Caulobacteraceae
+Pir4_lineage,Biodegradável,-0.2477,0.1552,-1.5959,0.1114,0.3693,Planctomycetota,Pirellulaceae
+Pirellula,Biodegradável,-0.2186,0.1044,-2.0941,0.0369,0.2379,Planctomycetota,Pirellulaceae
+Pirellulaceae (NC),Biodegradável,-0.0322,0.0875,-0.3685,0.7127,0.8376,Planctomycetota,Pirellulaceae
+Pla1_lineage,Biodegradável,-0.0143,0.1502,-0.0955,0.924,0.9583,Planctomycetota,Pla1_lineage
+Pla3_lineage,Biodegradável,0.0225,0.1577,0.143,0.8864,0.9499,Planctomycetota,Pla3_lineage
+Pla4_lineage,Biodegradável,0.2305,0.1643,1.4033,0.1614,0.4099,Planctomycetota,Pla4_lineage
+Planctomycetales (NC),Biodegradável,-0.06,0.1476,-0.4062,0.6848,0.8181,Planctomycetota,
+Planctomycetes (NC),Biodegradável,0.0972,0.1412,0.6887,0.4915,0.6946,Planctomycetota,
+Planctomycetota (NC),Biodegradável,-0.211,0.1848,-1.1416,0.2544,0.5012,Planctomycetota,
+Planococcaceae (NC),Biodegradável,-0.355,0.1607,-2.2092,0.0278,0.204,Firmicutes,Planococcaceae
+Plot4-2H12,Biodegradável,-0.0172,0.2024,-0.0851,0.9322,0.9591,Proteobacteria,Sphingomonadaceae
+Polyangia (NC),Biodegradável,0.4563,0.2226,2.0499,0.0411,0.2496,Myxococcota,
+Polyangiaceae (NC),Biodegradável,0.0229,0.2145,0.1066,0.9152,0.9532,Myxococcota,Polyangiaceae
+Polyangiales (NC),Biodegradável,0.2428,0.1701,1.4273,0.1543,0.4099,Myxococcota,
+Polycyclovorans,Biodegradável,-0.0336,0.2412,-0.1394,0.8892,0.9499,Proteobacteria,Solimonadaceae
+Pontibacter,Biodegradável,-0.2352,0.1439,-1.6342,0.1031,0.3637,Bacteroidota,Hymenobacteraceae
+Porphyrobacter,Biodegradável,0.1034,0.2051,0.504,0.6146,0.7906,Proteobacteria,Sphingomonadaceae
+Prevotella,Biodegradável,0.101,0.1378,0.733,0.464,0.685,Bacteroidota,Prevotellaceae
+Prevotella_7,Biodegradável,0.0928,0.1251,0.7418,0.4587,0.6821,Bacteroidota,Prevotellaceae
+Prevotella_9,Biodegradável,0.1383,0.0926,1.4946,0.1359,0.4069,Bacteroidota,Prevotellaceae
+Prevotellaceae (NC),Biodegradável,0.1079,0.0792,1.3635,0.1736,0.42,Bacteroidota,Prevotellaceae
+Prevotellaceae_UCG-001,Biodegradável,0.1148,0.0892,1.2874,0.1988,0.4538,Bacteroidota,Prevotellaceae
+Prosthecobacter,Biodegradável,0.2936,0.1989,1.476,0.1408,0.4088,Verrucomicrobiota,Verrucomicrobiaceae
+Proteus,Biodegradável,0.0954,0.1658,0.5753,0.5654,0.7568,Proteobacteria,Morganellaceae
+Pseudaminobacter,Biodegradável,0.0871,0.1915,0.455,0.6493,0.8061,Proteobacteria,Rhizobiaceae
+Pseudoduganella,Biodegradável,-0.1351,0.2127,-0.6352,0.5257,0.7208,Proteobacteria,Oxalobacteraceae
+Pseudolabrys,Biodegradável,0.0934,0.2265,0.4124,0.6803,0.8157,Proteobacteria,Xanthobacteraceae
+Pseudomonadales (NC),Biodegradável,-0.3077,0.1708,-1.8017,0.0724,0.3047,Proteobacteria,
+Pseudomonas,Biodegradável,-0.1267,0.2007,-0.6315,0.5281,0.7208,Proteobacteria,Pseudomonadaceae
+Pseudonocardia,Biodegradável,-0.3508,0.2123,-1.6524,0.0993,0.3628,Actinobacteriota,Pseudonocardiaceae
+Pseudonocardiaceae (NC),Biodegradável,-0.0668,0.2438,-0.2739,0.7843,0.8863,Actinobacteriota,Pseudonocardiaceae
+Pseudoxanthomonas,Biodegradável,0.0837,0.2152,0.389,0.6975,0.827,Proteobacteria,Xanthomonadaceae
+Psychroglaciecola,Biodegradável,0.0228,0.191,0.1194,0.905,0.9532,Proteobacteria,Beijerinckiaceae
+Puia,Biodegradável,-0.0859,0.2042,-0.4208,0.6741,0.812,Bacteroidota,Chitinophagaceae
+Qipengyuania,Biodegradável,-0.4916,0.2246,-2.1887,0.0293,0.2083,Proteobacteria,Sphingomonadaceae
+R7C24,Biodegradável,-0.2505,0.2166,-1.1564,0.2483,0.4947,Proteobacteria,R7C24
+RB41,Biodegradável,-0.345,0.0932,-3.7017,0.0002,0.0218,Acidobacteriota,Pyrinomonadaceae
+RBG-13-54-9,Biodegradável,-0.2055,0.1624,-1.265,0.2067,0.4586,Chloroflexi,RBG-13-54-9
+RCP2-54,Biodegradável,0.1715,0.2095,0.8185,0.4136,0.6421,RCP2-54,RCP2-54
+RF39,Biodegradável,0.0915,0.0916,0.9994,0.3183,0.5531,Firmicutes,RF39
+Ralstonia,Biodegradável,0.387,0.203,1.9067,0.0573,0.2781,Proteobacteria,Burkholderiaceae
+Reyranella,Biodegradável,0.0694,0.1343,0.5166,0.6058,0.785,Proteobacteria,Reyranellaceae
+Rhizobiaceae (NC),Biodegradável,0.1943,0.1383,1.4047,0.161,0.4099,Proteobacteria,Rhizobiaceae
+Rhizobiales (NC),Biodegradável,-0.2355,0.154,-1.5292,0.1271,0.3939,Proteobacteria,
+Rhodanobacter,Biodegradável,0.4274,0.3101,1.3783,0.169,0.4161,Proteobacteria,Rhodanobacteraceae
+Rhodanobacteraceae (NC),Biodegradável,0.0836,0.2221,0.3766,0.7067,0.8342,Proteobacteria,Rhodanobacteraceae
+Rhodobacteraceae (NC),Biodegradável,-0.3196,0.2203,-1.4507,0.1477,0.4088,Proteobacteria,Rhodobacteraceae
+Rhodococcus,Biodegradável,-0.1695,0.2442,-0.6943,0.4879,0.6946,Actinobacteriota,Nocardiaceae
+Rhodocyclaceae (NC),Biodegradável,-0.357,0.2185,-1.6339,0.1031,0.3637,Proteobacteria,Rhodocyclaceae
+Rhodomicrobium,Biodegradável,0.0237,0.1719,0.1378,0.8905,0.9499,Proteobacteria,Rhodomicrobiaceae
+Rhodoplanes,Biodegradável,-0.2906,0.1915,-1.5173,0.1301,0.3968,Proteobacteria,Xanthobacteraceae
+Rhodopseudomonas,Biodegradável,0.0686,0.2362,0.2904,0.7717,0.8758,Proteobacteria,Xanthobacteraceae
+Rikenellaceae_RC9_gut_group,Biodegradável,0.1291,0.0724,1.7819,0.0756,0.3106,Bacteroidota,Rikenellaceae
+Rokubacteriales,Biodegradável,-0.2284,0.1164,-1.9615,0.0506,0.2634,Methylomirabilota,Rokubacteriales
+Romboutsia,Biodegradável,0.0401,0.1614,0.2484,0.804,0.9005,Firmicutes,Peptostreptococcaceae
+Roseburia,Biodegradável,0.1023,0.1193,0.8578,0.3916,0.6233,Firmicutes,Lachnospiraceae
+Roseiarcus,Biodegradável,0.2801,0.1944,1.4405,0.1506,0.4088,Proteobacteria,Beijerinckiaceae
+Roseimicrobium,Biodegradável,-0.5479,0.1875,-2.9223,0.0037,0.0932,Verrucomicrobiota,Verrucomicrobiaceae
+Roseisolibacter,Biodegradável,-0.363,0.1941,-1.8706,0.0622,0.2867,Gemmatimonadota,Gemmatimonadaceae
+Roseomonas,Biodegradável,-0.1208,0.2097,-0.5764,0.5647,0.7568,Proteobacteria,Acetobacteraceae
+Rubellimicrobium,Biodegradável,-0.4396,0.2205,-1.9932,0.047,0.2613,Proteobacteria,Rhodobacteraceae
+Rubrobacter,Biodegradável,0.1612,0.1583,1.0185,0.3091,0.5516,Actinobacteriota,Rubrobacteriaceae
+Rugosimonospora,Biodegradável,0.3551,0.2318,1.5322,0.1263,0.3939,Actinobacteriota,Micromonosporaceae
+Ruminococcaceae (NC),Biodegradável,0.1358,0.0605,2.243,0.0255,0.1987,Firmicutes,Ruminococcaceae
+Ruminococcus,Biodegradável,0.0774,0.1088,0.7112,0.4774,0.6928,Firmicutes,Ruminococcaceae
+S-70,Biodegradável,0.1783,0.1237,1.441,0.1504,0.4088,Planctomycetota,S-70
+S-BQ2-57_soil_group,Biodegradável,0.171,0.1634,1.0465,0.296,0.5505,Verrucomicrobiota,S-BQ2-57_soil_group
+S0134_terrestrial_group,Biodegradável,-0.361,0.186,-1.9407,0.0531,0.2654,Gemmatimonadota,S0134_terrestrial_group
+S085,Biodegradável,-0.6054,0.1572,-3.8519,0.0001,0.0218,Chloroflexi,S085
+SBR1031,Biodegradável,0.0762,0.1757,0.4336,0.6648,0.8094,Chloroflexi,SBR1031
+SBR1031 (NC),Biodegradável,0.1012,0.1559,0.6492,0.5166,0.7149,Chloroflexi,
+SC-I-84,Biodegradável,-0.276,0.0931,-2.9651,0.0032,0.0929,Proteobacteria,SC-I-84
+SH-PL14,Biodegradável,-0.1555,0.111,-1.4,0.1624,0.4099,Planctomycetota,Rubinisphaeraceae
+SJA-28,Biodegradável,-0.3673,0.2019,-1.8192,0.0697,0.3028,Bacteroidota,SJA-28
+SM1A02,Biodegradável,0.0344,0.1661,0.2069,0.8362,0.9242,Planctomycetota,Phycisphaeraceae
+SM2D12,Biodegradável,0.2069,0.1996,1.0369,0.3005,0.5516,Proteobacteria,SM2D12
+SWB02,Biodegradável,-0.0505,0.2001,-0.2525,0.8008,0.8992,Proteobacteria,Hyphomonadaceae
+Saccharimonadales,Biodegradável,0.2548,0.0977,2.608,0.0095,0.1289,Patescibacteria,Saccharimonadales
+Saccharimonadales (NC),Biodegradável,0.1797,0.1684,1.0674,0.2865,0.5385,Patescibacteria,
+Sandaracinaceae (NC),Biodegradável,0.2082,0.1533,1.3583,0.1752,0.42,Myxococcota,Sandaracinaceae
+Sandaracinus,Biodegradável,0.0174,0.1631,0.1068,0.915,0.9532,Myxococcota,Sandaracinaceae
+Segetibacter,Biodegradável,-0.5199,0.2037,-2.5525,0.0111,0.1342,Bacteroidota,Chitinophagaceae
+Sericytochromatia,Biodegradável,-0.217,0.2059,-1.0539,0.2926,0.5461,Cyanobacteria,Sericytochromatia
+Shimazuella,Biodegradável,0.0768,0.1635,0.4696,0.6389,0.805,Firmicutes,Thermoactinomycetaceae
+Singulisphaera,Biodegradável,0.1576,0.2004,0.7866,0.4321,0.6543,Planctomycetota,Isosphaeraceae
+Skermanella,Biodegradável,-0.5607,0.1882,-2.9794,0.0031,0.0929,Proteobacteria,Azospirillaceae
+Solirubrobacter,Biodegradável,-0.2065,0.161,-1.2823,0.2006,0.4538,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacteraceae,Biodegradável,-0.49,0.1989,-2.4631,0.0142,0.1431,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacteraceae (NC),Biodegradável,-0.1052,0.2447,-0.4301,0.6673,0.8094,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacterales (NC),Biodegradável,-0.25,0.154,-1.6236,0.1053,0.3639,Actinobacteriota,
+Sphaerisporangium,Biodegradável,0.192,0.1138,1.6873,0.0924,0.3473,Actinobacteriota,Streptosporangiaceae
+Sphingoaurantiacus,Biodegradável,0.1601,0.1823,0.8778,0.3806,0.6169,Proteobacteria,Sphingomonadaceae
+Sphingobacteriaceae (NC),Biodegradável,-0.3635,0.2484,-1.4636,0.1442,0.4088,Bacteroidota,Sphingobacteriaceae
+Sphingobacteriales (NC),Biodegradável,-0.1182,0.188,-0.6286,0.53,0.7208,Bacteroidota,
+Sphingobacterium,Biodegradável,-0.1347,0.1925,-0.6994,0.4848,0.6946,Bacteroidota,Sphingobacteriaceae
+Sphingobium,Biodegradável,-0.1139,0.1699,-0.6705,0.5029,0.7006,Proteobacteria,Sphingomonadaceae
+Sphingomonadaceae (NC),Biodegradável,-0.3432,0.1185,-2.8972,0.004,0.0962,Proteobacteria,Sphingomonadaceae
+Sphingomonas,Biodegradável,-0.027,0.0671,-0.4028,0.6873,0.8186,Proteobacteria,Sphingomonadaceae
+Sphingopyxis,Biodegradável,0.0379,0.2042,0.1855,0.8529,0.933,Proteobacteria,Sphingomonadaceae
+Spirosoma,Biodegradável,0.1668,0.2406,0.6932,0.4886,0.6946,Bacteroidota,Spirosomaceae
+Staphylococcus,Biodegradável,0.1974,0.1428,1.382,0.1678,0.4161,Firmicutes,Staphylococcaceae
+Stenotrophobacter,Biodegradável,-0.2067,0.1341,-1.5415,0.1241,0.3908,Acidobacteriota,Blastocatellaceae
+Stenotrophomonas,Biodegradável,0.064,0.2458,0.2603,0.7948,0.8943,Proteobacteria,Xanthomonadaceae
+Steroidobacter,Biodegradável,-0.2905,0.2104,-1.3804,0.1683,0.4161,Proteobacteria,Steroidobacteraceae
+Steroidobacteraceae (NC),Biodegradável,0.0308,0.1497,0.2059,0.837,0.9242,Proteobacteria,Steroidobacteraceae
+Streptococcus,Biodegradável,0.1224,0.0867,1.4118,0.1589,0.4099,Firmicutes,Streptococcaceae
+Streptomyces,Biodegradável,0.1843,0.1655,1.1139,0.2661,0.5146,Actinobacteriota,Streptomycetaceae
+Streptomycetaceae (NC),Biodegradável,0.4436,0.2123,2.0893,0.0374,0.2379,Actinobacteriota,Streptomycetaceae
+Streptosporangium,Biodegradável,0.0192,0.1517,0.1268,0.8991,0.9532,Actinobacteriota,Streptosporangiaceae
+Subdoligranulum,Biodegradável,0.1359,0.1088,1.2485,0.2127,0.4588,Firmicutes,Ruminococcaceae
+Subgroup_10,Biodegradável,-0.2878,0.1587,-1.8137,0.0706,0.304,Acidobacteriota,Thermoanaerobaculaceae
+Subgroup_11,Biodegradável,0.2409,0.1936,1.2447,0.214,0.4588,Acidobacteriota,Subgroup_11
+Subgroup_12,Biodegradável,0.1919,0.1515,1.2663,0.2062,0.4586,Acidobacteriota,Subgroup_12
+Subgroup_13,Biodegradável,0.2369,0.1634,1.4495,0.1481,0.4088,Acidobacteriota,Subgroup_13
+Subgroup_17,Biodegradável,-0.2019,0.1505,-1.3418,0.1805,0.429,Acidobacteriota,Subgroup_17
+Subgroup_18,Biodegradável,0.2451,0.1948,1.2581,0.2092,0.4586,Acidobacteriota,Subgroup_18
+Subgroup_2,Biodegradável,0.194,0.1709,1.1349,0.2572,0.5048,Acidobacteriota,Subgroup_2
+Subgroup_20,Biodegradável,0.1113,0.139,0.8006,0.4239,0.6512,Acidobacteriota,Subgroup_20
+Subgroup_22,Biodegradável,0.1262,0.2012,0.627,0.531,0.7208,Acidobacteriota,Subgroup_22
+Subgroup_25,Biodegradável,-0.3453,0.1749,-1.9741,0.0491,0.2634,Acidobacteriota,Subgroup_25
+Subgroup_5,Biodegradável,-0.0953,0.2096,-0.4549,0.6495,0.8061,Acidobacteriota,Subgroup_5
+Subgroup_7,Biodegradável,-0.246,0.1469,-1.6746,0.0949,0.3503,Acidobacteriota,Subgroup_7
+Sulfurifustis,Biodegradável,0.2518,0.1537,1.6378,0.1023,0.3637,Proteobacteria,Acidiferrobacteraceae
+Sumerlaea,Biodegradável,0.2168,0.1483,1.4622,0.1446,0.4088,Sumerlaeota,Sumerlaeaceae
+TK10,Biodegradável,-0.172,0.1291,-1.3327,0.1835,0.4322,Chloroflexi,TK10
+TM7a,Biodegradável,0.2907,0.1358,2.1405,0.033,0.2213,Patescibacteria,Saccharimonadaceae
+TRA3-20,Biodegradável,-0.4247,0.1478,-2.8724,0.0043,0.0994,Proteobacteria,TRA3-20
+Taibaiella,Biodegradável,-0.0184,0.1819,-0.101,0.9196,0.9557,Bacteroidota,Chitinophagaceae
+Tellurimicrobium,Biodegradável,0.073,0.1967,0.3713,0.7106,0.837,Acidobacteriota,Blastocatellaceae
+Tepidisphaeraceae,Biodegradável,-0.0739,0.1697,-0.4357,0.6633,0.8094,Planctomycetota,Tepidisphaeraceae
+Tepidisphaerales (NC),Biodegradável,-0.0404,0.0896,-0.4509,0.6523,0.8062,Planctomycetota,
+Terrabacter,Biodegradável,0.0221,0.0896,0.2466,0.8054,0.9005,Actinobacteriota,Intrasporangiaceae
+Terracidiphilus,Biodegradável,0.2806,0.2008,1.3974,0.1631,0.4099,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Terrimicrobium,Biodegradável,-0.0139,0.1603,-0.0865,0.9311,0.9591,Verrucomicrobiota,Terrimicrobiaceae
+Terrimonas,Biodegradável,-0.6358,0.1714,-3.7103,0.0002,0.0218,Bacteroidota,Chitinophagaceae
+Thermoleophilia (NC),Biodegradável,-0.1575,0.1867,-0.8434,0.3996,0.6303,Actinobacteriota,
+Thermomonas,Biodegradável,-0.4957,0.2247,-2.2057,0.028,0.204,Proteobacteria,Xanthomonadaceae
+Thermomonosporaceae (NC),Biodegradável,0.5664,0.247,2.2935,0.0224,0.1771,Actinobacteriota,Thermomonosporaceae
+Thiobacillus,Biodegradável,0.2019,0.1139,1.773,0.0771,0.3119,Proteobacteria,Hydrogenophilaceae
+Treponema,Biodegradável,0.1412,0.138,1.0232,0.3069,0.5516,Spirochaetota,Spirochaetaceae
+Truepera,Biodegradável,0.2417,0.2049,1.1795,0.239,0.4924,Deinococcota,Trueperaceae
+Tumebacillus,Biodegradável,0.2443,0.218,1.1208,0.2631,0.5127,Firmicutes,Alicyclobacillaceae
+Tundrisphaera,Biodegradável,-0.2768,0.2391,-1.1576,0.2478,0.4947,Planctomycetota,Isosphaeraceae
+UCG-005,Biodegradável,0.0412,0.0973,0.4237,0.672,0.8113,Firmicutes,Oscillospiraceae
+UTBCD1,Biodegradável,-0.6393,0.2163,-2.9551,0.0033,0.0929,Bacteroidota,Chitinophagaceae
+Veillonella,Biodegradável,0.2565,0.101,2.5405,0.0115,0.1349,Firmicutes,Veillonellaceae
+Vermiphilaceae,Biodegradável,-0.1047,0.1923,-0.5446,0.5864,0.7723,Dependentiae,Vermiphilaceae
+Verrucomicrobiales (NC),Biodegradável,0.0873,0.1561,0.5596,0.5761,0.7664,Verrucomicrobiota,
+Verrucomicrobium,Biodegradável,-0.0824,0.1933,-0.4265,0.67,0.8108,Verrucomicrobiota,Verrucomicrobiaceae
+Vicinamibacter,Biodegradável,-0.223,0.2072,-1.0759,0.2827,0.5332,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacteraceae,Biodegradável,-0.2737,0.1161,-2.3569,0.019,0.162,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacteraceae (NC),Biodegradável,-0.2853,0.1557,-1.8323,0.0677,0.3017,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacterales (NC),Biodegradável,0.2028,0.215,0.9433,0.3462,0.5806,Acidobacteriota,
+Vulgatibacter,Biodegradável,-0.1775,0.181,-0.981,0.3273,0.5577,Myxococcota,Vulgatibacteraceae
+WD2101_soil_group,Biodegradável,0.0077,0.1201,0.0637,0.9492,0.9651,Planctomycetota,WD2101_soil_group
+WPS-2,Biodegradável,0.4847,0.19,2.5514,0.0111,0.1342,WPS-2,WPS-2
+WS2,Biodegradável,0.0481,0.1529,0.3147,0.7532,0.871,WS2,WS2
+WWH38,Biodegradável,0.3305,0.1695,1.9498,0.052,0.2648,Patescibacteria,WWH38
+WX65,Biodegradável,0.0587,0.1935,0.3033,0.7619,0.871,Methylomirabilota,WX65
+Xanthobacteraceae (NC),Biodegradável,0.059,0.0505,1.1673,0.2438,0.4924,Proteobacteria,Xanthobacteraceae
+Xanthomonadaceae (NC),Biodegradável,-0.0157,0.1457,-0.1079,0.9141,0.9532,Proteobacteria,Xanthomonadaceae
+Xanthomonadales (NC),Biodegradável,0.1846,0.228,0.8098,0.4186,0.646,Proteobacteria,
+YC-ZSS-LKJ147,Biodegradável,0.0934,0.2082,0.4486,0.654,0.8062,Gemmatimonadota,Longimicrobiaceae
+YM_S32_TM7_50_20,Biodegradável,0.3171,0.2235,1.4187,0.1569,0.4099,Patescibacteria,YM_S32_TM7_50_20
+ZOR0006,Biodegradável,0.1394,0.1103,1.2635,0.2072,0.4586,Firmicutes,Erysipelotrichaceae
+Zavarzinella,Biodegradável,-0.0102,0.1466,-0.0698,0.9444,0.9626,Planctomycetota,Gemmataceae
+[Eubacterium]_coprostanoligenes_group,Biodegradável,0.1856,0.0842,2.2047,0.0281,0.204,Firmicutes,[Eubacterium]_coprostanoligenes_group
+bacteriap25,Biodegradável,-0.4103,0.1906,-2.1531,0.032,0.2172,Myxococcota,bacteriap25
+env.OPS_17,Biodegradável,0.3453,0.2176,1.5867,0.1134,0.3711,Bacteroidota,env.OPS_17
+mle1-27,Biodegradável,-0.1668,0.2107,-0.7915,0.4292,0.6543,Myxococcota,mle1-27
+mle1-7,Biodegradável,-0.0519,0.1575,-0.3297,0.7419,0.8641,Proteobacteria,Nitrosomonadaceae
+possible_genus_04,Biodegradável,0.5258,0.186,2.827,0.005,0.105,Fibrobacterota,Fibrobacteraceae
+uncultured,Biodegradável,-0.0739,0.0441,-1.6765,0.0945,0.3503,Myxococcota,Myxococcaceae
+vadinHA49,Biodegradável,0.5614,0.1845,3.0429,0.0025,0.0888,Planctomycetota,vadinHA49
+0319-6G20,Não biodegradável,0.4932,0.2352,2.0973,0.0367,0.5194,Bdellovibrionota,0319-6G20
+0319-7L14,Não biodegradável,-0.0699,0.1593,-0.4389,0.661,0.9307,Actinobacteriota,0319-7L14
+11-24,Não biodegradável,-0.323,0.1672,-1.932,0.0541,0.5303,Acidobacteriota,11-24
+27F-1492R,Não biodegradável,0.4472,0.183,2.4439,0.015,0.4418,Myxococcota,27F-1492R
+37-13,Não biodegradável,-0.0573,0.1918,-0.299,0.7651,0.9486,Bacteroidota,37-13
+67-14,Não biodegradável,0.0792,0.1574,0.5032,0.6152,0.9183,Actinobacteriota,67-14
+A0839,Não biodegradável,-0.0786,0.2451,-0.3207,0.7486,0.9462,Proteobacteria,A0839
+A21b,Não biodegradável,0.027,0.1685,0.1604,0.8727,0.9762,Proteobacteria,A21b
+A4b,Não biodegradável,-0.1977,0.1785,-1.1074,0.2688,0.7632,Chloroflexi,A4b
+AD3,Não biodegradável,0.1103,0.1662,0.664,0.5071,0.9023,Chloroflexi,AD3
+ADurb.Bin063-1,Não biodegradável,0.1707,0.229,0.7455,0.4564,0.8733,Verrucomicrobiota,Pedosphaeraceae
+AKAU4049,Não biodegradável,-0.0696,0.202,-0.3447,0.7305,0.9462,Gemmatimonadota,AKAU4049
+AKIW781,Não biodegradável,-0.0363,0.1475,-0.2465,0.8054,0.9703,Chloroflexi,AKIW781
+AKYG1722,Não biodegradável,0.1433,0.1619,0.8847,0.3769,0.8538,Chloroflexi,AKYG1722
+AKYG587,Não biodegradável,-0.1288,0.2171,-0.5933,0.5533,0.9023,Planctomycetota,Phycisphaeraceae
+AKYH767,Não biodegradável,-0.0561,0.2113,-0.2656,0.7907,0.9605,Bacteroidota,AKYH767
+AT-s3-28,Não biodegradável,-0.239,0.2145,-1.114,0.266,0.7632,Acidobacteriota,AT-s3-28
+Abditibacterium,Não biodegradável,-0.1396,0.2591,-0.539,0.5902,0.9174,Abditibacteriota,Abditibacteriaceae
+Acetobacter,Não biodegradável,0.2027,0.1906,1.0637,0.2882,0.7753,Proteobacteria,Acetobacteraceae
+Acetobacteraceae (NC),Não biodegradável,-0.0918,0.1542,-0.5958,0.5517,0.9023,Proteobacteria,Acetobacteraceae
+Acidibacter,Não biodegradável,-0.1141,0.1175,-0.9718,0.3318,0.8243,Proteobacteria,Unknown_Family
+Acidimicrobiia (NC),Não biodegradável,0.141,0.1611,0.8752,0.382,0.8544,Actinobacteriota,
+Acidipila-Silvibacterium,Não biodegradável,0.1618,0.2093,0.773,0.44,0.8733,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Acidobacteriaceae_(Subgroup_1) (NC),Não biodegradável,0.2134,0.209,1.0207,0.3081,0.7984,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Acidobacteriae (NC),Não biodegradável,0.0113,0.2261,0.0499,0.9602,0.9846,Acidobacteriota,
+Acidobacteriales (NC),Não biodegradável,0.2446,0.2178,1.1233,0.2621,0.7632,Acidobacteriota,
+Acidobacteriota (NC),Não biodegradável,-0.1885,0.194,-0.9714,0.332,0.8243,Acidobacteriota,
+Acidothermus,Não biodegradável,-0.0156,0.258,-0.0605,0.9518,0.9846,Actinobacteriota,Acidothermaceae
+Acinetobacter,Não biodegradável,-0.1612,0.1747,-0.9229,0.3567,0.8351,Proteobacteria,Moraxellaceae
+Actinobacteria (NC),Não biodegradável,0.127,0.2765,0.4595,0.6462,0.927,Actinobacteriota,
+Actinobacteriota (NC),Não biodegradável,-0.3843,0.1994,-1.9267,0.0548,0.5303,Actinobacteriota,
+Actinocorallia,Não biodegradável,-0.1184,0.1744,-0.6788,0.4977,0.9023,Actinobacteriota,Thermomonosporaceae
+Actinomarinales (NC),Não biodegradável,0.1361,0.1575,0.864,0.3882,0.8553,Actinobacteriota,
+Actinospica,Não biodegradável,-0.4271,0.2455,-1.7397,0.0828,0.5846,Actinobacteriota,Actinospicaceae
+Adhaeribacter,Não biodegradável,0.0463,0.2237,0.2072,0.836,0.9736,Bacteroidota,Hymenobacteraceae
+Aeromicrobium,Não biodegradável,-0.5526,0.2414,-2.2896,0.0226,0.473,Actinobacteriota,Nocardioidaceae
+Agathobacter,Não biodegradável,-0.0609,0.1071,-0.5682,0.5702,0.9048,Firmicutes,Lachnospiraceae
+Agromyces,Não biodegradável,-0.0589,0.2249,-0.262,0.7935,0.9605,Actinobacteriota,Microbacteriaceae
+Ahniella,Não biodegradável,0.1282,0.231,0.5551,0.5792,0.9109,Proteobacteria,Rhodanobacteraceae
+Akkermansia,Não biodegradável,-0.045,0.0802,-0.5609,0.5752,0.9073,Verrucomicrobiota,Akkermansiaceae
+Alcaligenaceae (NC),Não biodegradável,0.1616,0.2576,0.6275,0.5307,0.9023,Proteobacteria,Alcaligenaceae
+Alistipes,Não biodegradável,0.0029,0.0734,0.0397,0.9684,0.9846,Bacteroidota,Rikenellaceae
+Alloprevotella,Não biodegradável,-0.1381,0.0801,-1.7247,0.0854,0.588,Bacteroidota,Prevotellaceae
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,Não biodegradável,-0.3393,0.2154,-1.5753,0.1161,0.6449,Proteobacteria,Rhizobiaceae
+Alphaproteobacteria (NC),Não biodegradável,0.1628,0.1453,1.1208,0.2631,0.7632,Proteobacteria,
+Alsobacter,Não biodegradável,-0.0541,0.2304,-0.2348,0.8145,0.9703,Proteobacteria,Rhizobiales_Incertae_Sedis
+Altererythrobacter,Não biodegradável,-0.3841,0.2372,-1.6192,0.1063,0.6328,Proteobacteria,Sphingomonadaceae
+Amaricoccus,Não biodegradável,-0.2111,0.1716,-1.2303,0.2194,0.7407,Proteobacteria,Rhodobacteraceae
+Amb-16S-1323,Não biodegradável,0.3309,0.1283,2.5794,0.0103,0.3636,Proteobacteria,Amb-16S-1323
+Amycolatopsis,Não biodegradável,0.2825,0.2327,1.2142,0.2255,0.7407,Actinobacteriota,Pseudonocardiaceae
+Anaerolineaceae (NC),Não biodegradável,-0.0413,0.1836,-0.2251,0.822,0.9703,Chloroflexi,Anaerolineaceae
+Anaerolineae,Não biodegradável,0.0148,0.115,0.1291,0.8974,0.9806,Chloroflexi,Anaerolineae
+Anaerolineae (NC),Não biodegradável,-0.2686,0.179,-1.5011,0.1342,0.6707,Chloroflexi,
+Anaeromyxobacter,Não biodegradável,0.6548,0.2337,2.8013,0.0054,0.2842,Myxococcota,Anaeromyxobacteraceae
+Angustibacter,Não biodegradável,0.1631,0.2055,0.7937,0.4279,0.8733,Actinobacteriota,Kineosporiaceae
+Aquicella,Não biodegradável,0.2903,0.2417,1.2013,0.2304,0.7446,Proteobacteria,Diplorickettsiaceae
+Aquisphaera,Não biodegradável,0.1613,0.2826,0.571,0.5683,0.9048,Planctomycetota,Isosphaeraceae
+Arenimonas,Não biodegradável,-0.228,0.2174,-1.0485,0.2951,0.7859,Proteobacteria,Xanthomonadaceae
+Aridibacter,Não biodegradável,-0.5686,0.2734,-2.0801,0.0382,0.5194,Acidobacteriota,Blastocatellaceae
+Armatimonadales,Não biodegradável,0.2176,0.2115,1.0289,0.3042,0.7942,Armatimonadota,Armatimonadales
+Armatimonadota (NC),Não biodegradável,-0.0981,0.1841,-0.5329,0.5944,0.9175,Armatimonadota,
+Armatimonas,Não biodegradável,-0.0716,0.1839,-0.3893,0.6973,0.9462,Armatimonadota,Armatimonadaceae
+Asticcacaulis,Não biodegradável,0.0397,0.1809,0.2197,0.8262,0.9731,Proteobacteria,Caulobacteraceae
+Aurantisolimonas,Não biodegradável,0.06,0.225,0.2667,0.7898,0.9605,Bacteroidota,Chitinophagaceae
+B1-7BS,Não biodegradável,-0.0296,0.2108,-0.1404,0.8884,0.9782,Proteobacteria,B1-7BS
+BD2-11_terrestrial_group,Não biodegradável,-0.2435,0.2193,-1.1106,0.2675,0.7632,Gemmatimonadota,BD2-11_terrestrial_group
+BD7-11,Não biodegradável,0.0796,0.1805,0.4408,0.6596,0.9307,Planctomycetota,BD7-11
+BIrii41,Não biodegradável,-0.1102,0.1822,-0.6049,0.5456,0.9023,Myxococcota,BIrii41
+BSV26,Não biodegradável,0.1159,0.2059,0.563,0.5738,0.9073,Bacteroidota,BSV26
+Babeliales (NC),Não biodegradável,-0.0177,0.2085,-0.0847,0.9326,0.9846,Dependentiae,
+Bacillaceae (NC),Não biodegradável,0.2224,0.2053,1.0832,0.2794,0.7663,Firmicutes,Bacillaceae
+Bacillales (NC),Não biodegradável,0.128,0.1773,0.7222,0.4706,0.8807,Firmicutes,
+Bacilli (NC),Não biodegradável,0.2066,0.218,0.9476,0.344,0.8325,Firmicutes,
+Bacillus,Não biodegradável,-0.0112,0.2373,-0.0471,0.9624,0.9846,Firmicutes,Bacillaceae
+Bacteroidales (NC),Não biodegradável,0.3559,0.1482,2.4007,0.0169,0.447,Bacteroidota,
+Bacteroides,Não biodegradável,0.0207,0.0707,0.2924,0.7702,0.9486,Bacteroidota,Bacteroidaceae
+Bacteroidia (NC),Não biodegradável,0.267,0.21,1.2715,0.2044,0.7407,Bacteroidota,
+Bauldia,Não biodegradável,-0.1527,0.2036,-0.7499,0.4538,0.8733,Proteobacteria,Rhizobiales_Incertae_Sedis
+Bdellovibrio,Não biodegradável,0.2725,0.2014,1.3536,0.1767,0.7196,Bdellovibrionota,Bdellovibrionaceae
+Beijerinckiaceae (NC),Não biodegradável,-0.2067,0.1879,-1.0998,0.2722,0.7632,Proteobacteria,Beijerinckiaceae
+Belnapia,Não biodegradável,0.1312,0.2445,0.5364,0.592,0.9174,Proteobacteria,Acetobacteraceae
+Berkelbacteria,Não biodegradável,0.4219,0.1592,2.6491,0.0084,0.3434,Patescibacteria,Berkelbacteria
+Bifidobacterium,Não biodegradável,-0.1151,0.1381,-0.8335,0.4051,0.8728,Actinobacteriota,Bifidobacteriaceae
+Blastocatella,Não biodegradável,-0.2524,0.2124,-1.1886,0.2354,0.747,Acidobacteriota,Blastocatellaceae
+Blastocatellaceae (NC),Não biodegradável,-0.0541,0.124,-0.4363,0.6629,0.9307,Acidobacteriota,Blastocatellaceae
+Blastocatellia (NC),Não biodegradável,0.1191,0.2446,0.4868,0.6267,0.9232,Acidobacteriota,
+Blastococcus,Não biodegradável,-0.1061,0.2109,-0.5031,0.6152,0.9183,Actinobacteriota,Geodermatophilaceae
+Blfdi19,Não biodegradável,0.4462,0.2098,2.1269,0.0341,0.515,Myxococcota,Blfdi19
+Bosea,Não biodegradável,-0.2347,0.2612,-0.8985,0.3695,0.8479,Proteobacteria,Beijerinckiaceae
+Bradyrhizobium,Não biodegradável,0.1054,0.2832,0.3722,0.71,0.9462,Proteobacteria,Xanthobacteraceae
+Brevundimonas,Não biodegradável,0.1004,0.2629,0.3819,0.7027,0.9462,Proteobacteria,Caulobacteraceae
+Bryobacter,Não biodegradável,0.0108,0.0801,0.1342,0.8933,0.9782,Acidobacteriota,Bryobacteraceae
+Burkholderia-Caballeronia-Paraburkholderia,Não biodegradável,0.427,0.234,1.8245,0.0689,0.558,Proteobacteria,Burkholderiaceae
+Burkholderiales (NC),Não biodegradável,-0.2365,0.2329,-1.0153,0.3107,0.7984,Proteobacteria,
+C0119,Não biodegradável,-0.0691,0.1668,-0.4143,0.6789,0.9419,Chloroflexi,C0119
+CCD24,Não biodegradável,-0.1183,0.1993,-0.5938,0.553,0.9023,Proteobacteria,CCD24
+CL500-29_marine_group,Não biodegradável,-0.2027,0.216,-0.9384,0.3486,0.834,Actinobacteriota,Ilumatobacteraceae
+CPla-3_termite_group,Não biodegradável,0.0645,0.113,0.5709,0.5684,0.9048,Planctomycetota,CPla-3_termite_group
+Caldilineaceae,Não biodegradável,0.1363,0.167,0.8165,0.4148,0.8733,Chloroflexi,Caldilineaceae
+Caldilineaceae (NC),Não biodegradável,-0.0234,0.1727,-0.1356,0.8922,0.9782,Chloroflexi,Caldilineaceae
+Candidatus_Alysiosphaera,Não biodegradável,-0.0835,0.1941,-0.4302,0.6673,0.9307,Proteobacteria,Geminicoccaceae
+Candidatus_Bacilloplasma,Não biodegradável,-0.0477,0.1396,-0.3417,0.7328,0.9462,Firmicutes,Mycoplasmataceae
+Candidatus_Berkiella,Não biodegradável,0.1612,0.1976,0.8159,0.4151,0.8733,Proteobacteria,Unknown_Family
+Candidatus_Kaiserbacteria,Não biodegradável,-0.114,0.1694,-0.6728,0.5015,0.9023,Patescibacteria,Candidatus_Kaiserbacteria
+Candidatus_Koribacter,Não biodegradável,0.2639,0.2185,1.2081,0.2278,0.7407,Acidobacteriota,Koribacteraceae
+Candidatus_Ovatusbacter,Não biodegradável,0.0108,0.2082,0.0517,0.9588,0.9846,Proteobacteria,Unknown_Family
+Candidatus_Peribacteria,Não biodegradável,0.1085,0.1758,0.6173,0.5374,0.9023,Patescibacteria,Candidatus_Peribacteria
+Candidatus_Solibacter,Não biodegradável,-0.3341,0.1558,-2.1449,0.0326,0.515,Acidobacteriota,Solibacteraceae
+Candidatus_Udaeobacter,Não biodegradável,-0.027,0.1668,-0.1617,0.8716,0.9762,Verrucomicrobiota,Chthoniobacteraceae
+Candidatus_Xiphinematobacter,Não biodegradável,-0.3256,0.2641,-1.2325,0.2186,0.7407,Verrucomicrobiota,Xiphinematobacteraceae
+Catellatospora,Não biodegradável,-0.0528,0.225,-0.2345,0.8148,0.9703,Actinobacteriota,Micromonosporaceae
+Catenulispora,Não biodegradável,0.2271,0.2686,0.8452,0.3985,0.8657,Actinobacteriota,Catenulisporaceae
+Caulobacter,Não biodegradável,-0.4382,0.2505,-1.749,0.0811,0.5846,Proteobacteria,Caulobacteraceae
+Caulobacteraceae (NC),Não biodegradável,-0.0923,0.2635,-0.3502,0.7264,0.9462,Proteobacteria,Caulobacteraceae
+Cellulomonas,Não biodegradável,-0.5366,0.1915,-2.8027,0.0053,0.2842,Actinobacteriota,Cellulomonadaceae
+Cellvibrio,Não biodegradável,-0.3113,0.2105,-1.4784,0.1402,0.6707,Proteobacteria,Cellvibrionaceae
+Cetobacterium,Não biodegradável,0.0073,0.0716,0.1025,0.9184,0.9846,Fusobacteriota,Fusobacteriaceae
+Chitinophaga,Não biodegradável,-0.1421,0.2484,-0.5722,0.5675,0.9048,Bacteroidota,Chitinophagaceae
+Chitinophagaceae (NC),Não biodegradável,0.2369,0.143,1.6569,0.0984,0.6065,Bacteroidota,Chitinophagaceae
+Chitinophagales (NC),Não biodegradável,-0.3345,0.227,-1.474,0.1413,0.6707,Bacteroidota,
+Chloroflexi (NC),Não biodegradável,-0.1967,0.1773,-1.1092,0.2681,0.7632,Chloroflexi,
+Christensenellaceae_R-7_group,Não biodegradável,-0.1568,0.1387,-1.1305,0.259,0.7632,Firmicutes,Christensenellaceae
+Chryseobacterium,Não biodegradável,-0.2736,0.243,-1.1256,0.2611,0.7632,Bacteroidota,Weeksellaceae
+Chryseolinea,Não biodegradável,-0.1397,0.2416,-0.5784,0.5634,0.9048,Bacteroidota,Microscillaceae
+Chthoniobacter,Não biodegradável,0.0817,0.1579,0.5173,0.6053,0.9183,Verrucomicrobiota,Chthoniobacteraceae
+Chthoniobacteraceae (NC),Não biodegradável,-0.1147,0.1917,-0.5984,0.55,0.9023,Verrucomicrobiota,Chthoniobacteraceae
+Chthonomonadales,Não biodegradável,-0.3141,0.1614,-1.9466,0.0524,0.5303,Armatimonadota,Chthonomonadales
+Chthonomonas,Não biodegradável,-0.2087,0.1828,-1.1416,0.2544,0.7632,Armatimonadota,Chthonomonadaceae
+Chujaibacter,Não biodegradável,0.414,0.2634,1.572,0.1168,0.6449,Proteobacteria,Rhodanobacteraceae
+Citrifermentans,Não biodegradável,0.48,0.1905,2.5196,0.0122,0.3854,Desulfobacterota,Geobacteraceae
+Clostridia (NC),Não biodegradável,0.2697,0.1855,1.4537,0.1469,0.6769,Firmicutes,
+Clostridia_UCG-014,Não biodegradável,0.0108,0.1243,0.0869,0.9308,0.9846,Firmicutes,Clostridia_UCG-014
+Clostridium_sensu_stricto_1,Não biodegradável,-0.0862,0.226,-0.3816,0.703,0.9462,Firmicutes,Clostridiaceae
+Clostridium_sensu_stricto_13,Não biodegradável,0.2033,0.1393,1.459,0.1454,0.6761,Firmicutes,Clostridiaceae
+Cohnella,Não biodegradável,0.1189,0.2208,0.5386,0.5905,0.9174,Firmicutes,Paenibacillaceae
+Comamonadaceae (NC),Não biodegradável,0.2028,0.1006,2.0156,0.0446,0.5216,Proteobacteria,Comamonadaceae
+Conexibacter,Não biodegradável,0.0448,0.1919,0.2335,0.8155,0.9703,Actinobacteriota,Solirubrobacteraceae
+Corynebacterium,Não biodegradável,-0.0218,0.1292,-0.1685,0.8663,0.9762,Actinobacteriota,Corynebacteriaceae
+Cupriavidus,Não biodegradável,0.3572,0.2837,1.2589,0.2089,0.7407,Proteobacteria,Burkholderiaceae
+Cutibacterium,Não biodegradável,0.0696,0.1603,0.4343,0.6643,0.9307,Actinobacteriota,Propionibacteriaceae
+DEV008,Não biodegradável,0.1979,0.1629,1.215,0.2252,0.7407,Verrucomicrobiota,Pedosphaeraceae
+DEV114,Não biodegradável,-0.0283,0.1719,-0.1645,0.8694,0.9762,Verrucomicrobiota,Pedosphaeraceae
+DS-100,Não biodegradável,-0.314,0.1698,-1.8489,0.0653,0.5564,Acidobacteriota,DS-100
+Dactylosporangium,Não biodegradável,0.2113,0.1612,1.3108,0.1908,0.738,Actinobacteriota,Micromonosporaceae
+Dadabacteriales,Não biodegradável,0.0244,0.1698,0.1438,0.8858,0.9782,Dadabacteria,Dadabacteriales
+Deinococcus,Não biodegradável,-0.067,0.275,-0.2436,0.8077,0.9703,Deinococcota,Deinococcaceae
+Desulfobacterota (NC),Não biodegradável,0.0766,0.1901,0.4028,0.6873,0.9462,Desulfobacterota,
+Desulfovibrio,Não biodegradável,-0.0744,0.0952,-0.7814,0.4351,0.8733,Desulfobacterota,Desulfovibrionaceae
+Devosia,Não biodegradável,-0.5627,0.2238,-2.5142,0.0124,0.3854,Proteobacteria,Devosiaceae
+Devosiaceae (NC),Não biodegradável,0.0385,0.1168,0.3297,0.7418,0.9462,Proteobacteria,Devosiaceae
+Dinghuibacter,Não biodegradável,0.251,0.1703,1.4736,0.1415,0.6707,Bacteroidota,Chitinophagaceae
+Dokdonella,Não biodegradável,0.0592,0.1857,0.3187,0.7501,0.9462,Proteobacteria,Rhodanobacteraceae
+Dongia,Não biodegradável,0.0637,0.1712,0.3721,0.71,0.9462,Proteobacteria,Dongiaceae
+Dubosiella,Não biodegradável,-0.378,0.1268,-2.9815,0.0031,0.2752,Firmicutes,Erysipelotrichaceae
+Dyadobacter,Não biodegradável,-0.1781,0.2183,-0.8161,0.415,0.8733,Bacteroidota,Spirosomaceae
+Dysgonomonas,Não biodegradável,-0.0477,0.1625,-0.2936,0.7693,0.9486,Bacteroidota,Dysgonomonadaceae
+EPR3968-O8a-Bc78,Não biodegradável,0.1403,0.1838,0.7631,0.4459,0.8733,Proteobacteria,EPR3968-O8a-Bc78
+Edaphobacter,Não biodegradável,0.1296,0.2169,0.5973,0.5507,0.9023,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Edaphobaculum,Não biodegradável,0.1717,0.2259,0.76,0.4478,0.8733,Bacteroidota,Chitinophagaceae
+Elizabethkingia,Não biodegradável,0.1788,0.1908,0.9371,0.3494,0.834,Bacteroidota,Weeksellaceae
+Ellin516,Não biodegradável,0.0496,0.2383,0.2083,0.8351,0.9736,Verrucomicrobiota,Pedosphaeraceae
+Ellin517,Não biodegradável,-0.0267,0.211,-0.1265,0.8994,0.9806,Verrucomicrobiota,Pedosphaeraceae
+Ellin6055,Não biodegradável,-0.546,0.249,-2.1933,0.0289,0.4945,Proteobacteria,Sphingomonadaceae
+Ellin6067,Não biodegradável,0.2574,0.1144,2.2511,0.025,0.473,Proteobacteria,Nitrosomonadaceae
+Ensifer,Não biodegradável,0.1642,0.1451,1.1312,0.2587,0.7632,Proteobacteria,Rhizobiaceae
+Enterobacterales (NC),Não biodegradável,-0.1914,0.2494,-0.7677,0.4432,0.8733,Proteobacteria,
+Enterobacteriaceae (NC),Não biodegradável,0.1504,0.1909,0.7875,0.4315,0.8733,Proteobacteria,Enterobacteriaceae
+Enterococcaceae (NC),Não biodegradável,-0.2704,0.1515,-1.7848,0.0751,0.573,Firmicutes,Enterococcaceae
+Entotheonellaceae,Não biodegradável,-0.2879,0.2309,-1.2466,0.2134,0.7407,Entotheonellaeota,Entotheonellaceae
+Erysipelatoclostridium,Não biodegradável,-0.0241,0.1244,-0.1938,0.8465,0.9736,Firmicutes,Erysipelatoclostridiaceae
+Escherichia-Shigella,Não biodegradável,-0.0211,0.0582,-0.3619,0.7176,0.9462,Proteobacteria,Enterobacteriaceae
+FCPS473,Não biodegradável,0.1333,0.2206,0.6042,0.5461,0.9023,Chloroflexi,Ktedonobacteraceae
+FCPU426,Não biodegradável,0.4248,0.204,2.0829,0.038,0.5194,FCPU426,FCPU426
+FFCH7168,Não biodegradável,-0.3027,0.1668,-1.8154,0.0703,0.558,Chloroflexi,Chloroflexaceae
+Faecalibacterium,Não biodegradável,-0.0645,0.0877,-0.7358,0.4624,0.8783,Firmicutes,Ruminococcaceae
+Ferruginibacter,Não biodegradável,-0.3725,0.2792,-1.3341,0.183,0.7196,Bacteroidota,Chitinophagaceae
+Fictibacillus,Não biodegradável,-0.0073,0.2283,-0.0318,0.9746,0.9846,Firmicutes,Bacillaceae
+Fimbriiglobus,Não biodegradável,0.1957,0.0976,2.0064,0.0456,0.5216,Planctomycetota,Gemmataceae
+Fimbriimonadaceae,Não biodegradável,0.074,0.2107,0.3511,0.7257,0.9462,Armatimonadota,Fimbriimonadaceae
+Firmicutes (NC),Não biodegradável,0.3184,0.2591,1.2291,0.2198,0.7407,Firmicutes,
+Flaviaesturariibacter,Não biodegradável,-0.1724,0.2262,-0.7622,0.4464,0.8733,Bacteroidota,Chitinophagaceae
+Flavisolibacter,Não biodegradável,0.1126,0.1712,0.6577,0.5112,0.9023,Bacteroidota,Chitinophagaceae
+Flavitalea,Não biodegradável,-0.0046,0.231,-0.02,0.984,0.9877,Bacteroidota,Chitinophagaceae
+Flavobacterium,Não biodegradável,-0.4785,0.2053,-2.3315,0.0203,0.473,Bacteroidota,Flavobacteriaceae
+Fluviicola,Não biodegradável,0.4362,0.193,2.2598,0.0244,0.473,Bacteroidota,Crocinitomicaceae
+Frankiales (NC),Não biodegradável,0.0204,0.2691,0.0759,0.9396,0.9846,Actinobacteriota,
+Fusobacterium,Não biodegradável,-0.0521,0.1336,-0.3899,0.6969,0.9462,Fusobacteriota,Fusobacteriaceae
+GAL15,Não biodegradável,-0.0514,0.2431,-0.2115,0.8326,0.9736,GAL15,GAL15
+Gaiella,Não biodegradável,0.0737,0.2022,0.3646,0.7156,0.9462,Actinobacteriota,Gaiellaceae
+Gaiellales (NC),Não biodegradável,0.1041,0.1741,0.5982,0.5501,0.9023,Actinobacteriota,
+Gammaproteobacteria (NC),Não biodegradável,-0.1346,0.1985,-0.6778,0.4983,0.9023,Proteobacteria,
+Gemmata,Não biodegradável,-0.0546,0.1124,-0.4858,0.6274,0.9232,Planctomycetota,Gemmataceae
+Gemmataceae (NC),Não biodegradável,0.1238,0.1981,0.6248,0.5325,0.9023,Planctomycetota,Gemmataceae
+Gemmatimonadaceae (NC),Não biodegradável,0.0578,0.1179,0.4907,0.624,0.9232,Gemmatimonadota,Gemmatimonadaceae
+Gemmatimonadota (NC),Não biodegradável,0.4454,0.1404,3.172,0.0016,0.2371,Gemmatimonadota,
+Gemmatimonas,Não biodegradável,-0.0228,0.1396,-0.163,0.8706,0.9762,Gemmatimonadota,Gemmatimonadaceae
+Geobacter,Não biodegradável,-0.0879,0.1957,-0.4489,0.6538,0.9289,Desulfobacterota,Geobacteraceae
+Geobacteraceae (NC),Não biodegradável,0.0446,0.2503,0.1783,0.8586,0.9762,Desulfobacterota,Geobacteraceae
+Geodermatophilaceae (NC),Não biodegradável,-0.2692,0.2211,-1.2179,0.2241,0.7407,Actinobacteriota,Geodermatophilaceae
+Geodermatophilus,Não biodegradável,-0.7499,0.1942,-3.8615,0.0001,0.0707,Actinobacteriota,Geodermatophilaceae
+Gitt-GS-136,Não biodegradável,0.2198,0.1721,1.2769,0.2025,0.7407,Chloroflexi,Gitt-GS-136
+Granulicella,Não biodegradável,0.319,0.2331,1.3685,0.172,0.7178,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+HSB_OF53-F07,Não biodegradável,0.0833,0.2519,0.3307,0.7411,0.9462,Chloroflexi,Ktedonobacteraceae
+HT002,Não biodegradável,-0.0539,0.1442,-0.3738,0.7088,0.9462,Firmicutes,Lactobacillaceae
+Haliangium,Não biodegradável,0.1547,0.1527,1.0128,0.3118,0.7984,Myxococcota,Haliangiaceae
+Hamadaea,Não biodegradável,0.2287,0.1859,1.2298,0.2196,0.7407,Actinobacteriota,Micromonosporaceae
+Hassallia,Não biodegradável,-0.2876,0.2146,-1.3402,0.181,0.7196,Bacteroidota,Microscillaceae
+Helicobacter,Não biodegradável,-0.0329,0.0579,-0.5689,0.5698,0.9048,Campylobacterota,Helicobacteraceae
+Herpetosiphon,Não biodegradável,-0.1896,0.2394,-0.7922,0.4288,0.8733,Chloroflexi,Herpetosiphonaceae
+Hirschia,Não biodegradável,-0.0244,0.2179,-0.112,0.9109,0.9832,Proteobacteria,Hyphomonadaceae
+Holophaga,Não biodegradável,0.179,0.2567,0.6971,0.4862,0.8978,Acidobacteriota,Holophagaceae
+Hydrogenedensaceae,Não biodegradável,0.2125,0.17,1.2498,0.2122,0.7407,Hydrogenedentes,Hydrogenedensaceae
+Hymenobacter,Não biodegradável,0.1296,0.2687,0.4824,0.6298,0.9232,Bacteroidota,Hymenobacteraceae
+Hyphomicrobiaceae (NC),Não biodegradável,-0.0304,0.2194,-0.1385,0.8899,0.9782,Proteobacteria,Hyphomicrobiaceae
+Hyphomicrobium,Não biodegradável,-0.1951,0.1767,-1.104,0.2703,0.7632,Proteobacteria,Hyphomicrobiaceae
+IMCC26256,Não biodegradável,-0.0498,0.1099,-0.4529,0.6509,0.9289,Actinobacteriota,IMCC26256
+IS-44,Não biodegradável,-0.0733,0.2273,-0.3225,0.7473,0.9462,Proteobacteria,Nitrosomonadaceae
+Iamia,Não biodegradável,-0.2816,0.2488,-1.1318,0.2585,0.7632,Actinobacteriota,Iamiaceae
+Ilumatobacteraceae (NC),Não biodegradável,-0.2896,0.2308,-1.2546,0.2104,0.7407,Actinobacteriota,Ilumatobacteraceae
+Inquilinus,Não biodegradável,0.0899,0.1996,0.4506,0.6526,0.9289,Proteobacteria,Inquilinaceae
+Intrasporangiaceae (NC),Não biodegradável,-0.0994,0.1605,-0.6193,0.5361,0.9023,Actinobacteriota,Intrasporangiaceae
+Isosphaeraceae (NC),Não biodegradável,0.3167,0.2071,1.529,0.1271,0.6671,Planctomycetota,Isosphaeraceae
+JCM_18997,Não biodegradável,0.2326,0.2126,1.0941,0.2746,0.766,Actinobacteriota,Solirubrobacteraceae
+JG30-KF-AS9,Não biodegradável,0.0292,0.2,0.1461,0.8839,0.9782,Chloroflexi,JG30-KF-AS9
+JG30-KF-CM45,Não biodegradável,0.0708,0.1531,0.4625,0.644,0.927,Chloroflexi,JG30-KF-CM45
+JG30-KF-CM66,Não biodegradável,-0.2951,0.1649,-1.7894,0.0744,0.573,Chloroflexi,JG30-KF-CM66
+JG30a-KF-32,Não biodegradável,0.558,0.2141,2.6065,0.0095,0.3605,Chloroflexi,Ktedonobacteraceae
+JGI_0001001-H03,Não biodegradável,-0.1575,0.1747,-0.902,0.3677,0.8479,Acidobacteriota,Blastocatellaceae
+Jatrophihabitans,Não biodegradável,0.1451,0.2773,0.5234,0.601,0.9183,Actinobacteriota,Frankiaceae
+KD3-10,Não biodegradável,0.3207,0.2122,1.511,0.1316,0.6707,Myxococcota,Myxococcaceae
+KD3-93,Não biodegradável,0.1139,0.2068,0.5508,0.5821,0.9128,Bacteroidota,KD3-93
+KD4-96,Não biodegradável,-0.0074,0.1689,-0.0439,0.965,0.9846,Chloroflexi,KD4-96
+KF-JG30-B3,Não biodegradável,-0.3002,0.1907,-1.5742,0.1163,0.6449,Proteobacteria,KF-JG30-B3
+KF-JG30-C25,Não biodegradável,0.2057,0.2639,0.7794,0.4362,0.8733,Proteobacteria,KF-JG30-C25
+KI89A_clade,Não biodegradável,-0.2501,0.1798,-1.3911,0.1651,0.6998,Proteobacteria,KI89A_clade
+Kapabacteriales,Não biodegradável,0.0227,0.1872,0.1214,0.9034,0.9806,Bacteroidota,Kapabacteriales
+Kineosporiaceae (NC),Não biodegradável,0.0604,0.2536,0.2384,0.8117,0.9703,Actinobacteriota,Kineosporiaceae
+Kribbella,Não biodegradável,-0.0055,0.1758,-0.0314,0.975,0.9846,Actinobacteriota,Nocardioidaceae
+Ktedonobacter,Não biodegradável,0.3189,0.1915,1.6655,0.0967,0.6028,Chloroflexi,Ktedonobacteraceae
+Ktedonobacteraceae (NC),Não biodegradável,0.0187,0.261,0.0718,0.9428,0.9846,Chloroflexi,Ktedonobacteraceae
+LD29,Não biodegradável,0.0448,0.2268,0.1976,0.8435,0.9736,Verrucomicrobiota,Chthoniobacteraceae
+LWQ8,Não biodegradável,0.2263,0.1619,1.3977,0.1631,0.6969,Patescibacteria,LWQ8
+Labrys,Não biodegradável,0.1733,0.2287,0.7579,0.449,0.8733,Proteobacteria,Labraceae
+Lachnospiraceae (NC),Não biodegradável,-0.0044,0.1387,-0.0319,0.9746,0.9846,Firmicutes,Lachnospiraceae
+Lachnospiraceae_NK4A136_group,Não biodegradável,-0.0847,0.1027,-0.8251,0.4098,0.8733,Firmicutes,Lachnospiraceae
+Lactiplantibacillus,Não biodegradável,0.1022,0.1311,0.7796,0.4361,0.8733,Firmicutes,Lactobacillaceae
+Lactobacillaceae (NC),Não biodegradável,0.0318,0.0983,0.3239,0.7462,0.9462,Firmicutes,Lactobacillaceae
+Lactobacillus,Não biodegradável,0.0802,0.1273,0.6295,0.5294,0.9023,Firmicutes,Lactobacillaceae
+Lacunisphaera,Não biodegradável,0.3043,0.2247,1.3541,0.1766,0.7196,Verrucomicrobiota,Opitutaceae
+Latescibacteraceae,Não biodegradável,-0.1517,0.1989,-0.7629,0.446,0.8733,Latescibacterota,Latescibacteraceae
+Latescibacterota,Não biodegradável,-0.4427,0.1648,-2.6861,0.0076,0.3364,Latescibacterota,Latescibacterota
+Lautropia,Não biodegradável,-0.3204,0.1844,-1.737,0.0832,0.5846,Proteobacteria,Burkholderiaceae
+Legionella,Não biodegradável,-0.0972,0.2411,-0.4032,0.6871,0.9462,Proteobacteria,Legionellaceae
+Leptolyngbya_EcFYyyy-00,Não biodegradável,-0.2963,0.2296,-1.2902,0.1978,0.7407,Cyanobacteria,Unknown_Family
+Ligilactobacillus,Não biodegradável,-0.1219,0.0991,-1.2308,0.2192,0.7407,Firmicutes,Lactobacillaceae
+Lineage_IIa,Não biodegradável,-0.0305,0.1995,-0.153,0.8785,0.9781,Elusimicrobiota,Lineage_IIa
+Lineage_IIb,Não biodegradável,0.0954,0.1894,0.5036,0.6148,0.9183,Elusimicrobiota,Lineage_IIb
+Lineage_IV,Não biodegradável,0.2652,0.2228,1.1903,0.2347,0.747,Elusimicrobiota,Lineage_IV
+Litorilinea,Não biodegradável,-0.0734,0.1162,-0.6318,0.5279,0.9023,Chloroflexi,Caldilineaceae
+Longimicrobiaceae,Não biodegradável,0.5192,0.2538,2.0458,0.0415,0.5216,Gemmatimonadota,Longimicrobiaceae
+Luedemannella,Não biodegradável,0.0854,0.2301,0.3713,0.7106,0.9462,Actinobacteriota,Micromonosporaceae
+Luteimonas,Não biodegradável,0.5105,0.2358,2.1647,0.0311,0.5144,Proteobacteria,Xanthomonadaceae
+Luteitalea,Não biodegradável,0.4613,0.2742,1.6826,0.0933,0.6002,Acidobacteriota,Vicinamibacteraceae
+Luteolibacter,Não biodegradável,0.0757,0.2373,0.3189,0.75,0.9462,Verrucomicrobiota,Rubritaleaceae
+Lysobacter,Não biodegradável,-0.1376,0.2293,-0.6002,0.5488,0.9023,Proteobacteria,Xanthomonadaceae
+MB-A2-108,Não biodegradável,0.1463,0.1871,0.782,0.4347,0.8733,Actinobacteriota,MB-A2-108
+MBNT15,Não biodegradável,-0.0383,0.2354,-0.1625,0.871,0.9762,MBNT15,MBNT15
+MND1,Não biodegradável,0.2356,0.1322,1.7814,0.0757,0.573,Proteobacteria,Nitrosomonadaceae
+Marmoricola,Não biodegradável,0.1514,0.1735,0.8722,0.3837,0.8544,Actinobacteriota,Nocardioidaceae
+Massilia,Não biodegradável,-0.4039,0.1439,-2.8063,0.0053,0.2842,Proteobacteria,Oxalobacteraceae
+Megamonas,Não biodegradável,-0.3796,0.1728,-2.1964,0.0287,0.4945,Firmicutes,Selenomonadaceae
+Mesorhizobium,Não biodegradável,-0.1402,0.218,-0.6431,0.5206,0.9023,Proteobacteria,Rhizobiaceae
+Methylobacterium-Methylorubrum,Não biodegradável,-0.534,0.2523,-2.1165,0.035,0.515,Proteobacteria,Beijerinckiaceae
+Methyloligellaceae,Não biodegradável,-0.2007,0.2787,-0.7201,0.4719,0.8807,Proteobacteria,Methyloligellaceae
+Methylophilaceae (NC),Não biodegradável,0.1191,0.2486,0.4791,0.6321,0.9232,Proteobacteria,Methylophilaceae
+Methylotenera,Não biodegradável,-0.0521,0.2436,-0.214,0.8307,0.9736,Proteobacteria,Methylophilaceae
+Microbacteriaceae (NC),Não biodegradável,-0.1626,0.2635,-0.6172,0.5375,0.9023,Actinobacteriota,Microbacteriaceae
+Microbacterium,Não biodegradável,-0.5505,0.238,-2.3135,0.0213,0.473,Actinobacteriota,Microbacteriaceae
+Microbispora,Não biodegradável,-0.0088,0.1802,-0.0486,0.9613,0.9846,Actinobacteriota,Streptosporangiaceae
+Micrococcaceae (NC),Não biodegradável,-0.1882,0.1203,-1.564,0.1187,0.6485,Actinobacteriota,Micrococcaceae
+Microlunatus,Não biodegradável,-0.1886,0.1252,-1.5059,0.133,0.6707,Actinobacteriota,Propionibacteriaceae
+Micromonospora,Não biodegradável,-0.0032,0.2001,-0.0158,0.9874,0.9893,Actinobacteriota,Micromonosporaceae
+Micromonosporaceae (NC),Não biodegradável,-0.2281,0.2243,-1.017,0.3099,0.7984,Actinobacteriota,Micromonosporaceae
+Micropepsaceae (NC),Não biodegradável,0.0495,0.256,0.1933,0.8469,0.9736,Proteobacteria,Micropepsaceae
+Microscillaceae (NC),Não biodegradável,0.521,0.2442,2.1331,0.0336,0.515,Bacteroidota,Microscillaceae
+Microtrichales (NC),Não biodegradável,0.0653,0.246,0.2655,0.7908,0.9605,Actinobacteriota,
+Microvirga,Não biodegradável,0.3681,0.2452,1.5011,0.1342,0.6707,Proteobacteria,Beijerinckiaceae
+Mizugakiibacter,Não biodegradável,0.3367,0.2291,1.4697,0.1425,0.6707,Proteobacteria,Rhodanobacteraceae
+Monoglobus,Não biodegradável,-0.0798,0.1248,-0.6396,0.5229,0.9023,Firmicutes,Monoglobaceae
+Morganella,Não biodegradável,0.2683,0.1893,1.4175,0.1572,0.6885,Proteobacteria,Morganellaceae
+Mucilaginibacter,Não biodegradável,-0.2385,0.2528,-0.9432,0.3462,0.834,Bacteroidota,Sphingobacteriaceae
+Mucispirillum,Não biodegradável,0.0524,0.1212,0.4321,0.666,0.9307,Deferribacterota,Deferribacteraceae
+Muribaculaceae,Não biodegradável,-0.0702,0.0762,-0.9214,0.3574,0.8351,Bacteroidota,Muribaculaceae
+Muribaculum,Não biodegradável,-0.0643,0.131,-0.4909,0.6238,0.9232,Bacteroidota,Muribaculaceae
+Mycobacterium,Não biodegradável,-0.1721,0.1801,-0.9556,0.3399,0.8302,Actinobacteriota,Mycobacteriaceae
+Mycoplasma,Não biodegradável,0.0993,0.164,0.6054,0.5453,0.9023,Firmicutes,Mycoplasmataceae
+Myxococcaceae (NC),Não biodegradável,0.414,0.1741,2.3785,0.0179,0.4518,Myxococcota,Myxococcaceae
+NB1-j,Não biodegradável,-0.1549,0.205,-0.7556,0.4504,0.8733,NB1-j,NB1-j
+NS11-12_marine_group,Não biodegradável,0.332,0.1985,1.6729,0.0952,0.6007,Bacteroidota,NS11-12_marine_group
+NS9_marine_group,Não biodegradável,0.0314,0.1837,0.1711,0.8642,0.9762,Bacteroidota,NS9_marine_group
+Nakamurella,Não biodegradável,-0.0844,0.1685,-0.5008,0.6168,0.9183,Actinobacteriota,Nakamurellaceae
+Nannocystaceae,Não biodegradável,0.1523,0.1384,1.1011,0.2716,0.7632,Myxococcota,Nannocystaceae
+Nannocystis,Não biodegradável,0.3017,0.1899,1.5888,0.113,0.6449,Myxococcota,Nannocystaceae
+Neorhizobium,Não biodegradável,0.3707,0.2272,1.6318,0.1036,0.6239,Proteobacteria,Rhizobiaceae
+Niastella,Não biodegradável,-0.2875,0.214,-1.3431,0.1801,0.7196,Bacteroidota,Chitinophagaceae
+Nitrolancea,Não biodegradável,0.5943,0.1692,3.513,0.0005,0.1322,Chloroflexi,Thermomicrobiaceae
+Nitrosospira,Não biodegradável,0.0174,0.2154,0.0806,0.9358,0.9846,Proteobacteria,Nitrosomonadaceae
+Nitrospira,Não biodegradável,-0.0903,0.1075,-0.8401,0.4014,0.8683,Nitrospirota,Nitrospiraceae
+Nocardia,Não biodegradável,-0.6209,0.2758,-2.2509,0.025,0.473,Actinobacteriota,Nocardiaceae
+Nocardioidaceae (NC),Não biodegradável,0.5984,0.223,2.6836,0.0076,0.3364,Actinobacteriota,Nocardioidaceae
+Nocardioides,Não biodegradável,-0.0344,0.1314,-0.2616,0.7938,0.9605,Actinobacteriota,Nocardioidaceae
+Nonomuraea,Não biodegradável,0.0666,0.2065,0.3224,0.7474,0.9462,Actinobacteriota,Streptosporangiaceae
+Nordella,Não biodegradável,-0.1572,0.1822,-0.8626,0.3889,0.8553,Proteobacteria,Rhizobiales_Incertae_Sedis
+Nostoc_PCC-73102,Não biodegradável,0.2882,0.1964,1.4679,0.143,0.6707,Cyanobacteria,Nostocaceae
+Novosphingobium,Não biodegradável,-0.6728,0.2789,-2.4128,0.0163,0.447,Proteobacteria,Sphingomonadaceae
+OLB12,Não biodegradável,0.1139,0.2264,0.5032,0.6152,0.9183,Bacteroidota,Microscillaceae
+OLB13,Não biodegradável,0.1221,0.1707,0.7152,0.4749,0.8832,Chloroflexi,A4b
+OLB14,Não biodegradável,-0.0865,0.1725,-0.5015,0.6163,0.9183,Chloroflexi,OLB14
+OM190,Não biodegradável,0.0703,0.2029,0.3464,0.7293,0.9462,Planctomycetota,OM190
+OM27_clade,Não biodegradável,-0.0962,0.2061,-0.4671,0.6407,0.927,Bdellovibrionota,Bdellovibrionaceae
+Obscuribacteraceae,Não biodegradável,0.4133,0.1812,2.2805,0.0232,0.473,Cyanobacteria,Obscuribacteraceae
+Odoribacter,Não biodegradável,-0.2066,0.1139,-1.8138,0.0705,0.558,Bacteroidota,Marinifilaceae
+Ohtaekwangia,Não biodegradável,0.236,0.2279,1.0355,0.3011,0.794,Bacteroidota,Microscillaceae
+Oligoflexus,Não biodegradável,0.1334,0.1778,0.7501,0.4537,0.8733,Bdellovibrionota,Oligoflexaceae
+Opitutaceae (NC),Não biodegradável,-0.1534,0.2409,-0.6369,0.5246,0.9023,Verrucomicrobiota,Opitutaceae
+Opitutus,Não biodegradável,0.4925,0.2608,1.8886,0.0597,0.5554,Verrucomicrobiota,Opitutaceae
+Oryzihumus,Não biodegradável,0.2275,0.1811,1.2561,0.2099,0.7407,Actinobacteriota,Intrasporangiaceae
+Oscillospiraceae (NC),Não biodegradável,-0.0397,0.1065,-0.373,0.7094,0.9462,Firmicutes,Oscillospiraceae
+Oxalobacteraceae (NC),Não biodegradável,0.6622,0.2225,2.9761,0.0031,0.2752,Proteobacteria,Oxalobacteraceae
+P2-11E,Não biodegradável,0.1194,0.1621,0.7365,0.4619,0.8783,Chloroflexi,P2-11E
+P3OB-42,Não biodegradável,-0.162,0.2116,-0.7655,0.4444,0.8733,Myxococcota,Myxococcaceae
+PAUC26f,Não biodegradável,0.0745,0.1563,0.4764,0.6341,0.9232,Acidobacteriota,PAUC26f
+PLTA13,Não biodegradável,-0.0715,0.2114,-0.3382,0.7354,0.9462,Proteobacteria,PLTA13
+Paenarthrobacter,Não biodegradável,-0.4691,0.1619,-2.8981,0.004,0.2842,Actinobacteriota,Micrococcaceae
+Paenibacillaceae (NC),Não biodegradável,0.4106,0.2488,1.6506,0.0997,0.6073,Firmicutes,Paenibacillaceae
+Paenibacillus,Não biodegradável,-0.5649,0.1795,-3.1465,0.0018,0.2371,Firmicutes,Paenibacillaceae
+Pajaroellobacter,Não biodegradável,0.2386,0.1673,1.4265,0.1546,0.6873,Myxococcota,Polyangiaceae
+Paludibaculum,Não biodegradável,-0.0676,0.1937,-0.349,0.7273,0.9462,Acidobacteriota,Acidobacteriae
+Parabacteroides,Não biodegradável,-0.0599,0.0677,-0.8848,0.3769,0.8538,Bacteroidota,Tannerellaceae
+Parafilimonas,Não biodegradável,0.0934,0.1296,0.7206,0.4716,0.8807,Bacteroidota,Chitinophagaceae
+Parasegetibacter,Não biodegradável,0.1787,0.2471,0.723,0.4702,0.8807,Bacteroidota,Chitinophagaceae
+Parasutterella,Não biodegradável,-0.1365,0.1214,-1.1247,0.2614,0.7632,Proteobacteria,Sutterellaceae
+Parcubacteria,Não biodegradável,0.0552,0.1754,0.3144,0.7534,0.9462,Patescibacteria,Parcubacteria
+Parcubacteria (NC),Não biodegradável,0.1696,0.1842,0.921,0.3577,0.8351,Patescibacteria,
+Parviterribacter,Não biodegradável,-0.0629,0.2132,-0.2951,0.7681,0.9486,Actinobacteriota,Solirubrobacteraceae
+Pasteurellaceae (NC),Não biodegradável,-0.0276,0.1387,-0.1992,0.8423,0.9736,Proteobacteria,Pasteurellaceae
+Patescibacteria (NC),Não biodegradável,0.0019,0.1843,0.0101,0.9919,0.9919,Patescibacteria,
+Pedobacter,Não biodegradável,-0.3509,0.2432,-1.4429,0.1499,0.6849,Bacteroidota,Sphingobacteriaceae
+Pedococcus-Phycicoccus,Não biodegradável,-0.2803,0.1586,-1.7671,0.078,0.5745,Actinobacteriota,Intrasporangiaceae
+Pedomicrobium,Não biodegradável,0.1077,0.1786,0.603,0.5469,0.9023,Proteobacteria,Hyphomicrobiaceae
+Pedosphaeraceae,Não biodegradável,0.1564,0.1769,0.8846,0.377,0.8538,Verrucomicrobiota,Pedosphaeraceae
+Pedosphaeraceae (NC),Não biodegradável,0.0062,0.2011,0.0307,0.9756,0.9846,Verrucomicrobiota,Pedosphaeraceae
+Peredibacter,Não biodegradável,0.1151,0.21,0.5479,0.5841,0.9132,Bdellovibrionota,Bacteriovoracaceae
+Phascolarctobacterium,Não biodegradável,-0.058,0.0874,-0.6641,0.507,0.9023,Firmicutes,Acidaminococcaceae
+Phaselicystis,Não biodegradável,0.3214,0.2338,1.3749,0.17,0.7151,Myxococcota,Phaselicystidaceae
+Phenylobacterium,Não biodegradável,0.4047,0.2004,2.0197,0.0441,0.5216,Proteobacteria,Caulobacteraceae
+Pir4_lineage,Não biodegradável,0.0196,0.1697,0.1153,0.9083,0.9825,Planctomycetota,Pirellulaceae
+Pirellula,Não biodegradável,-0.0091,0.1141,-0.0794,0.9367,0.9846,Planctomycetota,Pirellulaceae
+Pirellulaceae (NC),Não biodegradável,-0.0588,0.0957,-0.6149,0.539,0.9023,Planctomycetota,Pirellulaceae
+Pla1_lineage,Não biodegradável,-0.085,0.1643,-0.5173,0.6053,0.9183,Planctomycetota,Pla1_lineage
+Pla3_lineage,Não biodegradável,-0.0036,0.1724,-0.0211,0.9832,0.9877,Planctomycetota,Pla3_lineage
+Pla4_lineage,Não biodegradável,0.3541,0.1796,1.9716,0.0494,0.5303,Planctomycetota,Pla4_lineage
+Planctomycetales (NC),Não biodegradável,-0.2063,0.1614,-1.2786,0.2018,0.7407,Planctomycetota,
+Planctomycetes (NC),Não biodegradável,-0.0566,0.1544,-0.3669,0.7139,0.9462,Planctomycetota,
+Planctomycetota (NC),Não biodegradável,0.0154,0.202,0.0761,0.9394,0.9846,Planctomycetota,
+Planococcaceae (NC),Não biodegradável,-0.3017,0.1757,-1.7175,0.0867,0.5894,Firmicutes,Planococcaceae
+Plot4-2H12,Não biodegradável,0.2139,0.2213,0.9666,0.3344,0.8243,Proteobacteria,Sphingomonadaceae
+Polyangia (NC),Não biodegradável,0.4486,0.2434,1.843,0.0661,0.5564,Myxococcota,
+Polyangiaceae (NC),Não biodegradável,-0.1179,0.2345,-0.5027,0.6155,0.9183,Myxococcota,Polyangiaceae
+Polyangiales (NC),Não biodegradável,0.2608,0.1859,1.4024,0.1617,0.6966,Myxococcota,
+Polycyclovorans,Não biodegradável,0.0485,0.2637,0.1839,0.8542,0.9762,Proteobacteria,Solimonadaceae
+Pontibacter,Não biodegradável,-0.2657,0.1574,-1.6886,0.0922,0.6002,Bacteroidota,Hymenobacteraceae
+Porphyrobacter,Não biodegradável,0.0352,0.2242,0.1569,0.8754,0.9767,Proteobacteria,Sphingomonadaceae
+Prevotella,Não biodegradável,-0.1838,0.1507,-1.2195,0.2235,0.7407,Bacteroidota,Prevotellaceae
+Prevotella_7,Não biodegradável,-0.2201,0.1367,-1.6099,0.1083,0.6377,Bacteroidota,Prevotellaceae
+Prevotella_9,Não biodegradável,-0.1443,0.1012,-1.4258,0.1548,0.6873,Bacteroidota,Prevotellaceae
+Prevotellaceae (NC),Não biodegradável,-0.1057,0.0865,-1.2212,0.2228,0.7407,Bacteroidota,Prevotellaceae
+Prevotellaceae_UCG-001,Não biodegradável,-0.1146,0.0975,-1.1756,0.2405,0.7549,Bacteroidota,Prevotellaceae
+Prosthecobacter,Não biodegradável,0.1954,0.2175,0.8984,0.3695,0.8479,Verrucomicrobiota,Verrucomicrobiaceae
+Proteus,Não biodegradável,0.0414,0.1813,0.2283,0.8195,0.9703,Proteobacteria,Morganellaceae
+Pseudaminobacter,Não biodegradável,0.1679,0.2094,0.8022,0.423,0.8733,Proteobacteria,Rhizobiaceae
+Pseudoduganella,Não biodegradável,-0.0739,0.2325,-0.3178,0.7509,0.9462,Proteobacteria,Oxalobacteraceae
+Pseudolabrys,Não biodegradável,0.011,0.2476,0.0443,0.9647,0.9846,Proteobacteria,Xanthobacteraceae
+Pseudomonadales (NC),Não biodegradável,-0.0336,0.1867,-0.1802,0.8571,0.9762,Proteobacteria,
+Pseudomonas,Não biodegradável,-0.2429,0.2194,-1.1069,0.2691,0.7632,Proteobacteria,Pseudomonadaceae
+Pseudonocardia,Não biodegradável,-0.0677,0.2321,-0.2915,0.7708,0.9486,Actinobacteriota,Pseudonocardiaceae
+Pseudonocardiaceae (NC),Não biodegradável,0.3551,0.2666,1.3323,0.1836,0.7196,Actinobacteriota,Pseudonocardiaceae
+Pseudoxanthomonas,Não biodegradável,-0.1664,0.2353,-0.7071,0.48,0.8895,Proteobacteria,Xanthomonadaceae
+Psychroglaciecola,Não biodegradável,-0.025,0.2088,-0.1198,0.9047,0.9806,Proteobacteria,Beijerinckiaceae
+Puia,Não biodegradável,-0.4365,0.2232,-1.9554,0.0513,0.5303,Bacteroidota,Chitinophagaceae
+Qipengyuania,Não biodegradável,-0.1484,0.2456,-0.6043,0.546,0.9023,Proteobacteria,Sphingomonadaceae
+R7C24,Não biodegradável,-0.4797,0.2368,-2.0256,0.0435,0.5216,Proteobacteria,R7C24
+RB41,Não biodegradável,-0.1234,0.1019,-1.2111,0.2266,0.7407,Acidobacteriota,Pyrinomonadaceae
+RBG-13-54-9,Não biodegradável,-0.0565,0.1776,-0.318,0.7507,0.9462,Chloroflexi,RBG-13-54-9
+RCP2-54,Não biodegradável,-0.0124,0.229,-0.0542,0.9568,0.9846,RCP2-54,RCP2-54
+RF39,Não biodegradável,-0.1575,0.1001,-1.5733,0.1165,0.6449,Firmicutes,RF39
+Ralstonia,Não biodegradável,-0.0131,0.2219,-0.059,0.953,0.9846,Proteobacteria,Burkholderiaceae
+Reyranella,Não biodegradável,0.1371,0.1468,0.9338,0.351,0.8343,Proteobacteria,Reyranellaceae
+Rhizobiaceae (NC),Não biodegradável,0.0165,0.1512,0.1089,0.9134,0.9839,Proteobacteria,Rhizobiaceae
+Rhizobiales (NC),Não biodegradável,-0.2003,0.1684,-1.1893,0.2351,0.747,Proteobacteria,
+Rhodanobacter,Não biodegradável,0.5385,0.3391,1.5883,0.1131,0.6449,Proteobacteria,Rhodanobacteraceae
+Rhodanobacteraceae (NC),Não biodegradável,-0.055,0.2428,-0.2267,0.8208,0.9703,Proteobacteria,Rhodanobacteraceae
+Rhodobacteraceae (NC),Não biodegradável,-0.4079,0.2408,-1.6936,0.0912,0.6002,Proteobacteria,Rhodobacteraceae
+Rhodococcus,Não biodegradável,0.0105,0.267,0.0392,0.9688,0.9846,Actinobacteriota,Nocardiaceae
+Rhodocyclaceae (NC),Não biodegradável,-0.1503,0.2389,-0.6294,0.5295,0.9023,Proteobacteria,Rhodocyclaceae
+Rhodomicrobium,Não biodegradável,-0.0743,0.188,-0.3955,0.6927,0.9462,Proteobacteria,Rhodomicrobiaceae
+Rhodoplanes,Não biodegradável,-0.2313,0.2094,-1.1046,0.2701,0.7632,Proteobacteria,Xanthobacteraceae
+Rhodopseudomonas,Não biodegradável,-0.1615,0.2582,-0.6254,0.5321,0.9023,Proteobacteria,Xanthobacteraceae
+Rikenellaceae_RC9_gut_group,Não biodegradável,-0.0686,0.0792,-0.8658,0.3872,0.8553,Bacteroidota,Rikenellaceae
+Rokubacteriales,Não biodegradável,-0.0097,0.1273,-0.0763,0.9392,0.9846,Methylomirabilota,Rokubacteriales
+Romboutsia,Não biodegradável,-0.2376,0.1765,-1.3464,0.179,0.7196,Firmicutes,Peptostreptococcaceae
+Roseburia,Não biodegradável,-0.2002,0.1304,-1.5358,0.1255,0.6649,Firmicutes,Lachnospiraceae
+Roseiarcus,Não biodegradável,0.016,0.2126,0.0751,0.9402,0.9846,Proteobacteria,Beijerinckiaceae
+Roseimicrobium,Não biodegradável,-0.4031,0.205,-1.9667,0.05,0.5303,Verrucomicrobiota,Verrucomicrobiaceae
+Roseisolibacter,Não biodegradável,-0.139,0.2122,-0.6553,0.5127,0.9023,Gemmatimonadota,Gemmatimonadaceae
+Roseomonas,Não biodegradável,0.0098,0.2292,0.0426,0.966,0.9846,Proteobacteria,Acetobacteraceae
+Rubellimicrobium,Não biodegradável,-0.0483,0.2411,-0.2002,0.8414,0.9736,Proteobacteria,Rhodobacteraceae
+Rubrobacter,Não biodegradável,-0.147,0.1731,-0.8494,0.3962,0.8641,Actinobacteriota,Rubrobacteriaceae
+Rugosimonospora,Não biodegradável,0.3376,0.2534,1.3323,0.1836,0.7196,Actinobacteriota,Micromonosporaceae
+Ruminococcaceae (NC),Não biodegradável,-0.0209,0.0662,-0.3158,0.7523,0.9462,Firmicutes,Ruminococcaceae
+Ruminococcus,Não biodegradável,-0.1088,0.1189,-0.9151,0.3608,0.8386,Firmicutes,Ruminococcaceae
+S-70,Não biodegradável,-0.0416,0.1352,-0.3079,0.7583,0.9486,Planctomycetota,S-70
+S-BQ2-57_soil_group,Não biodegradável,0.2235,0.1786,1.2515,0.2116,0.7407,Verrucomicrobiota,S-BQ2-57_soil_group
+S0134_terrestrial_group,Não biodegradável,0.0794,0.2034,0.3905,0.6964,0.9462,Gemmatimonadota,S0134_terrestrial_group
+S085,Não biodegradável,0.1504,0.1718,0.8752,0.382,0.8544,Chloroflexi,S085
+SBR1031,Não biodegradável,0.0134,0.1921,0.07,0.9442,0.9846,Chloroflexi,SBR1031
+SBR1031 (NC),Não biodegradável,0.2135,0.1704,1.2526,0.2111,0.7407,Chloroflexi,
+SC-I-84,Não biodegradável,-0.0632,0.1018,-0.6205,0.5353,0.9023,Proteobacteria,SC-I-84
+SH-PL14,Não biodegradável,-0.048,0.1214,-0.3955,0.6927,0.9462,Planctomycetota,Rubinisphaeraceae
+SJA-28,Não biodegradável,-0.1429,0.2208,-0.6472,0.5179,0.9023,Bacteroidota,SJA-28
+SM1A02,Não biodegradável,-0.1426,0.1816,-0.7853,0.4328,0.8733,Planctomycetota,Phycisphaeraceae
+SM2D12,Não biodegradável,0.3783,0.2182,1.7337,0.0838,0.5846,Proteobacteria,SM2D12
+SWB02,Não biodegradável,0.2078,0.2188,0.9495,0.343,0.8325,Proteobacteria,Hyphomonadaceae
+Saccharimonadales,Não biodegradável,0.1793,0.1068,1.6791,0.094,0.6002,Patescibacteria,Saccharimonadales
+Saccharimonadales (NC),Não biodegradável,0.0881,0.1841,0.4787,0.6324,0.9232,Patescibacteria,
+Sandaracinaceae (NC),Não biodegradável,-0.0209,0.1676,-0.1245,0.901,0.9806,Myxococcota,Sandaracinaceae
+Sandaracinus,Não biodegradável,0.0901,0.1784,0.5049,0.6139,0.9183,Myxococcota,Sandaracinaceae
+Segetibacter,Não biodegradável,-0.3341,0.2227,-1.5001,0.1345,0.6707,Bacteroidota,Chitinophagaceae
+Sericytochromatia,Não biodegradável,0.4503,0.2251,1.9999,0.0463,0.5216,Cyanobacteria,Sericytochromatia
+Shimazuella,Não biodegradável,0.1748,0.1788,0.9775,0.329,0.8243,Firmicutes,Thermoactinomycetaceae
+Singulisphaera,Não biodegradável,-0.2558,0.219,-1.1679,0.2436,0.7595,Planctomycetota,Isosphaeraceae
+Skermanella,Não biodegradável,-0.201,0.2057,-0.9769,0.3293,0.8243,Proteobacteria,Azospirillaceae
+Solirubrobacter,Não biodegradável,-0.1694,0.176,-0.962,0.3367,0.8261,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacteraceae,Não biodegradável,-0.4026,0.2175,-1.8512,0.065,0.5564,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacteraceae (NC),Não biodegradável,-0.287,0.2675,-1.0729,0.284,0.7681,Actinobacteriota,Solirubrobacteraceae
+Solirubrobacterales (NC),Não biodegradável,-0.0709,0.1684,-0.4209,0.6741,0.9377,Actinobacteriota,
+Sphaerisporangium,Não biodegradável,0.1913,0.1244,1.537,0.1252,0.6649,Actinobacteriota,Streptosporangiaceae
+Sphingoaurantiacus,Não biodegradável,0.2104,0.1994,1.0552,0.292,0.7817,Proteobacteria,Sphingomonadaceae
+Sphingobacteriaceae (NC),Não biodegradável,-0.2522,0.2715,-0.9289,0.3535,0.8351,Bacteroidota,Sphingobacteriaceae
+Sphingobacteriales (NC),Não biodegradável,-0.2553,0.2055,-1.2424,0.2149,0.7407,Bacteroidota,
+Sphingobacterium,Não biodegradável,-0.2441,0.2105,-1.1597,0.2469,0.7632,Bacteroidota,Sphingobacteriaceae
+Sphingobium,Não biodegradável,-0.2853,0.1857,-1.5361,0.1254,0.6649,Proteobacteria,Sphingomonadaceae
+Sphingomonadaceae (NC),Não biodegradável,-0.0181,0.1295,-0.1401,0.8887,0.9782,Proteobacteria,Sphingomonadaceae
+Sphingomonas,Não biodegradável,-0.0023,0.0733,-0.0316,0.9748,0.9846,Proteobacteria,Sphingomonadaceae
+Sphingopyxis,Não biodegradável,-0.0829,0.2232,-0.3714,0.7105,0.9462,Proteobacteria,Sphingomonadaceae
+Spirosoma,Não biodegradável,0.1245,0.2631,0.4733,0.6363,0.9239,Bacteroidota,Spirosomaceae
+Staphylococcus,Não biodegradável,-0.0918,0.1562,-0.5881,0.5568,0.9027,Firmicutes,Staphylococcaceae
+Stenotrophobacter,Não biodegradável,-0.0256,0.1466,-0.1743,0.8617,0.9762,Acidobacteriota,Blastocatellaceae
+Stenotrophomonas,Não biodegradável,0.1747,0.2688,0.65,0.5161,0.9023,Proteobacteria,Xanthomonadaceae
+Steroidobacter,Não biodegradável,-0.018,0.23,-0.0783,0.9377,0.9846,Proteobacteria,Steroidobacteraceae
+Steroidobacteraceae (NC),Não biodegradável,-0.075,0.1637,-0.4581,0.6472,0.927,Proteobacteria,Steroidobacteraceae
+Streptococcus,Não biodegradável,0.0037,0.0948,0.0386,0.9692,0.9846,Firmicutes,Streptococcaceae
+Streptomyces,Não biodegradável,0.0358,0.1809,0.1978,0.8433,0.9736,Actinobacteriota,Streptomycetaceae
+Streptomycetaceae (NC),Não biodegradável,0.3303,0.2321,1.4229,0.1556,0.6873,Actinobacteriota,Streptomycetaceae
+Streptosporangium,Não biodegradável,-0.1731,0.1659,-1.0432,0.2976,0.7885,Actinobacteriota,Streptosporangiaceae
+Subdoligranulum,Não biodegradável,-0.1398,0.119,-1.1751,0.2407,0.7549,Firmicutes,Ruminococcaceae
+Subgroup_10,Não biodegradável,-0.0519,0.1735,-0.2992,0.7649,0.9486,Acidobacteriota,Thermoanaerobaculaceae
+Subgroup_11,Não biodegradável,0.1244,0.2116,0.5879,0.557,0.9027,Acidobacteriota,Subgroup_11
+Subgroup_12,Não biodegradável,0.0482,0.1656,0.2907,0.7714,0.9486,Acidobacteriota,Subgroup_12
+Subgroup_13,Não biodegradável,0.0408,0.1787,0.2281,0.8197,0.9703,Acidobacteriota,Subgroup_13
+Subgroup_17,Não biodegradável,-0.0111,0.1645,-0.0676,0.9461,0.9846,Acidobacteriota,Subgroup_17
+Subgroup_18,Não biodegradável,0.3059,0.213,1.4363,0.1518,0.6873,Acidobacteriota,Subgroup_18
+Subgroup_2,Não biodegradável,-0.0627,0.1869,-0.3356,0.7373,0.9462,Acidobacteriota,Subgroup_2
+Subgroup_20,Não biodegradável,-0.0398,0.1519,-0.2617,0.7937,0.9605,Acidobacteriota,Subgroup_20
+Subgroup_22,Não biodegradável,0.0513,0.22,0.2332,0.8158,0.9703,Acidobacteriota,Subgroup_22
+Subgroup_25,Não biodegradável,-0.2079,0.1912,-1.087,0.2778,0.7663,Acidobacteriota,Subgroup_25
+Subgroup_5,Não biodegradável,-0.1312,0.2292,-0.5723,0.5675,0.9048,Acidobacteriota,Subgroup_5
+Subgroup_7,Não biodegradável,0.0836,0.1606,0.5203,0.6032,0.9183,Acidobacteriota,Subgroup_7
+Sulfurifustis,Não biodegradável,0.1325,0.1681,0.7883,0.431,0.8733,Proteobacteria,Acidiferrobacteraceae
+Sumerlaea,Não biodegradável,-0.0241,0.1621,-0.1489,0.8817,0.9782,Sumerlaeota,Sumerlaeaceae
+TK10,Não biodegradável,-0.0382,0.1411,-0.2705,0.7869,0.9605,Chloroflexi,TK10
+TM7a,Não biodegradável,0.098,0.1485,0.6597,0.5099,0.9023,Patescibacteria,Saccharimonadaceae
+TRA3-20,Não biodegradável,-0.3577,0.1616,-2.2129,0.0275,0.4945,Proteobacteria,TRA3-20
+Taibaiella,Não biodegradável,-0.3987,0.1989,-2.0045,0.0458,0.5216,Bacteroidota,Chitinophagaceae
+Tellurimicrobium,Não biodegradável,0.1142,0.215,0.5313,0.5955,0.9175,Acidobacteriota,Blastocatellaceae
+Tepidisphaeraceae,Não biodegradável,-0.0649,0.1855,-0.35,0.7265,0.9462,Planctomycetota,Tepidisphaeraceae
+Tepidisphaerales (NC),Não biodegradável,-0.138,0.0979,-1.4088,0.1597,0.694,Planctomycetota,
+Terrabacter,Não biodegradável,-0.1442,0.098,-1.4722,0.1418,0.6707,Actinobacteriota,Intrasporangiaceae
+Terracidiphilus,Não biodegradável,0.0731,0.2195,0.333,0.7394,0.9462,Acidobacteriota,Acidobacteriaceae_(Subgroup_1)
+Terrimicrobium,Não biodegradável,-0.2329,0.1752,-1.3291,0.1847,0.7196,Verrucomicrobiota,Terrimicrobiaceae
+Terrimonas,Não biodegradável,-0.3464,0.1873,-1.8491,0.0653,0.5564,Bacteroidota,Chitinophagaceae
+Thermoleophilia (NC),Não biodegradável,-0.1568,0.2042,-0.7678,0.4431,0.8733,Actinobacteriota,
+Thermomonas,Não biodegradável,-0.4941,0.2457,-2.011,0.0451,0.5216,Proteobacteria,Xanthomonadaceae
+Thermomonosporaceae (NC),Não biodegradável,0.5119,0.27,1.8959,0.0588,0.5554,Actinobacteriota,Thermomonosporaceae
+Thiobacillus,Não biodegradável,-0.0577,0.1245,-0.4636,0.6432,0.927,Proteobacteria,Hydrogenophilaceae
+Treponema,Não biodegradável,-0.1626,0.1509,-1.0776,0.2819,0.7663,Spirochaetota,Spirochaetaceae
+Truepera,Não biodegradável,0.2498,0.224,1.115,0.2656,0.7632,Deinococcota,Trueperaceae
+Tumebacillus,Não biodegradável,-0.0451,0.2383,-0.1892,0.85,0.9752,Firmicutes,Alicyclobacillaceae
+Tundrisphaera,Não biodegradável,-0.2597,0.2614,-0.9936,0.3211,0.8142,Planctomycetota,Isosphaeraceae
+UCG-005,Não biodegradável,-0.1963,0.1064,-1.845,0.0659,0.5564,Firmicutes,Oscillospiraceae
+UTBCD1,Não biodegradável,-0.3499,0.2365,-1.4796,0.1398,0.6707,Bacteroidota,Chitinophagaceae
+Veillonella,Não biodegradável,0.0795,0.1104,0.7203,0.4718,0.8807,Firmicutes,Veillonellaceae
+Vermiphilaceae,Não biodegradável,-0.2034,0.2102,-0.9675,0.334,0.8243,Dependentiae,Vermiphilaceae
+Verrucomicrobiales (NC),Não biodegradável,0.1707,0.1707,1.0,0.318,0.8102,Verrucomicrobiota,
+Verrucomicrobium,Não biodegradável,-0.1396,0.2113,-0.6607,0.5092,0.9023,Verrucomicrobiota,Verrucomicrobiaceae
+Vicinamibacter,Não biodegradável,0.1925,0.2266,0.8498,0.396,0.8641,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacteraceae,Não biodegradável,-0.0789,0.127,-0.6215,0.5347,0.9023,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacteraceae (NC),Não biodegradável,-0.1274,0.1703,-0.7481,0.4549,0.8733,Acidobacteriota,Vicinamibacteraceae
+Vicinamibacterales (NC),Não biodegradável,-0.0708,0.235,-0.3011,0.7635,0.9486,Acidobacteriota,
+Vulgatibacter,Não biodegradável,0.0316,0.1979,0.1599,0.873,0.9762,Myxococcota,Vulgatibacteraceae
+WD2101_soil_group,Não biodegradável,-0.0573,0.1313,-0.4363,0.6628,0.9307,Planctomycetota,WD2101_soil_group
+WPS-2,Não biodegradável,0.3682,0.2077,1.7729,0.0771,0.5745,WPS-2,WPS-2
+WS2,Não biodegradável,0.012,0.1671,0.072,0.9426,0.9846,WS2,WS2
+WWH38,Não biodegradável,0.1912,0.1853,1.0321,0.3027,0.7942,Patescibacteria,WWH38
+WX65,Não biodegradável,0.4071,0.2115,1.9248,0.055,0.5303,Methylomirabilota,WX65
+Xanthobacteraceae (NC),Não biodegradável,0.0448,0.0553,0.8102,0.4184,0.8733,Proteobacteria,Xanthobacteraceae
+Xanthomonadaceae (NC),Não biodegradável,0.0313,0.1593,0.1963,0.8445,0.9736,Proteobacteria,Xanthomonadaceae
+Xanthomonadales (NC),Não biodegradável,0.4555,0.2493,1.8272,0.0685,0.558,Proteobacteria,
+YC-ZSS-LKJ147,Não biodegradável,0.2454,0.2276,1.078,0.2818,0.7663,Gemmatimonadota,Longimicrobiaceae
+YM_S32_TM7_50_20,Não biodegradável,0.2012,0.2444,0.8232,0.411,0.8733,Patescibacteria,YM_S32_TM7_50_20
+ZOR0006,Não biodegradável,-0.0034,0.1206,-0.0286,0.9772,0.9846,Firmicutes,Erysipelotrichaceae
+Zavarzinella,Não biodegradável,-0.0116,0.1602,-0.0726,0.9422,0.9846,Planctomycetota,Gemmataceae
+[Eubacterium]_coprostanoligenes_group,Não biodegradável,-0.1134,0.092,-1.2318,0.2188,0.7407,Firmicutes,[Eubacterium]_coprostanoligenes_group
+bacteriap25,Não biodegradável,-0.2652,0.2083,-1.2728,0.2039,0.7407,Myxococcota,bacteriap25
+env.OPS_17,Não biodegradável,0.1925,0.2379,0.809,0.419,0.8733,Bacteroidota,env.OPS_17
+mle1-27,Não biodegradável,0.3919,0.2303,1.7016,0.0897,0.6002,Myxococcota,mle1-27
+mle1-7,Não biodegradável,0.1513,0.1722,0.8787,0.3801,0.8544,Proteobacteria,Nitrosomonadaceae
+possible_genus_04,Não biodegradável,0.3943,0.2034,1.9388,0.0533,0.5303,Fibrobacterota,Fibrobacteraceae
+uncultured,Não biodegradável,0.0521,0.0482,1.0826,0.2797,0.7663,Myxococcota,Myxococcaceae
+vadinHA49,Não biodegradável,0.3763,0.2017,1.8657,0.0629,0.5564,Planctomycetota,vadinHA49

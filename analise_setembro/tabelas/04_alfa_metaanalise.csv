@@ -1,0 +1,17 @@
+,comparacao,metrica,k_estudos,g,IC95_inf,IC95_sup,p,I2
+0,Plástico (todos) vs Controle,FaithPD,8,-0.179,-0.665,0.308,0.472,0.667
+1,Plástico (todos) vs Controle,Pielou,8,0.264,-0.483,1.01,0.489,0.85
+2,Plástico (todos) vs Controle,Riqueza,8,-0.155,-0.74,0.43,0.603,0.766
+3,Plástico (todos) vs Controle,Shannon,8,0.058,-0.598,0.714,0.864,0.812
+4,Biodegradável vs Controle,FaithPD,8,-0.296,-1.168,0.577,0.506,0.851
+5,Biodegradável vs Controle,Pielou,8,-0.048,-1.028,0.931,0.923,0.875
+6,Biodegradável vs Controle,Riqueza,8,-0.31,-1.223,0.604,0.506,0.863
+7,Biodegradável vs Controle,Shannon,8,-0.042,-1.074,0.99,0.937,0.886
+8,Não biodegradável vs Controle,FaithPD,7,-0.166,-0.565,0.233,0.415,0.279
+9,Não biodegradável vs Controle,Pielou,7,0.435,-0.323,1.192,0.261,0.768
+10,Não biodegradável vs Controle,Riqueza,7,-0.089,-0.608,0.43,0.735,0.545
+11,Não biodegradável vs Controle,Shannon,7,0.101,-0.501,0.703,0.742,0.654
+12,"[sensib.] Plástico vs Controle, por projeto (ignora fração)",FaithPD,7,-0.233,-0.794,0.327,0.415,0.763
+13,"[sensib.] Plástico vs Controle, por projeto (ignora fração)",Pielou,7,-0.107,-0.782,0.567,0.755,0.835
+14,"[sensib.] Plástico vs Controle, por projeto (ignora fração)",Riqueza,7,-0.319,-0.947,0.309,0.32,0.809
+15,"[sensib.] Plástico vs Controle, por projeto (ignora fração)",Shannon,7,-0.187,-0.786,0.412,0.541,0.793

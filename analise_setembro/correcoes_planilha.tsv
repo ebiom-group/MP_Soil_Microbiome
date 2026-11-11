@@ -1,0 +1,953 @@
+SAMPLE	BIOPROJECT	SAMPLE_NAME	COLUNA	VALOR_ATUAL	VALOR_CORRETO	FONTE
+ERR10890565	PRJEB59875	11 SpC	BIODEGRADABLE	Biodegradable		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	CHEMICAL_COMPOSITION	Copolyester		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	DEGRADABILITY_RATE	Fast		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	DENSITY_(g/cm³)	1,18–1,26		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	HARDNESS	Soft		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	MOLECULAR_WEIGHT_(g/mol)	10⁵		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	PLASTIC_GROUPPING	Biodegradable_copolyester		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	POLYMER_AROMATIC_RINGS	1.0		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	POLYMER_COLOR	White		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890565	PRJEB59875	11 SpC	POLYMER_FORMAT	Fragment		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle)
+ERR10890565	PRJEB59875	11 SpC	POLYMER_SIZE	25x25		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle)
+ERR10890565	PRJEB59875	11 SpC	POLYMER_TYPE	PBAT	NONE	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890565	PRJEB59875	11 SpC	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890566	PRJEB59875	12 SpC	BIODEGRADABLE	Biodegradable		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	CHEMICAL_COMPOSITION	Copolyester		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	DEGRADABILITY_RATE	Fast		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	DENSITY_(g/cm³)	1,18–1,26		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	HARDNESS	Soft		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	MOLECULAR_WEIGHT_(g/mol)	10⁵		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	PLASTIC_GROUPPING	Biodegradable_copolyester		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	POLYMER_AROMATIC_RINGS	1.0		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	POLYMER_COLOR	White		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle: sem propriedades de polímero)
+ERR10890566	PRJEB59875	12 SpC	POLYMER_FORMAT	Fragment		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle)
+ERR10890566	PRJEB59875	12 SpC	POLYMER_SIZE	25x25		Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera) (controle)
+ERR10890566	PRJEB59875	12 SpC	POLYMER_TYPE	PBAT	NONE	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890566	PRJEB59875	12 SpC	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890552	PRJEB59875	19 EMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890552	PRJEB59875	19 EMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890553	PRJEB59875	20 EMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890553	PRJEB59875	20 EMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890554	PRJEB59875	21 EMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890554	PRJEB59875	21 EMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890555	PRJEB59875	22 EMB	BIODEGRADABLE	NO_BIODEGRADABLE	Biodegradable	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	CHEMICAL_COMPOSITION	–[CH₂–CH₂]n–	Copolyester	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	DEGRADABILITY_RATE	Extremely Low	Fast	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	DENSITY_(g/cm³)	0.94-0.97	1,18–1,26	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	HARDNESS	Semi-rigid/Rigid	Soft	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	MOLECULAR_WEIGHT_(g/mol)	10⁴ – 10⁶	10⁵	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	PLASTIC_GROUPPING	Thermoplastic	Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+ERR10890555	PRJEB59875	22 EMB	POLYMER_TYPE	HDPE	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890555	PRJEB59875	22 EMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890556	PRJEB59875	23 EMB	BIODEGRADABLE	NO_BIODEGRADABLE	Biodegradable	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	CHEMICAL_COMPOSITION	–[CH₂–CH₂]n–	Copolyester	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	DEGRADABILITY_RATE	Extremely Low	Fast	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	DENSITY_(g/cm³)	0.94-0.97	1,18–1,26	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	HARDNESS	Semi-rigid/Rigid	Soft	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	MOLECULAR_WEIGHT_(g/mol)	10⁴ – 10⁶	10⁵	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	PLASTIC_GROUPPING	Thermoplastic	Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+ERR10890556	PRJEB59875	23 EMB	POLYMER_TYPE	HDPE	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890556	PRJEB59875	23 EMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890567	PRJEB59875	24 SpMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890567	PRJEB59875	24 SpMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890568	PRJEB59875	25 SpMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890568	PRJEB59875	25 SpMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890569	PRJEB59875	26 SpMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890569	PRJEB59875	26 SpMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890570	PRJEB59875	27 SpMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890570	PRJEB59875	27 SpMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890571	PRJEB59875	28 SpMB	POLYMER_TYPE	PBAT	starch/PBAT	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera); Mater-Bi = amido/PBAT (mesma classe que BioAgri)
+ERR10890571	PRJEB59875	28 SpMB	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890557	PRJEB59875	35 EPE	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890558	PRJEB59875	36 EPE	SOIL_FRACTION	Plastosphere	Rhizosphere	"Artigo: ""Plastic litter changes the rhizosphere bacterial community..."" — todas as amostras são rizosfera"
+ERR10890559	PRJEB59875	37 EPE	BIODEGRADABLE		NO_BIODEGRADABLE	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	CHEMICAL_COMPOSITION		–[CH₂–CH₂]n–	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	CULTIVAR	Sporobolus pumilus	Thinopyrum junceum	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890559	PRJEB59875	37 EPE	DEGRADABILITY_RATE		Extremely Low	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	DENSITY_(g/cm³)		0.94-0.97	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	HARDNESS		Semi-rigid/Rigid	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	MOLECULAR_WEIGHT_(g/mol)		10⁴ – 10⁶	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	PLASTIC_GROUPPING		Thermoplastic	propriedades padrão de HDPE na planilha
+ERR10890559	PRJEB59875	37 EPE	POLYMER_TYPE		HDPE	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890560	PRJEB59875	38 EPE	BIODEGRADABLE		NO_BIODEGRADABLE	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	CHEMICAL_COMPOSITION		–[CH₂–CH₂]n–	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	CULTIVAR	Sporobolus pumilus	Thinopyrum junceum	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890560	PRJEB59875	38 EPE	DEGRADABILITY_RATE		Extremely Low	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	DENSITY_(g/cm³)		0.94-0.97	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	HARDNESS		Semi-rigid/Rigid	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	MOLECULAR_WEIGHT_(g/mol)		10⁴ – 10⁶	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	PLASTIC_GROUPPING		Thermoplastic	propriedades padrão de HDPE na planilha
+ERR10890560	PRJEB59875	38 EPE	POLYMER_TYPE		HDPE	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890561	PRJEB59875	39 EPE	BIODEGRADABLE		NO_BIODEGRADABLE	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	CHEMICAL_COMPOSITION		–[CH₂–CH₂]n–	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	CULTIVAR	Sporobolus pumilus	Thinopyrum junceum	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+ERR10890561	PRJEB59875	39 EPE	DEGRADABILITY_RATE		Extremely Low	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	DENSITY_(g/cm³)		0.94-0.97	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	HARDNESS		Semi-rigid/Rigid	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	MOLECULAR_WEIGHT_(g/mol)		10⁴ – 10⁶	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	PLASTIC_GROUPPING		Thermoplastic	propriedades padrão de HDPE na planilha
+ERR10890561	PRJEB59875	39 EPE	POLYMER_TYPE		HDPE	Nome da amostra no ENA (E=Thinopyrum junceum, Sp=Sporobolus pumilus; C=controle, MB=Mater-Bi, PE=polietileno) + artigo Menicagli et al. 2023 (rizosfera)
+SRR27301219	PRJNA1054347	BM1	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301218	PRJNA1054347	BM2	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301217	PRJNA1054347	BM3	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301216	PRJNA1054347	BM4	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301215	PRJNA1054347	BM5	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301214	PRJNA1054347	BM6	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301199	PRJNA1054347	RBM1	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301198	PRJNA1054347	RBM2	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301197	PRJNA1054347	RBM3	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301196	PRJNA1054347	RBM4	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301195	PRJNA1054347	RBM5	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR27301194	PRJNA1054347	RBM6	BIODEGRADABLE	BIODEGRADABLE	Biodegradable	padronização de vocabulário (BIODEGRADABLE → Biodegradable)
+SRR30517364	PRJNA1155845	Con1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517364	PRJNA1155845	Con1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517363	PRJNA1155845	Con2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517363	PRJNA1155845	Con2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517362	PRJNA1155845	Con3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517362	PRJNA1155845	Con3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517361	PRJNA1155845	Con4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517361	PRJNA1155845	Con4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517360	PRJNA1155845	GA1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517360	PRJNA1155845	GA1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517359	PRJNA1155845	GA2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517359	PRJNA1155845	GA2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517357	PRJNA1155845	GA3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517357	PRJNA1155845	GA3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517356	PRJNA1155845	GA4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517356	PRJNA1155845	GA4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517355	PRJNA1155845	GE1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517355	PRJNA1155845	GE1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517354	PRJNA1155845	GE2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517354	PRJNA1155845	GE2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517353	PRJNA1155845	GE3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517353	PRJNA1155845	GE3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517352	PRJNA1155845	GE4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517352	PRJNA1155845	GE4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517351	PRJNA1155845	Gly1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517351	PRJNA1155845	Gly1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517350	PRJNA1155845	Gly2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517350	PRJNA1155845	Gly2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517349	PRJNA1155845	Gly3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517349	PRJNA1155845	Gly3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517348	PRJNA1155845	Gly4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517348	PRJNA1155845	Gly4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517346	PRJNA1155845	PET1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517346	PRJNA1155845	PET1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517345	PRJNA1155845	PET2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517345	PRJNA1155845	PET2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517344	PRJNA1155845	PET3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517344	PRJNA1155845	PET3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517343	PRJNA1155845	PET4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517343	PRJNA1155845	PET4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517342	PRJNA1155845	PLA1	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517342	PRJNA1155845	PLA1	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517341	PRJNA1155845	PLA2	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517341	PRJNA1155845	PLA2	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517340	PRJNA1155845	PLA3	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517340	PRJNA1155845	PLA3	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517339	PRJNA1155845	PLA4	ENV_TYPE	Agricultural	Invertebrate gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR30517339	PRJNA1155845	PLA4	SOIL_FRACTION	Bulk	Gut	NCBI experiment_title (gut/soil) + artigo: Enchytraeus crypticus, J. Hazard. Mater. 2025 (doi:10.1016/j.jhazmat.2025.137676)
+SRR10076545	PRJNA564156	BDM05150001BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076545	PRJNA564156	BDM05150001BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076545	PRJNA564156	BDM05150001BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076544	PRJNA564156	BDM05150002BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076465	PRJNA564156	BDM05150003BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076465	PRJNA564156	BDM05150003BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	DENSITY_(g/cm³)		1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	MOLECULAR_WEIGHT_(g/mol)		5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PHA na planilha
+SRR10076465	PRJNA564156	BDM05150003BF	POLYMER_TYPE		PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076454	PRJNA564156	BDM05150004BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076454	PRJNA564156	BDM05150004BF	DEGRADABILITY_RATE	Fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	DENSITY_(g/cm³)	1,18–1,26		propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	HARDNESS	Soft		propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de starch/Polyester blend na planilha
+SRR10076454	PRJNA564156	BDM05150004BF	POLYMER_TYPE	PBAT	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076443	PRJNA564156	BDM05150005BF	BIODEGRADABLE	Biodegradable		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	CHEMICAL_COMPOSITION	Polyester Blend		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076443	PRJNA564156	BDM05150005BF	DEGRADABILITY_RATE	Moderate to Fast		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	DENSITY_(g/cm³)	1,20-1,26		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	HARDNESS	Semi-rigid		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	MOLECULAR_WEIGHT_(g/mol)	5 x 10⁴ – 2.5 x 10⁵		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	PLASTIC_GROUPPING	Biodegradable_polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076443	PRJNA564156	BDM05150005BF	POLYMER_TYPE	PLA/PHA	NONE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076432	PRJNA564156	BDM05150006BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076421	PRJNA564156	BDM05150007BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076388	PRJNA564156	BDM05150010BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076388	PRJNA564156	BDM05150010BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076388	PRJNA564156	BDM05150010BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076543	PRJNA564156	BDM05150011BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076543	PRJNA564156	BDM05150011BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076532	PRJNA564156	BDM05150012BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076521	PRJNA564156	BDM05150013BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076521	PRJNA564156	BDM05150013BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076521	PRJNA564156	BDM05150013BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076521	PRJNA564156	BDM05150013BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076510	PRJNA564156	BDM05150014BF	BIODEGRADABLE		NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	CHEMICAL_COMPOSITION		–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	DEGRADABILITY_RATE		Extremely Low	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	DENSITY_(g/cm³)		0,94-0,97	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	HARDNESS		Semi-rigid	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	MOLECULAR_WEIGHT_(g/mol)		10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	PLASTIC_GROUPPING		Thermoplastic	propriedades padrão de PE na planilha
+SRR10076510	PRJNA564156	BDM05150014BF	POLYMER_TYPE		PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076499	PRJNA564156	BDM05150015BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076499	PRJNA564156	BDM05150015BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076499	PRJNA564156	BDM05150015BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076488	PRJNA564156	BDM05150016BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076488	PRJNA564156	BDM05150016BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076488	PRJNA564156	BDM05150016BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076477	PRJNA564156	BDM05150017BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	CHEMICAL_COMPOSITION	Copolyester	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076477	PRJNA564156	BDM05150017BF	DEGRADABILITY_RATE	Fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	DENSITY_(g/cm³)	1,18–1,26	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	MOLECULAR_WEIGHT_(g/mol)	10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de PE na planilha
+SRR10076477	PRJNA564156	BDM05150017BF	POLYMER_TYPE	PBAT	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076468	PRJNA564156	BDM05150018BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	CHEMICAL_COMPOSITION		Copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076468	PRJNA564156	BDM05150018BF	DEGRADABILITY_RATE		Fast	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	DENSITY_(g/cm³)		1,18–1,26	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	HARDNESS		Soft	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	MOLECULAR_WEIGHT_(g/mol)		10⁵	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	PLASTIC_GROUPPING		Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+SRR10076468	PRJNA564156	BDM05150018BF	POLYMER_TYPE		starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076467	PRJNA564156	BDM05150019BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076467	PRJNA564156	BDM05150019BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	DENSITY_(g/cm³)		1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	MOLECULAR_WEIGHT_(g/mol)		5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PHA na planilha
+SRR10076467	PRJNA564156	BDM05150019BF	POLYMER_TYPE		PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076466	PRJNA564156	BDM05150020BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076464	PRJNA564156	BDM05150021BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076464	PRJNA564156	BDM05150021BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	DENSITY_(g/cm³)		1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de PLA/PBAT na planilha
+SRR10076464	PRJNA564156	BDM05150021BF	POLYMER_TYPE		PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076463	PRJNA564156	BDM05150029BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076463	PRJNA564156	BDM05150029BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076463	PRJNA564156	BDM05150029BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076462	PRJNA564156	BDM05150030BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	CHEMICAL_COMPOSITION		Copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	DEGRADABILITY_RATE		Fast	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	DENSITY_(g/cm³)		1,18–1,26	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	HARDNESS		Soft	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	MOLECULAR_WEIGHT_(g/mol)		10⁵	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	PLASTIC_GROUPPING		Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+SRR10076462	PRJNA564156	BDM05150030BF	POLYMER_TYPE		starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076461	PRJNA564156	BDM05150031BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	DENSITY_(g/cm³)		1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	MOLECULAR_WEIGHT_(g/mol)		5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PHA na planilha
+SRR10076461	PRJNA564156	BDM05150031BF	POLYMER_TYPE		PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076460	PRJNA564156	BDM05150032BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076460	PRJNA564156	BDM05150032BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076460	PRJNA564156	BDM05150032BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076460	PRJNA564156	BDM05150032BF	POLYMER_TYPE		starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076458	PRJNA564156	BDM05150034BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	DENSITY_(g/cm³)		1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de PLA/PBAT na planilha
+SRR10076458	PRJNA564156	BDM05150034BF	POLYMER_TYPE		PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076457	PRJNA564156	BDM05150035BF	BIODEGRADABLE		NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	CHEMICAL_COMPOSITION		–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	DEGRADABILITY_RATE		Extremely Low	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	DENSITY_(g/cm³)		0,94-0,97	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	HARDNESS		Semi-rigid	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	MOLECULAR_WEIGHT_(g/mol)		10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	PLASTIC_GROUPPING		Thermoplastic	propriedades padrão de PE na planilha
+SRR10076457	PRJNA564156	BDM05150035BF	POLYMER_TYPE		PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076456	PRJNA564156	BDM05150036BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	DENSITY_(g/cm³)		1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	MOLECULAR_WEIGHT_(g/mol)		5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PHA na planilha
+SRR10076456	PRJNA564156	BDM05150036BF	POLYMER_TYPE		PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076455	PRJNA564156	BDM05150037BF	BIODEGRADABLE	Biodegradable		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	CHEMICAL_COMPOSITION	Copolyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	DEGRADABILITY_RATE	Fast		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	DENSITY_(g/cm³)	1,18–1,26		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	HARDNESS	Soft		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	POLYMER_AROMATIC_RINGS	1.0		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076455	PRJNA564156	BDM05150037BF	POLYMER_TYPE	PBAT	NONE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076453	PRJNA564156	BDM05150038BF	CHEMICAL_COMPOSITION	Copolyester		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	DEGRADABILITY_RATE	Fast		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	DENSITY_(g/cm³)	1,18–1,26		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	HARDNESS	Soft		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Non-plastic (paper)	papel de celulose
+SRR10076453	PRJNA564156	BDM05150038BF	POLYMER_AROMATIC_RINGS	1.0		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	POLYMER_SIZE	20		papel de celulose: propriedades de plástico não se aplicam
+SRR10076453	PRJNA564156	BDM05150038BF	POLYMER_TYPE	PBAT	Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076452	PRJNA564156	BDM05150039BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076451	PRJNA564156	BDM05150040BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	DEGRADABILITY_RATE	Fast	Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	DENSITY_(g/cm³)	1,18–1,26	1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de PLA/PBAT na planilha
+SRR10076451	PRJNA564156	BDM05150040BF	POLYMER_TYPE	PBAT	PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076450	PRJNA564156	BDM05150041BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	DEGRADABILITY_RATE	Fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	DENSITY_(g/cm³)	1,18–1,26		propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	HARDNESS	Soft		propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de starch/Polyester blend na planilha
+SRR10076450	PRJNA564156	BDM05150041BF	POLYMER_TYPE	PBAT	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076449	PRJNA564156	BDM05150042BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	CHEMICAL_COMPOSITION	Copolyester	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	DEGRADABILITY_RATE	Fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	DENSITY_(g/cm³)	1,18–1,26	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	MOLECULAR_WEIGHT_(g/mol)	10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de PE na planilha
+SRR10076449	PRJNA564156	BDM05150042BF	POLYMER_TYPE	PBAT	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076448	PRJNA564156	BDM05150043BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	DEGRADABILITY_RATE	Fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	DENSITY_(g/cm³)	1,18–1,26		propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	HARDNESS	Soft		propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de starch/Polyester blend na planilha
+SRR10076448	PRJNA564156	BDM05150043BF	POLYMER_TYPE	PBAT	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076447	PRJNA564156	BDM05150044BF	CHEMICAL_COMPOSITION	Polyester Blend		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	DEGRADABILITY_RATE	Moderate to Fast		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	DENSITY_(g/cm³)	1,20-1,26		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	HARDNESS	Semi-rigid		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	MOLECULAR_WEIGHT_(g/mol)	5 x 10⁴ – 2.5 x 10⁵		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	PLASTIC_GROUPPING	Biodegradable_polyester	Non-plastic (paper)	papel de celulose
+SRR10076447	PRJNA564156	BDM05150044BF	POLYMER_SIZE	33		papel de celulose: propriedades de plástico não se aplicam
+SRR10076447	PRJNA564156	BDM05150044BF	POLYMER_TYPE	PLA/PHA	Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076446	PRJNA564156	BDM05150045BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	CHEMICAL_COMPOSITION	Polyester Blend	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	DEGRADABILITY_RATE	Moderate to Fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	DENSITY_(g/cm³)	1,20-1,26	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	MOLECULAR_WEIGHT_(g/mol)	5 x 10⁴ – 2.5 x 10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	PLASTIC_GROUPPING	Biodegradable_polyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076446	PRJNA564156	BDM05150045BF	POLYMER_TYPE	PLA/PHA	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076445	PRJNA564156	BDM05150046BF	CHEMICAL_COMPOSITION	Polyester Blend	Copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	DEGRADABILITY_RATE	Moderate to Fast	Fast	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	DENSITY_(g/cm³)	1,20-1,26	1,18–1,26	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	HARDNESS	Semi-rigid	Soft	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	MOLECULAR_WEIGHT_(g/mol)	5 x 10⁴ – 2.5 x 10⁵	10⁵	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	PLASTIC_GROUPPING	Biodegradable_polyester	Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+SRR10076445	PRJNA564156	BDM05150046BF	POLYMER_TYPE	PLA/PHA	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076442	PRJNA564156	BDM05150048BF	BIODEGRADABLE	Biodegradable		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	CHEMICAL_COMPOSITION	Polyester Blend		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	DEGRADABILITY_RATE	Moderate to Fast		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	DENSITY_(g/cm³)	1,20-1,26		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	HARDNESS	Semi-rigid		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	MOLECULAR_WEIGHT_(g/mol)	5 x 10⁴ – 2.5 x 10⁵		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	PLASTIC_GROUPPING	Biodegradable_polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076442	PRJNA564156	BDM05150048BF	POLYMER_TYPE	PLA/PHA	NONE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076537	PRJNA564156	BDM05160001BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076537	PRJNA564156	BDM05160001BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076537	PRJNA564156	BDM05160001BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076536	PRJNA564156	BDM05160002BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076534	PRJNA564156	BDM05160004BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076534	PRJNA564156	BDM05160004BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076534	PRJNA564156	BDM05160004BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076530	PRJNA564156	BDM05160007BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076527	PRJNA564156	BDM05160010BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076527	PRJNA564156	BDM05160010BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076527	PRJNA564156	BDM05160010BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076526	PRJNA564156	BDM05160011BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076524	PRJNA564156	BDM05160013BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076524	PRJNA564156	BDM05160013BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076524	PRJNA564156	BDM05160013BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076523	PRJNA564156	BDM05160014BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076522	PRJNA564156	BDM05160015BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076522	PRJNA564156	BDM05160015BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076522	PRJNA564156	BDM05160015BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076520	PRJNA564156	BDM05160016BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076520	PRJNA564156	BDM05160016BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076520	PRJNA564156	BDM05160016BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076519	PRJNA564156	BDM05160017BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076518	PRJNA564156	BDM05160018BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076515	PRJNA564156	BDM05160021BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076394	PRJNA564156	BDM05160029BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076394	PRJNA564156	BDM05160029BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076394	PRJNA564156	BDM05160029BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076393	PRJNA564156	BDM05160030BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076391	PRJNA564156	BDM05160032BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076391	PRJNA564156	BDM05160032BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076391	PRJNA564156	BDM05160032BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076387	PRJNA564156	BDM05160035BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076384	PRJNA564156	BDM05160038BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076384	PRJNA564156	BDM05160038BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076384	PRJNA564156	BDM05160038BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076381	PRJNA564156	BDM05160041BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076381	PRJNA564156	BDM05160041BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076381	PRJNA564156	BDM05160041BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076380	PRJNA564156	BDM05160042BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076379	PRJNA564156	BDM05160043BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076379	PRJNA564156	BDM05160043BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076378	PRJNA564156	BDM05160044BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076378	PRJNA564156	BDM05160044BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076378	PRJNA564156	BDM05160044BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076542	PRJNA564156	BDM05160045BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076542	PRJNA564156	BDM05160045BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076541	PRJNA564156	BDM05160046BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076541	PRJNA564156	BDM05160046BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076540	PRJNA564156	BDM05160047BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076539	PRJNA564156	BDM05160048BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076538	PRJNA564156	BDM05160049BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076440	PRJNA564156	BDM09150001BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076440	PRJNA564156	BDM09150001BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076440	PRJNA564156	BDM09150001BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076440	PRJNA564156	BDM09150001BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076439	PRJNA564156	BDM09150002BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076438	PRJNA564156	BDM09150003BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076437	PRJNA564156	BDM09150004BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076437	PRJNA564156	BDM09150004BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076437	PRJNA564156	BDM09150004BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076436	PRJNA564156	BDM09150005BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076435	PRJNA564156	BDM09150006BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076434	PRJNA564156	BDM09150007BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076434	PRJNA564156	BDM09150007BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076433	PRJNA564156	BDM09150008BF	CLIMATE	Mediterranean	Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076430	PRJNA564156	BDM09150010BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076430	PRJNA564156	BDM09150010BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076430	PRJNA564156	BDM09150010BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076427	PRJNA564156	BDM09150013BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076427	PRJNA564156	BDM09150013BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076426	PRJNA564156	BDM09150014BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076425	PRJNA564156	BDM09150015BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076425	PRJNA564156	BDM09150015BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076424	PRJNA564156	BDM09150016BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076424	PRJNA564156	BDM09150016BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076424	PRJNA564156	BDM09150016BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076423	PRJNA564156	BDM09150017BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076417	PRJNA564156	BDM09150029BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076417	PRJNA564156	BDM09150029BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076417	PRJNA564156	BDM09150029BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076417	PRJNA564156	BDM09150029BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076416	PRJNA564156	BDM09150030BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076415	PRJNA564156	BDM09150031BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076414	PRJNA564156	BDM09150032BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076414	PRJNA564156	BDM09150032BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076414	PRJNA564156	BDM09150032BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076413	PRJNA564156	BDM09150033BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076412	PRJNA564156	BDM09150034BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076411	PRJNA564156	BDM09150035BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076411	PRJNA564156	BDM09150035BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076409	PRJNA564156	BDM09150036BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076408	PRJNA564156	BDM09150037BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076407	PRJNA564156	BDM09150038BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076407	PRJNA564156	BDM09150038BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076407	PRJNA564156	BDM09150038BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076407	PRJNA564156	BDM09150038BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076406	PRJNA564156	BDM09150039BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076406	PRJNA564156	BDM09150039BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076405	PRJNA564156	BDM09150040BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076404	PRJNA564156	BDM09150041BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076404	PRJNA564156	BDM09150041BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076404	PRJNA564156	BDM09150041BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076403	PRJNA564156	BDM09150042BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076403	PRJNA564156	BDM09150042BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076402	PRJNA564156	BDM09150043BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076402	PRJNA564156	BDM09150043BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076402	PRJNA564156	BDM09150043BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076402	PRJNA564156	BDM09150043BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076401	PRJNA564156	BDM09150044BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076401	PRJNA564156	BDM09150044BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076401	PRJNA564156	BDM09150044BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076401	PRJNA564156	BDM09150044BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076400	PRJNA564156	BDM09150045BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076400	PRJNA564156	BDM09150045BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076398	PRJNA564156	BDM09150046BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076398	PRJNA564156	BDM09150046BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076397	PRJNA564156	BDM09150047BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076396	PRJNA564156	BDM09150048BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076395	PRJNA564156	BDM09150049BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076514	PRJNA564156	BDM09160001BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076514	PRJNA564156	BDM09160001BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076514	PRJNA564156	BDM09160001BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076513	PRJNA564156	BDM09160002BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076511	PRJNA564156	BDM09160004BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076511	PRJNA564156	BDM09160004BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076511	PRJNA564156	BDM09160004BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076507	PRJNA564156	BDM09160007BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076504	PRJNA564156	BDM09160010BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076504	PRJNA564156	BDM09160010BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076504	PRJNA564156	BDM09160010BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076503	PRJNA564156	BDM09160011BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076501	PRJNA564156	BDM09160013BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076501	PRJNA564156	BDM09160013BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076501	PRJNA564156	BDM09160013BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076500	PRJNA564156	BDM09160014BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076498	PRJNA564156	BDM09160015BF	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR10076498	PRJNA564156	BDM09160015BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076498	PRJNA564156	BDM09160015BF	POLYMER_TYPE	Polyester blend	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076497	PRJNA564156	BDM09160016BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076497	PRJNA564156	BDM09160016BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076497	PRJNA564156	BDM09160016BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076496	PRJNA564156	BDM09160017BF	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076495	PRJNA564156	BDM09160018BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076491	PRJNA564156	BDM09160029BF	BIODEGRADABLE		Biodegradable	papel de celulose
+SRR10076491	PRJNA564156	BDM09160029BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076491	PRJNA564156	BDM09160029BF	PLASTIC_GROUPPING		Non-plastic (paper)	papel de celulose
+SRR10076491	PRJNA564156	BDM09160029BF	POLYMER_TYPE		Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076490	PRJNA564156	BDM09160030BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076490	PRJNA564156	BDM09160030BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076489	PRJNA564156	BDM09160031BF	CLIMATE	Humid subtropical	Mediterranean	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR10076487	PRJNA564156	BDM09160032BF	CHEMICAL_COMPOSITION	Polyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076487	PRJNA564156	BDM09160032BF	DEGRADABILITY_RATE	Relatively fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076487	PRJNA564156	BDM09160032BF	DENSITY_(g/cm³)	1,21-1,25		propriedades padrão de starch/Polyester blend na planilha
+SRR10076487	PRJNA564156	BDM09160032BF	HARDNESS	Hard		propriedades padrão de starch/Polyester blend na planilha
+SRR10076487	PRJNA564156	BDM09160032BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076487	PRJNA564156	BDM09160032BF	POLYMER_TYPE	PLA	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076486	PRJNA564156	BDM09160033BF	BIODEGRADABLE	Biodegradable		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	CHEMICAL_COMPOSITION	Polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	DEGRADABILITY_RATE	Relatively fast		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	DENSITY_(g/cm³)	1,21-1,25		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	HARDNESS	Hard		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	PLASTIC_GROUPPING	Biodegradable_polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076486	PRJNA564156	BDM09160033BF	POLYMER_TYPE	PLA	NONE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076485	PRJNA564156	BDM09160034BF	CHEMICAL_COMPOSITION	Polyester	Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	DEGRADABILITY_RATE	Relatively fast	Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	DENSITY_(g/cm³)	1,21-1,25	1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	HARDNESS	Hard	Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵		propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de PLA/PBAT na planilha
+SRR10076485	PRJNA564156	BDM09160034BF	POLYMER_TYPE	PLA	PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076484	PRJNA564156	BDM09160035BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	CHEMICAL_COMPOSITION	Polyester	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	DEGRADABILITY_RATE	Relatively fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	DENSITY_(g/cm³)	1,21-1,25	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	HARDNESS	Hard	Semi-rigid	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	PLASTIC_GROUPPING	Biodegradable_polyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076484	PRJNA564156	BDM09160035BF	POLYMER_TYPE	PLA	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076483	PRJNA564156	BDM09160036BF	CHEMICAL_COMPOSITION	Polyester	Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076483	PRJNA564156	BDM09160036BF	DEGRADABILITY_RATE	Relatively fast	Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076483	PRJNA564156	BDM09160036BF	DENSITY_(g/cm³)	1,21-1,25	1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076483	PRJNA564156	BDM09160036BF	HARDNESS	Hard	Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076483	PRJNA564156	BDM09160036BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵	5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076483	PRJNA564156	BDM09160036BF	POLYMER_TYPE	PLA	PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076482	PRJNA564156	BDM09160037BF	BIODEGRADABLE	Biodegradable		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	CHEMICAL_COMPOSITION	Polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	DEGRADABILITY_RATE	Relatively fast		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	DENSITY_(g/cm³)	1,21-1,25		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	HARDNESS	Hard		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	PLASTIC_GROUPPING	Biodegradable_polyester		NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) (controle: sem propriedades de polímero)
+SRR10076482	PRJNA564156	BDM09160037BF	POLYMER_TYPE	PLA	NONE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076481	PRJNA564156	BDM09160038BF	CHEMICAL_COMPOSITION	Polyester		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	DEGRADABILITY_RATE	Relatively fast		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	DENSITY_(g/cm³)	1,21-1,25		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	HARDNESS	Hard		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	PLASTIC_GROUPPING	Biodegradable_polyester	Non-plastic (paper)	papel de celulose
+SRR10076481	PRJNA564156	BDM09160038BF	POLYMER_SIZE	48		papel de celulose: propriedades de plástico não se aplicam
+SRR10076481	PRJNA564156	BDM09160038BF	POLYMER_TYPE	PLA	Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076480	PRJNA564156	BDM09160039BF	CHEMICAL_COMPOSITION	Polyester	Copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	DEGRADABILITY_RATE	Relatively fast	Fast	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	DENSITY_(g/cm³)	1,21-1,25	1,18–1,26	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	HARDNESS	Hard	Soft	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	MOLECULAR_WEIGHT_(g/mol)	6 x 10⁴ – 2 x 10⁵	10⁵	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	PLASTIC_GROUPPING	Biodegradable_polyester	Biodegradable_copolyester	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de starch/PBAT na planilha
+SRR10076480	PRJNA564156	BDM09160039BF	POLYMER_TYPE	PLA	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076479	PRJNA564156	BDM09160040BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	DEGRADABILITY_RATE	Fast	Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	DENSITY_(g/cm³)	1,18–1,26	1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de PLA/PBAT na planilha
+SRR10076479	PRJNA564156	BDM09160040BF	POLYMER_TYPE	PBAT	PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076478	PRJNA564156	BDM09160041BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	DEGRADABILITY_RATE	Fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	DENSITY_(g/cm³)	1,18–1,26		propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	HARDNESS	Soft		propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de starch/Polyester blend na planilha
+SRR10076478	PRJNA564156	BDM09160041BF	POLYMER_TYPE	PBAT	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076476	PRJNA564156	BDM09160042BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	CHEMICAL_COMPOSITION	Copolyester	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	DEGRADABILITY_RATE	Fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	DENSITY_(g/cm³)	1,18–1,26	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	MOLECULAR_WEIGHT_(g/mol)	10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de PE na planilha
+SRR10076476	PRJNA564156	BDM09160042BF	POLYMER_TYPE	PBAT	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076475	PRJNA564156	BDM09160043BF	CHEMICAL_COMPOSITION	Copolyester	Polyester Blend	propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	DEGRADABILITY_RATE	Fast		propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	DENSITY_(g/cm³)	1,18–1,26		propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	HARDNESS	Soft		propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de starch/Polyester blend na planilha
+SRR10076475	PRJNA564156	BDM09160043BF	POLYMER_TYPE	PBAT	starch/Polyester blend	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076474	PRJNA564156	BDM09160044BF	CHEMICAL_COMPOSITION	Copolyester		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	DEGRADABILITY_RATE	Fast		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	DENSITY_(g/cm³)	1,18–1,26		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	HARDNESS	Soft		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	MOLECULAR_WEIGHT_(g/mol)	10⁵		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Non-plastic (paper)	papel de celulose
+SRR10076474	PRJNA564156	BDM09160044BF	POLYMER_AROMATIC_RINGS	1.0		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	POLYMER_SIZE	20		papel de celulose: propriedades de plástico não se aplicam
+SRR10076474	PRJNA564156	BDM09160044BF	POLYMER_TYPE	PBAT	Cellulose paper	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas) — WeedGuardPlus é mulch de papel (não é plástico)
+SRR10076473	PRJNA564156	BDM09160045BF	BIODEGRADABLE	Biodegradable	NO_BIODEGRADABLE	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	CHEMICAL_COMPOSITION	Copolyester	–CH₂–CH₂–	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	DEGRADABILITY_RATE	Fast	Extremely Low	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	DENSITY_(g/cm³)	1,18–1,26	0,94-0,97	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	HARDNESS	Soft	Semi-rigid	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	MOLECULAR_WEIGHT_(g/mol)	10⁵	10⁴ – 10⁶	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	PLASTIC_GROUPPING	Biodegradable_copolyester	Thermoplastic	propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	POLYMER_AROMATIC_RINGS	1.0		propriedades padrão de PE na planilha
+SRR10076473	PRJNA564156	BDM09160045BF	POLYMER_TYPE	PBAT	PE	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076472	PRJNA564156	BDM09160046BF	POLYMER_TYPE	PBAT	starch/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076471	PRJNA564156	BDM09160047BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	DENSITY_(g/cm³)		1,20-1,26	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	MOLECULAR_WEIGHT_(g/mol)		5 x 10⁴ – 2.5 x 10⁵	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PHA na planilha
+SRR10076471	PRJNA564156	BDM09160047BF	POLYMER_TYPE		PLA/PHA	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR10076469	PRJNA564156	BDM09160049BF	BIODEGRADABLE		Biodegradable	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	CHEMICAL_COMPOSITION		Polyester Blend	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	DEGRADABILITY_RATE		Moderate to Fast	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	DENSITY_(g/cm³)		1.24	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	HARDNESS		Semi-rigid	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	POLYMER_AROMATIC_RINGS		1.0	propriedades padrão de PLA/PBAT na planilha
+SRR10076469	PRJNA564156	BDM09160049BF	POLYMER_TYPE		PLA/PBAT	NCBI BioSample (título = tratamento; parcela mantém o mesmo tratamento nas 4 coletas)
+SRR11852015	PRJNA630025	P13_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852014	PRJNA630025	P14_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852033	PRJNA630025	P15_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852013	PRJNA630025	P15_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852012	PRJNA630025	P16_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852011	PRJNA630025	P17_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852000	PRJNA630025	P18_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852002	PRJNA630025	S16_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852001	PRJNA630025	S17_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851999	PRJNA630025	S18_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851998	PRJNA630025	S19_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851997	PRJNA630025	S20_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852034	PRJNA630025	VPI11_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852032	PRJNA630025	VPI12_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852031	PRJNA630025	VPI13_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852030	PRJNA630025	VPI14_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852029	PRJNA630025	VPI15_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851984	PRJNA630025	VPI29_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851983	PRJNA630025	VPI30_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851982	PRJNA630025	VPI31_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851981	PRJNA630025	VPI32_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851980	PRJNA630025	VPI33_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11851979	PRJNA630025	VPI34_fung	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11852016	PRJNA630025	VPI36_bac	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR11748993	PRJNA631499	BDM07160001PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11748993	PRJNA631499	BDM07160001PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11748992	PRJNA631499	BDM07160002PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11748992	PRJNA631499	BDM07160002PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749132	PRJNA631499	BDM07160003PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749132	PRJNA631499	BDM07160003PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749131	PRJNA631499	BDM07160004PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749131	PRJNA631499	BDM07160004PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749130	PRJNA631499	BDM07160005PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749130	PRJNA631499	BDM07160005PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749129	PRJNA631499	BDM07160006PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749129	PRJNA631499	BDM07160006PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749128	PRJNA631499	BDM07160007PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749128	PRJNA631499	BDM07160007PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749127	PRJNA631499	BDM07160008PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749127	PRJNA631499	BDM07160008PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749126	PRJNA631499	BDM07160009PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749126	PRJNA631499	BDM07160009PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749125	PRJNA631499	BDM07160010PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749125	PRJNA631499	BDM07160010PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749124	PRJNA631499	BDM07160011PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749124	PRJNA631499	BDM07160011PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749123	PRJNA631499	BDM07160012PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749123	PRJNA631499	BDM07160012PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749121	PRJNA631499	BDM07160013PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749121	PRJNA631499	BDM07160013PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749120	PRJNA631499	BDM07160014PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749120	PRJNA631499	BDM07160014PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749119	PRJNA631499	BDM07160015PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749119	PRJNA631499	BDM07160015PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749118	PRJNA631499	BDM07160016PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749118	PRJNA631499	BDM07160016PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749117	PRJNA631499	BDM07160017PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749117	PRJNA631499	BDM07160017PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749116	PRJNA631499	BDM07160018PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749116	PRJNA631499	BDM07160018PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749115	PRJNA631499	BDM07160019PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749115	PRJNA631499	BDM07160019PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749115	PRJNA631499	BDM07160019PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749115	PRJNA631499	BDM07160019PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749114	PRJNA631499	BDM07160020PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749114	PRJNA631499	BDM07160020PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749114	PRJNA631499	BDM07160020PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749114	PRJNA631499	BDM07160020PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749113	PRJNA631499	BDM07160021PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749113	PRJNA631499	BDM07160021PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749113	PRJNA631499	BDM07160021PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749113	PRJNA631499	BDM07160021PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749112	PRJNA631499	BDM07160022PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749112	PRJNA631499	BDM07160022PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749112	PRJNA631499	BDM07160022PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749112	PRJNA631499	BDM07160022PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749110	PRJNA631499	BDM07160023PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749110	PRJNA631499	BDM07160023PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749110	PRJNA631499	BDM07160023PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749110	PRJNA631499	BDM07160023PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749109	PRJNA631499	BDM07160024PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749109	PRJNA631499	BDM07160024PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749109	PRJNA631499	BDM07160024PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749109	PRJNA631499	BDM07160024PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749108	PRJNA631499	BDM07160025PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749108	PRJNA631499	BDM07160025PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749107	PRJNA631499	BDM07160026PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749107	PRJNA631499	BDM07160026PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749106	PRJNA631499	BDM07160027PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749106	PRJNA631499	BDM07160027PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749105	PRJNA631499	BDM07160028PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749105	PRJNA631499	BDM07160028PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749104	PRJNA631499	BDM07160029PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749104	PRJNA631499	BDM07160029PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749103	PRJNA631499	BDM07160030PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749103	PRJNA631499	BDM07160030PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749102	PRJNA631499	BDM07160031PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749102	PRJNA631499	BDM07160031PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749101	PRJNA631499	BDM07160032PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749101	PRJNA631499	BDM07160032PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749099	PRJNA631499	BDM07160033PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749099	PRJNA631499	BDM07160033PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749098	PRJNA631499	BDM07160034PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749098	PRJNA631499	BDM07160034PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749097	PRJNA631499	BDM07160035PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749097	PRJNA631499	BDM07160035PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749096	PRJNA631499	BDM07160036PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749096	PRJNA631499	BDM07160036PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749095	PRJNA631499	BDM07160037PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749095	PRJNA631499	BDM07160037PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749094	PRJNA631499	BDM07160038PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749094	PRJNA631499	BDM07160038PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749093	PRJNA631499	BDM07160039PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749093	PRJNA631499	BDM07160039PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749092	PRJNA631499	BDM07160040PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749092	PRJNA631499	BDM07160040PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749091	PRJNA631499	BDM07160041PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749091	PRJNA631499	BDM07160041PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749090	PRJNA631499	BDM07160042PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749090	PRJNA631499	BDM07160042PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749088	PRJNA631499	BDM07160043PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749088	PRJNA631499	BDM07160043PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749088	PRJNA631499	BDM07160043PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749088	PRJNA631499	BDM07160043PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749087	PRJNA631499	BDM07160044PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749087	PRJNA631499	BDM07160044PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749087	PRJNA631499	BDM07160044PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749087	PRJNA631499	BDM07160044PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749086	PRJNA631499	BDM07160045PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749086	PRJNA631499	BDM07160045PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749086	PRJNA631499	BDM07160045PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749086	PRJNA631499	BDM07160045PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749085	PRJNA631499	BDM07160046PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749085	PRJNA631499	BDM07160046PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749085	PRJNA631499	BDM07160046PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749085	PRJNA631499	BDM07160046PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749084	PRJNA631499	BDM07160047PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749084	PRJNA631499	BDM07160047PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749084	PRJNA631499	BDM07160047PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749084	PRJNA631499	BDM07160047PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749083	PRJNA631499	BDM07160048PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749083	PRJNA631499	BDM07160048PL	CLIMATE		Humid subtropical	NCBI geo_loc_name (Knoxville-TN = subtropical úmido; Mount Vernon-WA = mediterrâneo)
+SRR11749083	PRJNA631499	BDM07160048PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749083	PRJNA631499	BDM07160048PL	SOIL_FRACTION	Plastosphere	Enrichment_culture	"NCBI isolation_source = ""enrichment culture"""
+SRR11749013	PRJNA631499	BDM09160004PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749013	PRJNA631499	BDM09160004PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749076	PRJNA631499	BDM09160011PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749076	PRJNA631499	BDM09160011PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749054	PRJNA631499	BDM09160013PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749054	PRJNA631499	BDM09160013PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749020	PRJNA631499	BDM09160024PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749020	PRJNA631499	BDM09160024PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749016	PRJNA631499	BDM09160028PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749016	PRJNA631499	BDM09160028PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749008	PRJNA631499	BDM09160035PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749008	PRJNA631499	BDM09160035PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11749006	PRJNA631499	BDM09160037PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11749006	PRJNA631499	BDM09160037PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR11748994	PRJNA631499	BDM09160048PL	BIODEGRADABLE		Biodegradable	propriedades padrão de starch/Polyester blend na planilha
+SRR11748994	PRJNA631499	BDM09160048PL	PLASTIC_GROUPPING		Biodegradable_polyester	propriedades padrão de starch/Polyester blend na planilha
+SRR15247080	PRJNA702448	ControlS1	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247080	PRJNA702448	ControlS1	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247080	PRJNA702448	ControlS1	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247078	PRJNA702448	ControlS2	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247078	PRJNA702448	ControlS2	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247078	PRJNA702448	ControlS2	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247077	PRJNA702448	ControlS3	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247077	PRJNA702448	ControlS3	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247077	PRJNA702448	ControlS3	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247076	PRJNA702448	ControlS4	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247076	PRJNA702448	ControlS4	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247076	PRJNA702448	ControlS4	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247079	PRJNA702448	ControlS5	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247079	PRJNA702448	ControlS5	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247079	PRJNA702448	ControlS5	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247064	PRJNA702448	ControlSN1	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247064	PRJNA702448	ControlSN1	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247062	PRJNA702448	ControlSN2	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247062	PRJNA702448	ControlSN2	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247061	PRJNA702448	ControlSN3	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247061	PRJNA702448	ControlSN3	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247060	PRJNA702448	ControlSN4	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247060	PRJNA702448	ControlSN4	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247059	PRJNA702448	ControlSN5	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247059	PRJNA702448	ControlSN5	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247081	PRJNA702448	Initial_soil	BIODEGRADABLE	Biodegradable		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	CHEMICAL_COMPOSITION	Copolymer of butylene succinate and butylene adipate		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	DEGRADABILITY_RATE	Fast		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	DENSITY_(g/cm³)	1,23–1,24		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247081	PRJNA702448	Initial_soil	HARDNESS	Semi-rigid		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	MOLECULAR_WEIGHT_(g/mol)	10⁴		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	PLASTIC_GROUPPING	Biodegradable_copolyester		NCBI BioSample (isolation_source / env_local_scale): sem PBSA (controle: sem propriedades de polímero)
+SRR15247081	PRJNA702448	Initial_soil	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247083	PRJNA702448	P_PS1	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247083	PRJNA702448	P_PS1	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247082	PRJNA702448	P_PS2	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247082	PRJNA702448	P_PS2	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247070	PRJNA702448	P_PS3	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247070	PRJNA702448	P_PS3	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247063	PRJNA702448	P_PS4	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247063	PRJNA702448	P_PS4	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247058	PRJNA702448	P_PS5	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247058	PRJNA702448	P_PS5	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247057	PRJNA702448	P_PSN1	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247056	PRJNA702448	P_PSN2	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247055	PRJNA702448	P_PSN3	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247054	PRJNA702448	P_PSN4	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247053	PRJNA702448	P_PSN5	SOIL_FRACTION		Plastosphere	NCBI BioSample (isolation_source / env_local_scale): PBSA_plastic = plastisfera
+SRR15247075	PRJNA702448	S_PS1	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247075	PRJNA702448	S_PS1	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247075	PRJNA702448	S_PS1	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247074	PRJNA702448	S_PS2	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247074	PRJNA702448	S_PS2	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247074	PRJNA702448	S_PS2	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247073	PRJNA702448	S_PS3	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247073	PRJNA702448	S_PS3	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247073	PRJNA702448	S_PS3	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247072	PRJNA702448	S_PS4	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247072	PRJNA702448	S_PS4	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247072	PRJNA702448	S_PS4	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247069	PRJNA702448	S_PS5	FERTILIZATION	Chemical		"NCBI BioSample (isolation_source / env_local_scale): só tratamentos ""N fertilization"" receberam N"
+SRR15247069	PRJNA702448	S_PS5	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247069	PRJNA702448	S_PS5	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247068	PRJNA702448	S_PSN1	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247068	PRJNA702448	S_PSN1	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247071	PRJNA702448	S_PSN2	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247071	PRJNA702448	S_PSN2	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247067	PRJNA702448	S_PSN3	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247067	PRJNA702448	S_PSN3	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247066	PRJNA702448	S_PSN4	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247066	PRJNA702448	S_PSN4	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR15247065	PRJNA702448	S_PSN5	POLYMER_TYPE		PBSA	NCBI BioSample (isolation_source / env_local_scale): tratamento com PBSA
+SRR15247065	PRJNA702448	S_PSN5	SOIL_FRACTION		Bulk	NCBI BioSample (isolation_source / env_local_scale): soil
+SRR23373548	PRJNA932786	5b	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR23373547	PRJNA932786	6b	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR23373546	PRJNA932786	7b	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)
+SRR23373545	PRJNA932786	8b	DENSITY_(g/cm³)	0,94-0,167	0,94-0,97	erro de digitação (densidade do PE = 0,94–0,97 g/cm³)

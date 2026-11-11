@@ -47,3 +47,22 @@ Thumbs.db
 # Python virtual environment
 pipeline/venv/
 .mcp.json
+
+# ── Artigos e material suplementar (PDFs/vídeos de editoras: grandes e com direitos autorais) ──
+artigos/
+*.mp4
+*.zip
+!dashboard/*.zip
+
+# ── Tabelas grandes de resultados (>10 MB; GitHub recusa arquivos >100 MB) ──────
+# Compartilhar por outro meio (Drive/Zenodo) ou Git LFS.
+results/conjunto_alex/asv_table.tsv
+results/conjunto_alex/repseqs.fasta
+results/**/exports/feature-table.tsv
+results/**/exports/sequences.fasta
+results/**/exports/taxonomy.tsv
+
+# ── Análises: ambiente virtual e versões antigas ────────────────────────────────
+analise_setembro/.venv/
+analise_setembro/versoes_anteriores/
+**/.ipynb_checkpoints/

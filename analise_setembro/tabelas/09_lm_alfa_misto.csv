@@ -1,0 +1,17 @@
+metrica,termo,coef_DP,IC95_inf,IC95_sup,p
+Riqueza,CLASSE[T.Biodegradável],-0.1993,-0.3444,-0.0541,0.0071
+Riqueza,CLASSE[T.Não biodegradável],-0.1589,-0.3171,-0.0007,0.049
+Riqueza,CLASSE[T.Biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.3961,0.028,0.7642,0.0349
+Riqueza,CLASSE[T.Não biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.247,-0.1629,0.6569,0.2375
+Shannon,CLASSE[T.Biodegradável],-0.4146,-0.5894,-0.2398,0.0
+Shannon,CLASSE[T.Não biodegradável],-0.2255,-0.416,-0.0351,0.0203
+Shannon,CLASSE[T.Biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.5696,0.1263,1.0128,0.0118
+Shannon,CLASSE[T.Não biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.3171,-0.1764,0.8107,0.2079
+FaithPD,CLASSE[T.Biodegradável],-0.2116,-0.3774,-0.0458,0.0124
+FaithPD,CLASSE[T.Não biodegradável],-0.1698,-0.3505,0.0109,0.0655
+FaithPD,CLASSE[T.Biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.4799,0.0594,0.9003,0.0253
+FaithPD,CLASSE[T.Não biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.2707,-0.1975,0.7389,0.2571
+Pielou,CLASSE[T.Biodegradável],-0.4368,-0.6487,-0.2248,0.0001
+Pielou,CLASSE[T.Não biodegradável],-0.2254,-0.4562,0.0055,0.0557
+Pielou,CLASSE[T.Biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.5584,0.0209,1.0959,0.0417
+Pielou,CLASSE[T.Não biodegradável]:SOIL_FRACTION[T.Rhizosphere],0.3187,-0.2796,0.9171,0.2965

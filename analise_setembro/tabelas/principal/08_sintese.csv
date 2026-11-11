@@ -1,0 +1,15 @@
+variavel,tipo,confusao_projeto,diagnostico,Shannon_misto_p,Riqueza_misto_p,R2_global,p_global,R2_dentro_projeto,p_dentro_projeto,PERMDISP_p,envfit_r2,projetos_com_variacao,veredito
+SOIL_FRACTION,categórica,0.737,fortemente confundida,0.0,0.0,0.2505,0.001,0.0836,0.001,0.0,,5,efeito validado dentro do projeto
+POLYMER_TYPE,categórica,0.6059,fortemente confundida,0.0,0.0,0.2708,0.001,0.0336,0.001,0.0,,9,efeito validado dentro do projeto
+BIODEGRADABLE,categórica,0.3862,separável,0.0001,0.02,0.0537,0.001,0.0054,0.001,0.0,,9,"efeito pequeno, mas consistente"
+POLYMER_SIZE,categórica,0.8054,fortemente confundida,0.0,0.0,0.3843,0.001,0.0269,0.001,0.0,,8,efeito validado dentro do projeto
+DENSITY_(g/cm³),numérica,0.2809,separável,0.2235,0.4098,0.0388,0.001,0.0021,0.009,,0.1664,8,efeito pequeno; densidade é propriedade do polímero (equivale a POLYMER_TYPE)
+SOC(g/kg),numérica,0.7909,fortemente confundida,0.0733,0.0006,0.1423,0.001,0.0254,0.001,,0.4316,3,"varia dentro de 3 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+TN(g/kg),numérica,0.5776,separável,0.0,0.0,0.0733,0.001,0.0245,0.001,,0.1939,3,"varia dentro de 3 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+C/N,numérica,0.9854,quase totalmente confundida,0.6075,0.474,0.1901,0.001,0.002,0.001,,0.4652,1,"varia dentro de 1 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+pH,numérica,0.9663,quase totalmente confundida,0.0,0.2028,0.1166,0.001,0.0242,0.001,,0.3005,5,"varia dentro de 5 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+DOC(mg/kg),numérica,0.9992,quase totalmente confundida,0.4878,0.5206,0.2891,0.001,0.0031,0.001,,0.0907,1,"varia dentro de 1 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+NH4(mg/kg),numérica,0.4308,separável,0.5037,0.3208,0.0982,0.001,0.0028,0.001,,0.2097,2,"varia dentro de 2 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+NO3(mg/kg),numérica,0.2076,separável,0.2291,0.2053,0.0408,0.001,0.0046,0.001,,0.0112,2,"varia dentro de 2 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+AP(mg/kg),numérica,0.8911,fortemente confundida,0.0002,0.0454,0.12,0.001,0.0043,0.007,,0.1585,2,"varia dentro de 2 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"
+AK(mg/kg),numérica,0.9602,quase totalmente confundida,0.5356,0.471,0.105,0.001,0.0014,0.001,,0.0114,1,"varia dentro de 1 projeto(s), mas como média por sítio ou tratamento (não medida por amostra) → confundida com sítio/tratamento"

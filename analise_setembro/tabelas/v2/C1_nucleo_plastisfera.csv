@@ -1,0 +1,70 @@
+LABEL,n_desenhos_up,n_desenhos_down,dCLR_medio,Phylum,Family
+Dyadobacter,3,0,5.37,Bacteroidota,Spirosomaceae
+Stenotrophomonas,4,0,4.93,Proteobacteria,Xanthomonadaceae
+Neorhizobium,3,0,4.78,Proteobacteria,Rhizobiaceae
+Pseudorhodoferax,3,0,4.61,Proteobacteria,Comamonadaceae
+Rhodococcus,4,0,4.14,Actinobacteriota,Nocardiaceae
+Roseomonas,3,0,3.87,Proteobacteria,Acetobacteraceae
+Brevundimonas,3,0,3.77,Proteobacteria,Caulobacteraceae
+Enterobacterales (NC),3,0,3.74,Proteobacteria,
+Microbacteriaceae (NC),3,0,3.55,Actinobacteriota,Microbacteriaceae
+Alcaligenaceae (NC),4,0,3.46,Proteobacteria,Alcaligenaceae
+Pseudomonas,3,0,3.28,Proteobacteria,Pseudomonadaceae
+Bosea,3,0,3.28,Proteobacteria,Beijerinckiaceae
+Caulobacter,3,0,2.54,Proteobacteria,Caulobacteraceae
+Aeromicrobium,3,0,2.3,Actinobacteriota,Nocardioidaceae
+Flavobacterium,3,0,1.82,Bacteroidota,Flavobacteriaceae
+Rhizobiaceae (NC),3,0,1.73,Proteobacteria,Rhizobiaceae
+Taibaiella,3,0,1.11,Bacteroidota,Chitinophagaceae
+Rokubacteriales,0,4,-3.61,Methylomirabilota,Rokubacteriales
+Steroidobacteraceae (NC),0,4,-3.22,Proteobacteria,Steroidobacteraceae
+Latescibacterota,0,3,-3.08,Latescibacterota,Latescibacterota
+MND1,0,3,-3.08,Proteobacteria,Nitrosomonadaceae
+11-24,0,3,-2.92,Acidobacteriota,11-24
+Vicinamibacteraceae,0,4,-2.91,Acidobacteriota,Vicinamibacteraceae
+MB-A2-108,0,4,-2.83,Actinobacteriota,MB-A2-108
+RB41,0,4,-2.55,Acidobacteriota,Pyrinomonadaceae
+Planctomycetota (NC),0,3,-2.53,Planctomycetota,
+Anaerolineae (NC),0,3,-2.51,Chloroflexi,
+JG30-KF-CM66,0,3,-2.51,Chloroflexi,JG30-KF-CM66
+Nordella,0,4,-2.51,Proteobacteria,Rhizobiales_Incertae_Sedis
+SC-I-84,0,4,-2.49,Proteobacteria,SC-I-84
+Candidatus_Udaeobacter,0,4,-2.45,Verrucomicrobiota,Chthoniobacteraceae
+Rhizobiales (NC),0,4,-2.39,Proteobacteria,
+ADurb.Bin063-1,0,3,-2.39,Verrucomicrobiota,Pedosphaeraceae
+Hyphomicrobium,0,3,-2.34,Proteobacteria,Hyphomicrobiaceae
+Reyranella,0,4,-2.31,Proteobacteria,Reyranellaceae
+Chthonomonadales,0,3,-2.3,Armatimonadota,Chthonomonadales
+Nitrospira,0,3,-2.2,Nitrospirota,Nitrospiraceae
+Pedomicrobium,0,4,-2.14,Proteobacteria,Hyphomicrobiaceae
+Gaiella,0,4,-2.09,Actinobacteriota,Gaiellaceae
+Rhodoplanes,0,3,-2.09,Proteobacteria,Xanthobacteraceae
+Subgroup_25,0,3,-2.07,Acidobacteriota,Subgroup_25
+Subgroup_7,0,4,-2.07,Acidobacteriota,Subgroup_7
+NB1-j,0,3,-2.05,NB1-j,NB1-j
+Ellin6067,0,3,-2.04,Proteobacteria,Nitrosomonadaceae
+Candidatus_Koribacter,0,3,-2.04,Acidobacteriota,Koribacteraceae
+CCD24,0,3,-2.03,Proteobacteria,CCD24
+S085,0,3,-2.0,Chloroflexi,S085
+OLB14,0,3,-1.94,Chloroflexi,OLB14
+Nonomuraea,0,3,-1.91,Actinobacteriota,Streptosporangiaceae
+Gemmatimonadaceae (NC),0,4,-1.86,Gemmatimonadota,Gemmatimonadaceae
+Solirubrobacterales (NC),0,3,-1.85,Actinobacteriota,
+Haliangium,0,3,-1.83,Myxococcota,Haliangiaceae
+Gemmatimonas,0,4,-1.8,Gemmatimonadota,Gemmatimonadaceae
+KD4-96,0,4,-1.75,Chloroflexi,KD4-96
+TRA3-20,0,3,-1.73,Proteobacteria,TRA3-20
+Bryobacter,0,4,-1.68,Acidobacteriota,Bryobacteraceae
+Pedosphaeraceae,0,3,-1.49,Verrucomicrobiota,Pedosphaeraceae
+IMCC26256,0,3,-1.49,Actinobacteriota,IMCC26256
+KF-JG30-B3,0,3,-1.48,Proteobacteria,KF-JG30-B3
+uncultured,0,4,-1.46,Myxococcota,Myxococcaceae
+Beijerinckiaceae (NC),0,3,-1.46,Proteobacteria,Beijerinckiaceae
+Gaiellales (NC),0,3,-1.44,Actinobacteriota,
+WD2101_soil_group,0,4,-1.36,Planctomycetota,WD2101_soil_group
+Actinobacteriota (NC),0,3,-1.35,Actinobacteriota,
+Gitt-GS-136,0,3,-1.27,Chloroflexi,Gitt-GS-136
+Blastocatellaceae (NC),0,3,-1.2,Acidobacteriota,Blastocatellaceae
+Flavisolibacter,0,3,-1.17,Bacteroidota,Chitinophagaceae
+Chthoniobacter,0,3,-1.02,Verrucomicrobiota,Chthoniobacteraceae
+Acidimicrobiia (NC),0,3,-0.97,Actinobacteriota,

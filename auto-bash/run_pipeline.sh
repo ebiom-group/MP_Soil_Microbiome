@@ -528,6 +528,30 @@ _demux_summary() {
 }
 _step_should_run "03b_demux_summary" && run_step "03b_demux_summary" _demux_summary
 
+_cutadapt() {
+    conda activate qiime2-amplicon-2026.4
+    if [ "${SEQ_MODE}" = "paired" ]; then
+        qiime cutadapt trim-paired \
+            --i-demultiplexed-sequences "${OUTDIR}/qza/demux.qza" \
+            --p-front-f "${ADAPT_F}" \
+            --p-front-r "${ADAPT_R}" \
+            --p-error-rate 0.1 \
+            --p-discard-untrimmed \
+            --p-cores 8 \
+            --verbose \
+            --o-trimmed-sequences "${OUTDIR}/qza/demux.qza"
+    else
+        qiime cutadapt trim-single \
+            --i-demultiplexed-sequences "${OUTDIR}/qza/demux.qza" \
+            --p-front "${ADAPT_F}" \
+            --p-error-rate 0.1 \
+            --p-discard-untrimmed \
+            --p-cores 8 \
+            --verbose \
+            --o-trimmed-sequences "${OUTDIR}/qza/demux.qza"
+    fi
+}
+
 # ── PASSO 4: DADA2 ───────────────────────────────────────────────────────────
 _dada2() {
     conda activate qiime2-amplicon-2026.4

@@ -1,0 +1,10 @@
+BIOPROJECT,n,regiao,pais,experimento,fracoes,polimeros,PLATFORM,PRIMERS,FORMAT,SIZE
+PRJEB59875,25,V3-V4,Italy,In_situ,Rhizosphere,"Controle:10, starch/PBAT:10, HDPE:5",Illumina MiSeq,341F_785R,Plastic bag,25cm2
+PRJNA1021161,111,V3-V4,China,Ex_situ,Bulk,"PE:72, PLA:24, Controle:15",Illumina Novaseq,341F_806R,Particle,75uM
+PRJNA1054347,36,V3-V4,China,In_situ,"Bulk, Rhizosphere","PE:12, Controle:12, PBAT:12",Illumina Novaseq,338F_806R,Film,100cm - wide; 0.01mm thick
+PRJNA1155845,24,V4,China,Ex_situ,Bulk,"PET:8, PLA:8, Controle:8",Illumina MiSeq,515F_806R,Particle,30uM
+PRJNA564156,168,V4,USA,In_situ,Bulk,"Papel:24, starch/Polyester blend:24, PE:24, PLA/PBAT:24, starch/PBAT:24, Controle:24, PLA/PHA:24",Illumina MiSeq,515F_806R,Film,
+PRJNA630025,36,V3-V4,Switzerland,Ex_situ,"Bulk, Plastosphere","PBAT:14, PLA:13, PE:9",Illumina MiSeq,27F_907R,Film ,4 × 4 cm
+PRJNA631499,40,V4,USA,In_situ,Plastosphere,"PE:8, starch/Polyester blend:8, PLA/PBAT:8, PLA/PHA:8, starch/PBAT:8",Illumina MiSeq,515F_806R,Film,
+PRJNA702448,31,V3-V4,Germany,Ex_situ,"Bulk, Plastosphere","PBSA:20, Controle:11",Illumina MiSeq,515F_806R,Film,2–5 mm × 2–5 mm
+PRJNA932786,12,V4,USA,Ex_situ,Bulk,"Controle:4, PE:4, PBAT:4",Illumina MiSeq,515F_806R,Particle,250uM

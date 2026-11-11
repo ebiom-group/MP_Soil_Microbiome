@@ -1,0 +1,15 @@
+variavel,tipo,n,associacao_com_projeto,metrica,projetos_com_variacao,diagnostico
+POLYMER_TYPE,categórica,483,0.606,V de Cramér,9,fortemente confundida
+POLYMER_SIZE,categórica,483,0.805,V de Cramér,8,fortemente confundida
+BIODEGRADABLE,categórica,483,0.386,V de Cramér,9,separável
+SOIL_FRACTION,categórica,553,0.737,V de Cramér,5,fortemente confundida
+DENSITY_(g/cm³),numérica,343,0.281,η² entre projetos,8,separável
+SOC(g/kg),numérica,354,0.791,η² entre projetos,3,fortemente confundida
+TN(g/kg),numérica,317,0.578,η² entre projetos,3,separável
+C/N,numérica,300,0.985,η² entre projetos,1,quase totalmente confundida
+pH,numérica,459,0.966,η² entre projetos,5,quase totalmente confundida
+DOC(mg/kg),numérica,140,0.999,η² entre projetos,1,quase totalmente confundida
+NH4(mg/kg),numérica,164,0.431,η² entre projetos,2,separável
+NO3(mg/kg),numérica,164,0.208,η² entre projetos,2,separável
+AP(mg/kg),numérica,275,0.891,η² entre projetos,2,fortemente confundida
+AK(mg/kg),numérica,251,0.96,η² entre projetos,1,quase totalmente confundida
